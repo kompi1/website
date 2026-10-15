@@ -6,6 +6,6 @@ import { defineConfig } from 'astro/config';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://kompi1.github.io/website',
+	site: 'https://SpaceNews.biz.id',
 	integrations: [mdx(), sitemap()],
 });
