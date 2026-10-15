@@ -1,0 +1,52 @@
+# Decap CMS configuration
+# Docs: https://decapcms.org/docs/configuration-options/
+
+backend:
+  name: github
+  # Set after creating the repo on GitHub:
+  repo: kompi1/website
+  branch: main
+  # TODO: for the /admin login to work on the live site you need a small OAuth
+  # server (GitHub does not allow the CMS to talk to it directly).
+  # Deploy e.g. https://github.com/decap-cms/decap-cms-github-oauth-provider
+  # (works on Netlify, Vercel, Cloudflare Workers...), then set:
+  # base_url: https://your-oauth-server.example.com
+  # auth_endpoint: /auth
+
+# Uncomment these two lines for LOCAL editing (run `npx decap-server`
+# in another terminal while `npm run dev` is running):
+# local_backend: true
+
+# Uploaded images are stored in src/assets so Astro can optimize them,
+# and referenced with a path relative to the markdown file.
+media_folder: "src/assets/uploads"
+public_folder: "../../assets/uploads"
+
+collections:
+  - name: "blog"
+    label: "Blog Posts"
+    folder: "src/content/blog"
+    create: true
+    delete: true
+    slug: "{{slug}}"
+    extension: "md"
+    format: "frontmatter"
+    summary: "{{title}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "text" }
+      - label: "Publish date"
+        name: "pubDate"
+        widget: "datetime"
+        format: "YYYY-MM-DD"
+        date_format: "YYYY-MM-DD"
+        time_format: false
+      - label: "Updated date"
+        name: "updatedDate"
+        widget: "datetime"
+        format: "YYYY-MM-DD"
+        date_format: "YYYY-MM-DD"
+        time_format: false
+        required: false
+      - { label: "Hero image", name: "heroImage", widget: "image", required: false }
+      - { label: "Body", name: "body", widget: "markdown" }
