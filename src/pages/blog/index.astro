@@ -1,5 +1,4 @@
 ---
-import { Image } from 'astro:assets';
 import { getCollection } from 'astro:content';
 import BaseHead from '../../components/BaseHead.astro';
 import Footer from '../../components/Footer.astro';
@@ -10,100 +9,113 @@ import { SITE_DESCRIPTION, SITE_TITLE } from '../../consts';
 const posts = (await getCollection('blog')).sort(
 	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
 );
+
+const img = (id: string, w = 600) =>
+	`https://images.unsplash.com/photo-${id}?q=80&w=${w}&auto=format&fit=crop`;
+const thumbs = [
+	img('1447433589675-4aaa569f3e05'),
+	img('1502134249126-9f3755a50d78'),
+	img('1459908676235-d5f02a50184b'),
+	img('1516849841032-87cbac4d88f7'),
+	img('1614313913007-2b4ae8ce32d6'),
+	img('1465101162946-4377e57745c3'),
+];
 ---
 
 <!doctype html>
 <html lang="en">
 	<head>
-		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+		<BaseHead title={`Blog — ${SITE_TITLE}`} description={SITE_DESCRIPTION} />
 		<style>
-			main {
-				width: 960px;
-			}
-			ul {
-				display: flex;
-				flex-wrap: wrap;
-				gap: 2rem;
-				list-style-type: none;
-				margin: 0;
-				padding: 0;
-			}
-			ul li {
-				width: calc(50% - 1rem);
-			}
-			ul li * {
-				text-decoration: none;
-				transition: 0.2s ease;
-			}
-			ul li:first-child {
-				width: 100%;
-				margin-bottom: 1rem;
+			.page-head {
 				text-align: center;
+				padding: 3.5em 1em 1em;
 			}
-			ul li:first-child img {
-				width: 100%;
+			.page-head h1 {
+				font-size: 2.8em;
+				margin-bottom: 0.3em;
 			}
-			ul li:first-child .title {
-				font-size: 2.369rem;
+			.page-head p {
+				font-size: 1.1rem;
 			}
-			ul li img {
-				margin-bottom: 0.5rem;
-				border-radius: 12px;
-			}
-			ul li a {
-				display: block;
-			}
-			.title {
+			.grid {
+				display: grid;
+				grid-template-columns: repeat(2, 1fr);
+				gap: 1.5rem;
+				list-style: none;
 				margin: 0;
-				color: rgb(var(--black));
-				line-height: 1;
+				padding: 2em 0 3em;
 			}
-			.date {
-				margin: 0;
-				color: rgb(var(--gray));
+			.grid .date {
+				font-size: 0.82rem;
+				color: var(--muted);
+				text-transform: uppercase;
+				letter-spacing: 0.1em;
+				margin-bottom: 0.5em;
 			}
-			ul li a:hover h4,
-			ul li a:hover .date {
-				color: rgb(var(--accent));
+			.grid h2 {
+				font-size: 1.45rem;
+				line-height: 1.3;
 			}
-			ul a:hover img {
-				box-shadow: var(--box-shadow);
+			.grid h2 a {
+				color: var(--text);
+			}
+			.grid h2 a:hover {
+				color: var(--accent);
+			}
+			.badge {
+				display: inline-block;
+				font-size: 0.75rem;
+				font-weight: 700;
+				letter-spacing: 0.12em;
+				text-transform: uppercase;
+				color: var(--accent);
+				border: 1px solid rgba(255, 176, 32, 0.4);
+				border-radius: 999px;
+				padding: 0.25em 0.9em;
+				margin-bottom: 0.9em;
 			}
 			@media (max-width: 720px) {
-				ul {
-					gap: 0.5em;
+				.grid {
+					grid-template-columns: 1fr;
 				}
-				ul li {
-					width: 100%;
-					text-align: center;
-				}
-				ul li:first-child {
-					margin-bottom: 0;
-				}
-				ul li:first-child .title {
-					font-size: 1.563em;
+				.page-head h1 {
+					font-size: 2.1em;
 				}
 			}
 		</style>
 	</head>
 	<body>
 		<Header />
-		<main>
+		<main style="width: 1020px;">
+			<div class="page-head">
+				<span class="eyebrow">Fresh Off the Press</span>
+				<h1>The <em>Blog</em></h1>
+				<p>All articles on space, missions, technology and cosmic discovery.</p>
+			</div>
 			<section>
-				<ul>
-					{posts.map((post) => (
-						<li>
-							<a href={`/blog/${post.id}/`}>
-								{post.data.heroImage && (
-									<Image width={720} height={360} src={post.data.heroImage} alt="" />
-								)}
-								<h4 class="title">{post.data.title}</h4>
-								<p class="date">
-									<FormattedDate date={post.data.pubDate} />
-								</p>
-							</a>
-						</li>
-					))}
+				<ul class="grid">
+					{
+						posts.map((post, i) => (
+							<li>
+								<article class="card">
+									<a href={`/blog/${post.id}/`} aria-label={post.data.title}>
+										<img src={thumbs[i % thumbs.length]} alt="" loading="lazy" />
+									</a>
+									<div class="card-body">
+										{post.data.category && <span class="badge">{post.data.category}</span>}
+										<div class="date">
+											<FormattedDate date={post.data.pubDate} />
+										</div>
+										<h2>
+											<a href={`/blog/${post.id}/`}>{post.data.title}</a>
+										</h2>
+										<p>{post.data.description}</p>
+									</div>
+								</article>
+							</li>
+						))
+					}
 				</ul>
 			</section>
 		</main>

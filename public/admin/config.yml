@@ -35,6 +35,11 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "text" }
+      - label: "Category"
+        name: "category"
+        widget: "select"
+        options: ["Missions", "Technology", "Astronomy", "Exploration"]
+        required: false
       - label: "Publish date"
         name: "pubDate"
         widget: "datetime"

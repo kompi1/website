@@ -1,5 +1,6 @@
 ---
 title: 'Second post'
+category: 'Technology'
 description: 'Lorem ipsum dolor sit amet'
 pubDate: 'Jul 15 2022'
 ---
