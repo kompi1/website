@@ -3,14 +3,14 @@
 // dimensions (no layout shift), async decoding.
 interface Props {
 	id: string; // Unsplash photo id, e.g. '1517976487492-5750f3195933'
-	size?: '800' | '1200';
+	size?: '700' | '1000';
 	alt?: string;
 	loading?: 'lazy' | 'eager';
 	fetchpriority?: 'high' | 'low' | 'auto';
 }
 
-const { id, size = '800', alt = '', loading = 'lazy', fetchpriority } = Astro.props;
-const dims = size === '1200' ? { w: 1200, h: 675 } : { w: 800, h: 450 };
+const { id, size = '700', alt = '', loading = 'lazy', fetchpriority } = Astro.props;
+const dims = size === '1000' ? { w: 1000, h: 563 } : { w: 700, h: 394 };
 ---
 
 <picture>
