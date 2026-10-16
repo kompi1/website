@@ -9,7 +9,11 @@ At 14:29 Central European Summer Time on Tuesday, August 18, two astronauts swit
 
 Adenot, a 44-year-old European Space Agency astronaut and former helicopter test pilot, spent the next six hours and twenty-three minutes working outside the station alongside NASA astronaut Anil Menon. By the time the pair repressurized the airlock at 20:52 CEST, Adenot had become the first French woman to conduct an extravehicular activity, and only the second European woman ever to do so — following Italy's Samantha Cristoforetti, who spacewalked in July 2022. It was US Spacewalk 97, the 282nd spacewalk in support of station assembly, maintenance, and upgrades. And like so many spacewalks before it, almost nothing went according to plan.
 
-![Astronaut on spacewalk outside the ISS](https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1446776811953-b23d57bd21aa-1200.avif" type="image/avif">
+<source srcset="/img/1446776811953-b23d57bd21aa-1200.webp" type="image/webp">
+<img src="/img/1446776811953-b23d57bd21aa-1200.webp" alt="Astronaut on spacewalk outside the ISS" width="1200" height="675" fetchpriority="high" decoding="async">
+</picture>
 *Working in the vacuum outside the International Space Station. Image: Unsplash.*
 
 ## The job: a stubborn antenna on the Z1 truss
@@ -36,7 +40,11 @@ The European Space Agency selected her as an astronaut in November 2022, part of
 
 Aboard the station, Adenot threw herself into the science program with characteristic intensity. Her experiments included testing EchoFinder, a device for autonomous medical ultrasounds to study the effects of weightlessness on the human body; PhysioTool, measuring physiological factors; and ChlorISS, an experiment developed with French schools to observe how light and gravity affect the growth of plants from the mustard family. She even brought a taste of home to orbit: lobster bisque and foie gras created by Michelin-starred chef Anne-Sophie Pic, supplementing the standard onboard menu. She also tested a prototype suit called EuroSuit and continued exercise research, running on the station's COLBERT treadmill wearing the "EasyMotion-2" system, which uses electrical impulses to trigger muscle contractions during workouts.
 
-![Earth viewed from orbit](https://images.unsplash.com/photo-1459908676235-d5f02a50184b?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1459908676235-d5f02a50184b-1200.avif" type="image/avif">
+<source srcset="/img/1459908676235-d5f02a50184b-1200.webp" type="image/webp">
+<img src="/img/1459908676235-d5f02a50184b-1200.webp" alt="Earth viewed from orbit" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *The view that awaited Adenot outside the airlock. Image: Unsplash.*
 
 ## A milestone decades in the making
@@ -57,7 +65,11 @@ Inside the station, the support team was just as critical. Commander Jessica Mei
 
 It is a fitting detail that Meir, herself one of the most experienced spacewalkers in the NASA corps, was commanding the station that day. The lineage is visible: women who walked in space before making it possible — logistically, culturally, institutionally — for the women who follow. Adenot has spoken about that responsibility directly. "I recognise and acknowledge that a lot of women and girls are looking for inspiration," she said in an interview with Radio France Internationale, "and I am here for them."
 
-![Astronauts working together in space](https://images.unsplash.com/photo-1447433589675-4aaa569f3e05?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1447433589675-4aaa569f3e05-1200.avif" type="image/avif">
+<source srcset="/img/1447433589675-4aaa569f3e05-1200.webp" type="image/webp">
+<img src="/img/1447433589675-4aaa569f3e05-1200.webp" alt="Astronauts working together in space" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *Spacewalks are team efforts, inside and outside the station. Image: Unsplash.*
 
 ## The job isn't finished
@@ -76,7 +88,11 @@ The backpack — the Primary Life Support System — carries oxygen, removes car
 
 That Adenot was the first European woman to work in the EMU is significant for another reason: suit fit. For years, spacesuit sizing was a quiet barrier — the famous 2019 incident in which NASA had to cancel a planned all-female spacewalk for lack of a second medium-sized torso assembly made headlines worldwide and forced a reckoning. The EMU fleet has since been better provisioned, and Adenot's excursion is evidence of the progress: the system worked, the suit fit, and the work got done. The frontier of inclusion in spaceflight is measured not only in firsts, but in logistics.
 
-![Spacesuit technology detail](https://images.unsplash.com/photo-1454789548928-9efd52dc4031?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1454789548928-9efd52dc4031-1200.avif" type="image/avif">
+<source srcset="/img/1454789548928-9efd52dc4031-1200.webp" type="image/webp">
+<img src="/img/1454789548928-9efd52dc4031-1200.webp" alt="Spacesuit technology detail" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *The EMU spacesuit: a one-person spacecraft. Image: Unsplash.*
 
 ## France's long road to this moment
@@ -87,7 +103,11 @@ Adenot's milestone slots into that lineage and extends it. She is the product of
 
 There is also a distinctly European dimension. ESA's astronaut corps remains small compared to NASA's, and every European spacewalk is a significant operational commitment for the agency. Adenot's qualification in the EMU gives Europe another fully certified spacewalker at a time when the ISS partnership is managing an aging station and planning its eventual transition to commercial successors. European astronauts who can do US-segment EVAs are strategic assets — and Adenot, at 44 with years of station operations ahead of her, is now firmly among them.
 
-![European space operations](https://images.unsplash.com/photo-1519681393784-d120267933ba?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1519681393784-d120267933ba-1200.avif" type="image/avif">
+<source srcset="/img/1519681393784-d120267933ba-1200.webp" type="image/webp">
+<img src="/img/1519681393784-d120267933ba-1200.webp" alt="European space operations" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *Europe's growing role in station operations. Image: Unsplash.*
 
 ## A kicker written in starlight
