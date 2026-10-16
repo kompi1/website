@@ -6,9 +6,9 @@ category: 'Technology'
 ---
 
 <picture>
-<source srcset="/img/1517976487492-5750f3195933-1200.avif" type="image/avif">
-<source srcset="/img/1517976487492-5750f3195933-1200.webp" type="image/webp">
-<img src="/img/1517976487492-5750f3195933-1200.webp" alt="A heavy-lift rocket climbs away from its launch pad on a pillar of flame" width="1200" height="675" fetchpriority="high" decoding="async">
+<source srcset="/img/1517976487492-5750f3195933-1000.avif" type="image/avif">
+<source srcset="/img/1517976487492-5750f3195933-700.webp" type="image/webp">
+<img src="/img/1517976487492-5750f3195933-700.webp" alt="A heavy-lift rocket climbs away from its launch pad on a pillar of flame" width="1000" height="563" fetchpriority="high" decoding="async">
 </picture>
 *An Ariane-class heavy launcher heads skyward — the vehicle Europe depends on for its sovereign access to space. Image: Unsplash.*
 
@@ -45,9 +45,9 @@ The Flexible Combined Imager, meanwhile, builds a picture of fast-evolving weath
 Together, the two instruments turn MTG-I2 into something more than a camera in the sky. They make it a sentinel — one that watches, continuously, for the first electrical whisper of a storm that could flood a valley or ground an airport.
 
 <picture>
-<source srcset="/img/1446776811953-b23d57bd21aa-1200.avif" type="image/avif">
-<source srcset="/img/1446776811953-b23d57bd21aa-1200.webp" type="image/webp">
-<img src="/img/1446776811953-b23d57bd21aa-1200.webp" alt="A rocket's engines ignite at liftoff, lighting up the launch complex" width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1446776811953-b23d57bd21aa-1000.avif" type="image/avif">
+<source srcset="/img/1446776811953-b23d57bd21aa-700.webp" type="image/webp">
+<img src="/img/1446776811953-b23d57bd21aa-700.webp" alt="A rocket's engines ignite at liftoff, lighting up the launch complex" width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *Ignition: the moment a launcher commits to its trajectory. VA270's ascent to geostationary transfer orbit was Ariane 6's longest flight yet. Image: Unsplash.*
 
@@ -70,9 +70,9 @@ The first MTG imager, MTG-I1, has been in orbit since late 2022, and its Lightni
 Thales Alenia Space, the prime contractor, has now delivered multiple MTG spacecraft, and the production line behind them represents one of the most complex industrial efforts in European space history. Each satellite is a roughly four-tonne machine packed with optics, cryocoolers, and data systems that must operate flawlessly for the better part of a decade in the harshest environment imaginable.
 
 <picture>
-<source srcset="/img/1462331940025-496dfbfc7564-1200.avif" type="image/avif">
-<source srcset="/img/1462331940025-496dfbfc7564-1200.webp" type="image/webp">
-<img src="/img/1462331940025-496dfbfc7564-1200.webp" alt="Earth seen from space, the blue marble that weather satellites watch over" width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1462331940025-496dfbfc7564-1000.avif" type="image/avif">
+<source srcset="/img/1462331940025-496dfbfc7564-700.webp" type="image/webp">
+<img src="/img/1462331940025-496dfbfc7564-700.webp" alt="Earth seen from space, the blue marble that weather satellites watch over" width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *From geostationary orbit, a weather satellite sees a full hemisphere — the vantage point that makes continuous storm monitoring possible. Image: Unsplash.*
 
@@ -111,8 +111,8 @@ But on the evening of 27 August 2026, as MTG-I2 separated from its launcher thir
 Europe's weather eye is sharper than ever. And the rocket that carried it there has proven it belongs among the world's trusted heavy lifters.
 
 <picture>
-<source srcset="/img/1447433589675-4aaa569f3e05-1200.avif" type="image/avif">
-<source srcset="/img/1447433589675-4aaa569f3e05-1200.webp" type="image/webp">
-<img src="/img/1447433589675-4aaa569f3e05-1200.webp" alt="A satellite in orbit above Earth's limb, silhouetted against the atmosphere" width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1447433589675-4aaa569f3e05-1000.avif" type="image/avif">
+<source srcset="/img/1447433589675-4aaa569f3e05-700.webp" type="image/webp">
+<img src="/img/1447433589675-4aaa569f3e05-700.webp" alt="A satellite in orbit above Earth's limb, silhouetted against the atmosphere" width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *MTG-I2 separated from its launcher 36 minutes after liftoff and began the climb to geostationary orbit. Image: Unsplash.*
