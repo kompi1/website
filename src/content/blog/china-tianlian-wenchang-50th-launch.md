@@ -60,9 +60,9 @@ Each generation has roughly tracked the growth of China's ambitions in orbit. Th
 On a humid Wednesday evening in Hainan, a rocket rose over the South China Sea and a spaceport hit fifty. A decade ago, Wenchang was a promise. Now it is the launchpad for the Moon.
 
 <picture>
-<source srcset="/img/1517976487492-5750f3195933-1200.avif" type="image/avif">
-<source srcset="/img/1517976487492-5750f3195933-1200.webp" type="image/webp">
-<img src="/img/1517976487492-5750f3195933-1200.webp" alt="A rocket launching at dusk over the ocean" width="1200" height="675" fetchpriority="high" decoding="async">
+<source srcset="/img/1517976487492-5750f3195933-1000.avif" type="image/avif">
+<source srcset="/img/1517976487492-5750f3195933-700.webp" type="image/webp">
+<img src="/img/1517976487492-5750f3195933-700.webp" alt="A rocket launching at dusk over the ocean" width="1000" height="563" fetchpriority="high" decoding="async">
 </picture>
 *A rocket lifts off at dusk. Image: Unsplash.*
 
@@ -81,9 +81,9 @@ One of the more consequential developments at Wenchang has nothing to do with th
 The arrangement mirrors, in broad strokes, the way Cape Canaveral hosts both government and commercial operations — and it solves a real bottleneck. As China's launch rate has climbed past sixty orbital attempts a year, range capacity has become a genuine constraint. A second spaceport on the same favorable stretch of coastline, optimized for commercial cadence, is the kind of infrastructure investment that pays off over decades. The 50th launch from the national site is the headline; the commercial pads next door may be the more important story for the 2030s.
 
 <picture>
-<source srcset="/img/1459908676235-d5f02a50184b-1200.avif" type="image/avif">
-<source srcset="/img/1459908676235-d5f02a50184b-1200.webp" type="image/webp">
-<img src="/img/1459908676235-d5f02a50184b-1200.webp" alt="Launch complex at a tropical spaceport" width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1459908676235-d5f02a50184b-1000.avif" type="image/avif">
+<source srcset="/img/1459908676235-d5f02a50184b-700.webp" type="image/webp">
+<img src="/img/1459908676235-d5f02a50184b-700.webp" alt="Launch complex at a tropical spaceport" width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *A launch complex under tropical skies. Image: Unsplash.*
 
@@ -94,15 +94,15 @@ There is a temptation to treat round numbers as mere ceremony, and launch provid
 The next decade will ask more. Chang'e-7's south pole survey, the crewed lunar landings, the heavy-lift debut, the low-orbit internet constellations, and the commercial launch boom will all compete for pad time at a site that must also weather typhoon season. China's answer, characteristically, is to build: more pads, more commercial capacity, more rockets. The Long March 7A that carried Tianlian III-01 into the dusk is the present tense of that answer — a reliable rocket doing reliable work, fifty launches into a spaceport's life and just getting started.
 
 <picture>
-<source srcset="/img/1446776811953-b23d57bd21aa-1200.avif" type="image/avif">
-<source srcset="/img/1446776811953-b23d57bd21aa-1200.webp" type="image/webp">
-<img src="/img/1446776811953-b23d57bd21aa-1200.webp" alt="Satellite in orbit above Earth" width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1446776811953-b23d57bd21aa-1000.avif" type="image/avif">
+<source srcset="/img/1446776811953-b23d57bd21aa-700.webp" type="image/webp">
+<img src="/img/1446776811953-b23d57bd21aa-700.webp" alt="Satellite in orbit above Earth" width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *A communications satellite in Earth orbit. Image: Unsplash.*
 
 <picture>
-<source srcset="/img/1462331940025-496dfbfc7564-1200.avif" type="image/avif">
-<source srcset="/img/1462331940025-496dfbfc7564-1200.webp" type="image/webp">
-<img src="/img/1462331940025-496dfbfc7564-1200.webp" alt="Earth from space at night" width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1462331940025-496dfbfc7564-1000.avif" type="image/avif">
+<source srcset="/img/1462331940025-496dfbfc7564-700.webp" type="image/webp">
+<img src="/img/1462331940025-496dfbfc7564-700.webp" alt="Earth from space at night" width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *Earth from orbit. Image: Unsplash.*
