@@ -10,9 +10,9 @@ The Moon is getting a new address book. On May 26, NASA announced that the Griff
 The timing could hardly be more charged. Just two days after the May 26 unveiling in Pittsburgh, a New Glenn rocket exploded on its launch pad at Cape Canaveral during a routine engine test, shredding key ground equipment and casting a long shadow over the schedules of everyone who depends on Blue Origin — including the team behind Moon Base 1. Now, as the dust literally settles at Launch Complex 36, NASA is placing its bets on Moon Base 2 to carry the agency's lunar momentum through 2026.
 
 <picture>
-<source srcset="/img/1502134249126-9f3755a50d78-1200.avif" type="image/avif">
-<source srcset="/img/1502134249126-9f3755a50d78-1200.webp" type="image/webp">
-<img src="/img/1502134249126-9f3755a50d78-1200.webp" alt="A giant full Moon rising over a dark landscape" width="1200" height="675" fetchpriority="high" decoding="async">
+<source srcset="/img/1502134249126-9f3755a50d78-1000.avif" type="image/avif">
+<source srcset="/img/1502134249126-9f3755a50d78-700.webp" type="image/webp">
+<img src="/img/1502134249126-9f3755a50d78-700.webp" alt="A giant full Moon rising over a dark landscape" width="1000" height="563" fetchpriority="high" decoding="async">
 </picture>
 *NASA is building a permanent return to the Moon around commercial landers like Griffin. Image: Unsplash.*
 
@@ -29,9 +29,9 @@ That institutional knowledge is sorely needed. Of the four CLPS missions that ha
 NASA is betting that more hands-on involvement can tilt the odds. "We're basically working to put the entire NASA might behind these companies that are developing landers," García-Galán said, "including access to NASA subject matter experts and testing facilities."
 
 <picture>
-<source srcset="/img/1517976487492-5750f3195933-1200.avif" type="image/avif">
-<source srcset="/img/1517976487492-5750f3195933-1200.webp" type="image/webp">
-<img src="/img/1517976487492-5750f3195933-1200.webp" alt="A rocket on a launch pad silhouetted against the night sky" width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1517976487492-5750f3195933-1000.avif" type="image/avif">
+<source srcset="/img/1517976487492-5750f3195933-700.webp" type="image/webp">
+<img src="/img/1517976487492-5750f3195933-700.webp" alt="A rocket on a launch pad silhouetted against the night sky" width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *Commercial rockets will carry the hardware for a sustained lunar presence. Image: Unsplash.*
 
@@ -56,9 +56,9 @@ Joining FLIP is CubeRover, a small rover built by Carnegie Mellon University —
 The pair will do what rovers do best: trundle across alien terrain, photograph it, measure it, and report back. For FLIP, the mission is a proving ground for Astrolab's mobility systems. For CubeRover, it is a demonstration that small, relatively cheap rovers can survive and operate in the brutal thermal swings of the lunar surface. Together, they give NASA the ground truth García-Galán is asking for — the first close-up look at the exact sort of terrain where a moon base might one day stand.
 
 <picture>
-<source srcset="/img/1516849841032-87cbac4d88f7-1200.avif" type="image/avif">
-<source srcset="/img/1516849841032-87cbac4d88f7-1200.webp" type="image/webp">
-<img src="/img/1516849841032-87cbac4d88f7-1200.webp" alt="A robotic rover concept under a starry sky" width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1516849841032-87cbac4d88f7-1000.avif" type="image/avif">
+<source srcset="/img/1516849841032-87cbac4d88f7-700.webp" type="image/webp">
+<img src="/img/1516849841032-87cbac4d88f7-700.webp" alt="A robotic rover concept under a starry sky" width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *FLIP and CubeRover will scout the lunar south pole for future Artemis crews. Image: Unsplash.*
 
@@ -73,16 +73,16 @@ Then, in June 2026, the company found itself with new owners. Voyager Technologi
 For NASA, the acquisition is a feature, not a bug. The whole premise of CLPS is that commercial companies — backed by private capital, free to merge and grow — can build a lunar transportation business more cheaply and flexibly than the agency ever could alone.
 
 <picture>
-<source srcset="/img/1446776811953-b23d57bd21aa-1200.avif" type="image/avif">
-<source srcset="/img/1446776811953-b23d57bd21aa-1200.webp" type="image/webp">
-<img src="/img/1446776811953-b23d57bd21aa-1200.webp" alt="The curve of the Earth seen from deep space" width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1446776811953-b23d57bd21aa-1000.avif" type="image/avif">
+<source srcset="/img/1446776811953-b23d57bd21aa-700.webp" type="image/webp">
+<img src="/img/1446776811953-b23d57bd21aa-700.webp" alt="The curve of the Earth seen from deep space" width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *CLPS missions are meant to build a commercial transportation network between Earth and the Moon. Image: Unsplash.*
 
 <picture>
-<source srcset="/img/1462331940025-496dfbfc7564-1200.avif" type="image/avif">
-<source srcset="/img/1462331940025-496dfbfc7564-1200.webp" type="image/webp">
-<img src="/img/1462331940025-496dfbfc7564-1200.webp" alt="A rocket engine test firing with bright flames" width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1462331940025-496dfbfc7564-1000.avif" type="image/avif">
+<source srcset="/img/1462331940025-496dfbfc7564-700.webp" type="image/webp">
+<img src="/img/1462331940025-496dfbfc7564-700.webp" alt="A rocket engine test firing with bright flames" width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *Engine tests are routine — until they aren't. The May 28 hotfire anomaly destroyed a New Glenn and damaged its pad. Image: Unsplash.*
 

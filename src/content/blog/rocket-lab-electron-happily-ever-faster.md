@@ -20,9 +20,9 @@ What is known about the flight itself is standard Electron excellence. The two-s
 The 36-degree inclination is a telling detail. Most Earth-observation satellites fly in sun-synchronous polar orbits, which carry them over the entire planet. A 36-degree orbit is a mid-inclination slot, optimized for frequent revisits over the populated mid-latitudes — the band of the Earth where most people live, most economies operate, and most of the things worth imaging from space are located. It is the signature of a commercial imaging constellation tuned for responsiveness rather than global coverage.
 
 <picture>
-<source srcset="/img/1516849841032-87cbac4d88f7-1200.avif" type="image/avif">
-<source srcset="/img/1516849841032-87cbac4d88f7-1200.webp" type="image/webp">
-<img src="/img/1516849841032-87cbac4d88f7-1200.webp" alt="Rocket launch at dawn" width="1200" height="675" fetchpriority="high" decoding="async">
+<source srcset="/img/1516849841032-87cbac4d88f7-1000.avif" type="image/avif">
+<source srcset="/img/1516849841032-87cbac4d88f7-700.webp" type="image/webp">
+<img src="/img/1516849841032-87cbac4d88f7-700.webp" alt="Rocket launch at dawn" width="1000" height="563" fetchpriority="high" decoding="async">
 </picture>
 *Electron lifted off from Launch Complex 1 in Mahia, New Zealand. Image: Unsplash.*
 
@@ -47,9 +47,9 @@ The September 11 flight followed closely on another Electron mission just eight 
 That routine is the product of design choices made a decade ago. Electron was conceived from the start as a high-cadence vehicle: its Rutherford engines, with 3D-printed components and electric-pump-fed turbomachinery, were designed for rapid manufacturing; its carbon-composite structures keep the rocket light; and Launch Complex 1, Rocket Lab's private range on the Mahia Peninsula, frees the company from the scheduling queues of shared government ranges. The result is a launch system that behaves less like a bespoke engineering project and more like an airline schedule — which is exactly what constellation operators need.
 
 <picture>
-<source srcset="/img/1447433589675-4aaa569f3e05-1200.avif" type="image/avif">
-<source srcset="/img/1447433589675-4aaa569f3e05-1200.webp" type="image/webp">
-<img src="/img/1447433589675-4aaa569f3e05-1200.webp" alt="Night launch streak" width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1447433589675-4aaa569f3e05-1000.avif" type="image/avif">
+<source srcset="/img/1447433589675-4aaa569f3e05-700.webp" type="image/webp">
+<img src="/img/1447433589675-4aaa569f3e05-700.webp" alt="Night launch streak" width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *Electron is among the most frequently flown small launch vehicles in the world. Image: Unsplash.*
 
@@ -74,9 +74,9 @@ That dynamic was on full display in September 2026. Even as Neutron's timeline m
 Rocket Lab's pitch, refined over 95 missions, goes beyond the rocket itself. The company describes itself as an end-to-end space company — rockets, yes, but also satellites, spacecraft components, and mission services for commercial, government, and defense customers. Its components have flown on more than 1,700 missions in Earth orbit and powered deep-space exploration of the Moon, Mars, and beyond. The Motorized Lightband that deployed the "Happily Ever Faster" payload is a small emblem of that vertical integration: Rocket Lab does not just build the rocket; it builds the separation system, and increasingly the satellite bus, and the ground systems to operate them.
 
 <picture>
-<source srcset="/img/1444703686981-a3abbc4d4fe3-1200.avif" type="image/avif">
-<source srcset="/img/1444703686981-a3abbc4d4fe3-1200.webp" type="image/webp">
-<img src="/img/1444703686981-a3abbc4d4fe3-1200.webp" alt="Satellite in orbit above Earth" width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1444703686981-a3abbc4d4fe3-1000.avif" type="image/avif">
+<source srcset="/img/1444703686981-a3abbc4d4fe3-700.webp" type="image/webp">
+<img src="/img/1444703686981-a3abbc4d4fe3-700.webp" alt="Satellite in orbit above Earth" width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *The mission deployed a single Earth-observation satellite to a 500 km orbit. Image: Unsplash.*
 
@@ -101,9 +101,9 @@ Rocket Lab has turned that prudence into a product feature. The company's willin
 It also creates a particular rhythm for space journalists and enthusiasts: the launch happens, the rocket lands its payload, and only later does the picture fill in. Orbital trackers catalog the new satellite. Analysts match its orbit to known constellation plans. Eventually, imagery appears, or a company quietly acknowledges its new asset. The story of "Happily Ever Faster" will continue to unfold in that slow, forensic way — long after the rocket's contrail faded over the Pacific.
 
 <picture>
-<source srcset="/img/1459908676235-d5f02a50184b-1200.avif" type="image/avif">
-<source srcset="/img/1459908676235-d5f02a50184b-1200.webp" type="image/webp">
-<img src="/img/1459908676235-d5f02a50184b-1200.webp" alt="Earth observation from space" width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1459908676235-d5f02a50184b-1000.avif" type="image/avif">
+<source srcset="/img/1459908676235-d5f02a50184b-700.webp" type="image/webp">
+<img src="/img/1459908676235-d5f02a50184b-700.webp" alt="Earth observation from space" width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *Commercial imaging constellations prize schedule certainty and rapid revisit. Image: Unsplash.*
 
