@@ -9,7 +9,11 @@ At 9:22 on a Wednesday morning in French Guiana, four pillars of fire lit up the
 
 Designated VA269 by Arianespace and LE-03, or Leo Europe 03, by Amazon, the mission lasted one hour and 51 minutes from liftoff to the separation of the final spacecraft, placing the satellites with precision into an orbit roughly 465 kilometers above the equator. It was the eighth flight of the Ariane 6 program, the third Ariane 6 launch of 2026, and the third consecutive Ariane 6 mission devoted to Amazon's growing internet constellation. In less than five months, Arianespace has now placed 100 Amazon Leo satellites into orbit — a pace that would have been unthinkable for the European launcher just two years ago, when Ariane 6 had yet to make its debut flight.
 
-![Ariane 64 rocket lifting off from Kourou](https://images.unsplash.com/photo-1517976487492-5750f3195933?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1517976487492-5750f3195933-1200.avif" type="image/avif">
+<source srcset="/img/1517976487492-5750f3195933-1200.webp" type="image/webp">
+<img src="/img/1517976487492-5750f3195933-1200.webp" alt="Ariane 64 rocket lifting off from Kourou" width="1200" height="675" fetchpriority="high" decoding="async">
+</picture>
 *Ariane 64 lifts off with four solid rocket boosters. Image: Unsplash.*
 
 ## A booster with more muscle
@@ -28,7 +32,11 @@ That pace is not a luxury. It is a necessity. Amazon is preparing for an initial
 
 The pressure is compounded by the state of the rest of Amazon's launch manifest. Two of the other heavy-lift vehicles Amazon has booked — Blue Origin's New Glenn and United Launch Alliance's Vulcan Centaur — were not in service at the time of the launch. That has left the available fleet carrying an outsized share of the deployment burden, and Arianespace has stepped into the gap. One more Ariane 6 mission for Amazon Leo is confirmed for this year, with a potential fifth under discussion — and with 18 Ariane 64 launches originally contracted for the constellation, the Kourou manifest is spoken for well into the decade.
 
-![Amazon Leo satellites deploying from dispenser in orbit](https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1446776811953-b23d57bd21aa-1200.avif" type="image/avif">
+<source srcset="/img/1446776811953-b23d57bd21aa-1200.webp" type="image/webp">
+<img src="/img/1446776811953-b23d57bd21aa-1200.webp" alt="Amazon Leo satellites deploying from dispenser in orbit" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *Satellites deploy into low Earth orbit. Image: Unsplash.*
 
 ## Less than two years from maiden flight
@@ -47,7 +55,11 @@ That diversification is precisely why missions like VA269 matter beyond their im
 
 The night sky over Kourou fell quiet a few hours after liftoff, but the 36 new spacecraft are already settling into their orbital planes, raising their orbits and checking out their systems. Somewhere in the constellation's ground network, engineers are confirming that each one has phoned home. The P160C boosters, meanwhile, have done something no European booster has ever done: they have carried the heaviest load in the history of the Ariane program, and they have done it on their very first try. The next one is already being stacked.
 
-![Solid rocket boosters igniting at liftoff](https://images.unsplash.com/photo-1462331940025-496dfbfc7564?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1462331940025-496dfbfc7564-1200.avif" type="image/avif">
+<source srcset="/img/1462331940025-496dfbfc7564-1200.webp" type="image/webp">
+<img src="/img/1462331940025-496dfbfc7564-1200.webp" alt="Solid rocket boosters igniting at liftoff" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *Upgraded solid boosters power the heaviest Ariane payload ever. Image: Unsplash.*
 
 
@@ -69,7 +81,11 @@ What distinguishes Leo from Starlink is not just the parent company but the laun
 
 This is the context in which the Amazon launch team's roundtable comments land with real weight. When company executives said Amazon would take as many launches as it could get, as fast as its satellite factories could build the spacecraft, they were describing a production system that is currently running ahead of the launch system meant to carry it. Every additional Ariane 6 flight Arianespace can offer is not just revenue; it is schedule insurance for one of the largest infrastructure projects in the history of the space industry.
 
-![Broadband constellation satellites over Earth](https://images.unsplash.com/photo-1502134249126-9f3755a50d78?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1502134249126-9f3755a50d78-1200.avif" type="image/avif">
+<source srcset="/img/1502134249126-9f3755a50d78-1200.webp" type="image/webp">
+<img src="/img/1502134249126-9f3755a50d78-1200.webp" alt="Broadband constellation satellites over Earth" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *Amazon Leo aims to connect the underserved with space-based broadband. Image: Unsplash.*
 
 ## Racing the regulatory clock
@@ -94,5 +110,9 @@ The immediate calendar is busy. Arianespace has at least one more Amazon Leo mis
 
 Longer term, the question is cadence. Nine launches a year was the design target for Ariane 6; the market is now asking whether Europe can double it. The industrial base — the booster factories, the upper-stage production lines, the launch teams at Kourou — is being sized up for exactly that question. If VA269 proved anything, it is that the hardware is ready. Whether the production system can keep pace with the ambition is the story to watch for the rest of 2026.
 
-![Ariane 6 on the launch pad at dawn](https://images.unsplash.com/photo-1447433589675-4aaa569f3e05?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1447433589675-4aaa569f3e05-1200.avif" type="image/avif">
+<source srcset="/img/1447433589675-4aaa569f3e05-1200.webp" type="image/webp">
+<img src="/img/1447433589675-4aaa569f3e05-1200.webp" alt="Ariane 6 on the launch pad at dawn" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *Ariane 6 stands ready at Europe's Spaceport. Image: Unsplash.*

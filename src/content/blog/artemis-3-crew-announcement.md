@@ -13,7 +13,11 @@ The mission they will fly, targeted for 2027, is one of the strangest and most c
 
 It was the most important crew announcement since the Artemis program began — and a signal that NASA's long road back to the Moon, redrawn and reimagined after years of delays and redesigns, is finally taking the shape it will fly.
 
-![The full Moon glowing against the black of space](https://images.unsplash.com/photo-1532693322450-2cb5c511067d?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1532693322450-2cb5c511067d-1200.avif" type="image/avif">
+<source srcset="/img/1532693322450-2cb5c511067d-1200.webp" type="image/webp">
+<img src="/img/1532693322450-2cb5c511067d-1200.webp" alt="The full Moon glowing against the black of space" width="1200" height="675" fetchpriority="high" decoding="async">
+</picture>
 *NASA's Artemis III mission will rehearse the maneuvers needed for the first crewed Moon landing since Apollo — targeted for Artemis IV in 2028. Image: Unsplash.*
 
 ## The commander: Randy Bresnik
@@ -54,7 +58,11 @@ The logic is straightforward: every rendezvous, every docking, every suit checko
 
 And the stakes of the rehearsal are explicit. If only one lander is ready by the 2027 window, it will fly with Artemis III — and that lander will very likely be the one that carries astronauts to the lunar surface on Artemis IV, now targeted for 2028. In other words, Artemis III is not just a test. It is an audition, and both SpaceX and Blue Origin know it.
 
-![An astronaut's view of Earth from orbit, blue and cloud-streaked](https://images.unsplash.com/photo-1459908676235-d5f02a50184b?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1459908676235-d5f02a50184b-1200.avif" type="image/avif">
+<source srcset="/img/1459908676235-d5f02a50184b-1200.webp" type="image/webp">
+<img src="/img/1459908676235-d5f02a50184b-1200.webp" alt="An astronaut's view of Earth from orbit, blue and cloud-streaked" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *Artemis III will spend about two weeks in low Earth orbit — the safest proving ground for the landers that must work perfectly at the Moon. Image: Unsplash.*
 
 ## The new Artemis timeline
@@ -73,7 +81,11 @@ They will also embed with the lander teams themselves, assisting in the developm
 
 The simulator work will be relentless. Docking two spacecraft that have never docked before — with flight software written by different companies, on timelines measured in seconds — leaves no room for improvisation. The crew will rehearse nominal approaches and every abort mode engineers can imagine: a thruster that fails to fire, a sensor that disagrees with its twin, a communications dropout at the worst possible moment. They will practice in the suits they will wear, on the timelines they will fly, until the choreography holds even when the script breaks.
 
-![Astronaut training preparations for a deep-space mission](https://images.unsplash.com/photo-1614313913007-2b4ae8ce32d6?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1614313913007-2b4ae8ce32d6-1200.avif" type="image/avif">
+<source srcset="/img/1614313913007-2b4ae8ce32d6-1200.webp" type="image/webp">
+<img src="/img/1614313913007-2b4ae8ce32d6-1200.webp" alt="Astronaut training preparations for a deep-space mission" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *The Artemis III crew faces 18 months or more of training ahead of their 2027 mission. Image: Unsplash.*
 
 The arrangement reflects how thoroughly the Artemis program has changed the relationship between NASA and industry. The agency no longer owns the landers; it buys the service. The astronauts are, in a real sense, the interface between two engineering cultures — and the crew NASA chose, mixing a Marine commander's operational judgment, a test pilot's precision, a record-holder's endurance, and a rookie's builder's mind, looks designed for exactly that role.
@@ -86,7 +98,11 @@ Orion itself is at Kennedy, undergoing final assembly and testing inside the Nei
 
 Each of these milestones is, in its own way, a small bet that the 2027 date can hold. NASA officials have voiced confidence, but confidence in this program has always been a leading indicator rather than a guarantee.
 
-![A heavy-lift rocket standing on its launch pad at dawn](https://images.unsplash.com/photo-1516849841032-87cbac4d88f7?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1516849841032-87cbac4d88f7-1200.avif" type="image/avif">
+<source srcset="/img/1516849841032-87cbac4d88f7-1200.webp" type="image/webp">
+<img src="/img/1516849841032-87cbac4d88f7-1200.webp" alt="A heavy-lift rocket standing on its launch pad at dawn" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *Elements of the Artemis III Space Launch System — including the core stage propellant tank and solid rocket booster segments — are already at Kennedy Space Center. Image: Unsplash.*
 
 ## The international dimension
@@ -99,5 +115,9 @@ There is a symmetry worth savoring. When Apollo ended, the Moon belonged to flag
 
 That is what Artemis III is: a rehearsal, a test, an audition, and a promise, flown by four people in low Earth orbit, watched by two lander companies, two space agencies, and one rival on the other side of the Pacific. Bresnik, Parmitano, Rubio, and Douglas will not land on the Moon. But if everything they are about to practice works the way it is supposed to, someone will — and soon. The countdown, in every sense, has begun.
 
-![Earth rising above the lunar horizon, a thin blue crescent](https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1444703686981-a3abbc4d4fe3-1200.avif" type="image/avif">
+<source srcset="/img/1444703686981-a3abbc4d4fe3-1200.webp" type="image/webp">
+<img src="/img/1444703686981-a3abbc4d4fe3-1200.webp" alt="Earth rising above the lunar horizon, a thin blue crescent" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *The crew of Artemis III will not land on the Moon — but their rehearsal in Earth orbit is what makes the 2028 landing possible. Image: Unsplash.*

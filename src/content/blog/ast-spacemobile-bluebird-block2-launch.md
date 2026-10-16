@@ -9,7 +9,11 @@ Long before sunrise on Wednesday, August 5, 2026, a Falcon 9 rocket stood lit ag
 
 About eight and a half minutes later, first stage B1077 settled onto the droneship A Shortfall of Gravitas in the Atlantic, completing its 30th flight. Only four other Falcon boosters had ever reached that mark, and four of the five were still in active service. The landing was the 162nd on that particular vessel and the 645th Falcon booster recovery overall — numbers that would have sounded like science fiction a decade ago and now scroll by as routine bookkeeping.
 
-![A Falcon 9 rocket lifts off in the predawn dark from Cape Canaveral](https://images.unsplash.com/photo-1517976487492-5750f3195933?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1517976487492-5750f3195933-1200.avif" type="image/avif">
+<source srcset="/img/1517976487492-5750f3195933-1200.webp" type="image/webp">
+<img src="/img/1517976487492-5750f3195933-1200.webp" alt="A Falcon 9 rocket lifts off in the predawn dark from Cape Canaveral" width="1200" height="675" fetchpriority="high" decoding="async">
+</picture>
 *A Falcon 9 climbs away from Florida's Space Coast on a nighttime mission. Image: Unsplash.*
 
 ## A textbook night, weather-wise
@@ -28,7 +32,11 @@ The physics is unforgiving. A phone's antenna is tiny and its transmitter weak, 
 
 That capability is aimed at both commercial and government markets. The company has been stacking up defense business alongside its consumer ambitions: a $30 million prime contract from the Space Development Agency, a position on the Missile Defense Agency's SHIELD contract vehicle, and — disclosed on its August 2026 earnings call — three U.S. government contracts with funded near-term value above $100 million expected across 2026 and 2027. With BlueBirds 14, 15 and 16 already preparing for the next mission and production advancing through BlueBird satellite 42, the factory side of the business is being asked to keep pace with the launch side.
 
-![An artist's impression of a large communications satellite unfurling its antenna array above Earth](https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1446776811953-b23d57bd21aa-1200.avif" type="image/avif">
+<source srcset="/img/1446776811953-b23d57bd21aa-1200.webp" type="image/webp">
+<img src="/img/1446776811953-b23d57bd21aa-1200.webp" alt="An artist's impression of a large communications satellite unfurling its antenna array above Earth" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *BlueBird satellites carry the largest commercial communications arrays ever flown in low Earth orbit. Image: Unsplash.*
 
 ## From BlueWalker to Block 2: a bumpy road
@@ -49,7 +57,11 @@ That infrastructure is what makes the current launch market possible. When AST S
 
 It is worth remembering how recently this was unthinkable. The first successful drone-ship landing was in 2016; a decade later, a booster flying for the 30th time barely makes the highlight reel. Each reuse drives down the marginal cost of access to orbit, and that falling cost is the quiet engine behind everything from megaconstellations to direct-to-cell startups. B1077 is not just a workhorse — it is a data point in the steepest learning curve in aerospace history.
 
-![A rocket's fiery ascent trail arcing across the night sky](https://images.unsplash.com/photo-1509391366360-2e959784a276?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1509391366360-2e959784a276-1200.avif" type="image/avif">
+<source srcset="/img/1509391366360-2e959784a276-1200.webp" type="image/webp">
+<img src="/img/1509391366360-2e959784a276-1200.webp" alt="A rocket's fiery ascent trail arcing across the night sky" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *Reusability has turned orbital launch from an event into infrastructure. Image: Unsplash.*
 
 ## How you talk to a satellite with an ordinary phone
@@ -78,7 +90,11 @@ Against that burn, the company has been assembling revenue streams. The defense 
 
 The consumer side remains the prize, though. If direct-to-cell broadband works at the promised data rates, it turns every dead zone on Earth — oceans, deserts, mountains, disaster areas — into covered territory for billions of existing handsets. No new phone required, no special app, just bars where there were none. That is a market measured not in satellite-industry terms but in mobile-industry terms, which is why the funding rounds keep coming despite the daunting capex.
 
-![A star-filled night sky over a remote landscape, where terrestrial coverage cannot reach](https://images.unsplash.com/photo-1465101162946-4377e57745c3?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1465101162946-4377e57745c3-1200.avif" type="image/avif">
+<source srcset="/img/1465101162946-4377e57745c3-1200.webp" type="image/webp">
+<img src="/img/1465101162946-4377e57745c3-1200.webp" alt="A star-filled night sky over a remote landscape, where terrestrial coverage cannot reach" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *The promise of direct-to-cell: coverage where no tower will ever be built. Image: Unsplash.*
 
 ## What comes next
@@ -93,7 +109,11 @@ There is also the question of what happens to launch supply. AST SpaceMobile has
 
 For now, though, the scoreboard is simple. Thirteen spacecraft in orbit. Twelve working BlueBirds. Six launched in fifty days. And one booster, B1077, touching down for the 30th time in the dark Atlantic — proof, if any were needed, that the rockets doing this work are built to come back.
 
-![Earth's curved horizon glowing against the black of space](https://images.unsplash.com/photo-1502134249126-9f3755a50d78?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1502134249126-9f3755a50d78-1200.avif" type="image/avif">
+<source srcset="/img/1502134249126-9f3755a50d78-1200.webp" type="image/webp">
+<img src="/img/1502134249126-9f3755a50d78-1200.webp" alt="Earth's curved horizon glowing against the black of space" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *Each trio of BlueBird satellites measurably expands the network's reach. Image: Unsplash.*
 
 The race to connect every phone on Earth from space is no longer a question of whether the technology works. BlueWalker 3 proved that years ago. It is a question of logistics — of factories, fairings, boosters and launch windows — and on a humid August morning in Florida, the logistics worked exactly as planned. The next trio is already waiting.
