@@ -5,7 +5,11 @@ pubDate: 2026-08-30T16:00:00
 category: 'Technology'
 ---
 
-![A rocket lifting off, trailing fire and smoke over the launch pad](https://images.unsplash.com/photo-1517976487492-5750f3195933?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1517976487492-5750f3195933-1200.avif" type="image/avif">
+<source srcset="/img/1517976487492-5750f3195933-1200.webp" type="image/webp">
+<img src="/img/1517976487492-5750f3195933-1200.webp" alt="A rocket lifting off, trailing fire and smoke over the launch pad" width="1200" height="675" fetchpriority="high" decoding="async">
+</picture>
 *Another month, another stack of launches: China's spaceports kept a relentless tempo through August 2026. Image: Unsplash.*
 
 If you want to understand the state of the global space race in 2026, don't look at a single spectacular mission. Look at a calendar. In August 2026, China launched internet-constellation satellites from a commercial pad on Hainan island, fired a solid-fuel rocket from a ship in the Yellow Sea carrying satellites for Indonesia and Uzbekistan, and closed the month with a seven-satellite rideshare that marked the 665th flight of the Long March family. Four launches, four different rockets, four different stories — and one unmistakable message: China's launch machine is operating at a tempo few nations can match.
@@ -46,7 +50,11 @@ The customer list tells its own story about China's commercial space diplomacy. 
 
 The mission was China's 55th orbital launch of 2026 — a number worth pausing on. By early August, China had already flown more orbital missions than most nations manage in a full year.
 
-![Earth's horizon glowing against the black of space](https://images.unsplash.com/photo-1462331940025-496dfbfc7564?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1462331940025-496dfbfc7564-1200.avif" type="image/avif">
+<source srcset="/img/1462331940025-496dfbfc7564-1200.webp" type="image/webp">
+<img src="/img/1462331940025-496dfbfc7564-1200.webp" alt="Earth's horizon glowing against the black of space" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *The view the new satellites watch over: hyperspectral imagers read the planet's 'spectral fingerprints' from orbit. Image: Unsplash.*
 
 ## The 665th Flight: Seven Satellites, One Rideshare
@@ -71,7 +79,11 @@ It was, unfortunately, a familiar story. The breakup marked the latest in a recu
 
 For a month that showcased China's launch mastery, the debris cloud was a reminder that cadence without stewardship has costs. The same industrial tempo that puts hundreds of satellites into orbit also multiplies the opportunities for things to go wrong — and in orbit, mistakes linger as shrapnel.
 
-![A satellite drifting above Earth, one of thousands now sharing crowded orbits](https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1446776811953-b23d57bd21aa-1200.avif" type="image/avif">
+<source srcset="/img/1446776811953-b23d57bd21aa-1200.webp" type="image/webp">
+<img src="/img/1446776811953-b23d57bd21aa-1200.webp" alt="A satellite drifting above Earth, one of thousands now sharing crowded orbits" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *Low Earth orbit is getting crowded — and every fragmentation event adds to the traffic every operator must dodge. Image: Unsplash.*
 
 ## Seven Years at Sea: How China Mastered the Floating Launch Pad
@@ -96,5 +108,9 @@ But the trajectory is unmistakable. In August 2026, China didn't just launch roc
 
 September will bring its own manifest: more Guowang batches, more commercial rideshares, perhaps another sea launch. The drumbeat will not stop, and the cadence will only quicken. The only question is how the rest of the world — competitors, customers, and the stewards of the orbital environment — chooses to answer it.
 
-![A rocket ascending through clouds, heading for orbit](https://images.unsplash.com/photo-1502134249126-9f3755a50d78?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1502134249126-9f3755a50d78-1200.avif" type="image/avif">
+<source srcset="/img/1502134249126-9f3755a50d78-1200.webp" type="image/webp">
+<img src="/img/1502134249126-9f3755a50d78-1200.webp" alt="A rocket ascending through clouds, heading for orbit" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *Routine is the most formidable capability in the launch business — and August showed China's routine is formidable indeed. Image: Unsplash.*

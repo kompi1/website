@@ -11,7 +11,11 @@ The moment had been eight years in the making. Since lifting off from Kourou on 
 
 What follows is one of the most operationally challenging arrival sequences any space agency has ever attempted. Over the coming weeks, Mercury's feeble gravity will slowly capture the remaining spacecraft stack; in November, the mission will be weakly captured into a looping polar orbit around the planet; and in December, the two orbiters — ESA's Mercury Planetary Orbiter and JAXA's Mercury Magnetospheric Orbiter, nicknamed Mio — will separate from each other and manoeuvre into their final science orbits. If all goes to plan, BepiColombo will become the first mission in history to place two spacecraft in orbit around Mercury simultaneously, with full science operations beginning in 2027.
 
-![The planet Mercury, a cratered grey world hanging in the black of space](https://images.unsplash.com/photo-1459908676235-d5f02a50184b?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1459908676235-d5f02a50184b-1200.avif" type="image/avif">
+<source srcset="/img/1459908676235-d5f02a50184b-1200.webp" type="image/webp">
+<img src="/img/1459908676235-d5f02a50184b-1200.webp" alt="The planet Mercury, a cratered grey world hanging in the black of space" width="1200" height="675" fetchpriority="high" decoding="async">
+</picture>
 *Mercury, the smallest and least-explored planet in the Solar System, is BepiColombo's destination after an eight-year cruise. Image: Unsplash.*
 
 ## Eight Years, 9.9 Billion Kilometres
@@ -34,7 +38,11 @@ The module even gave the mission some of its most memorable imagery. Mounted on 
 
 Shedding the MTM was not just symbolic; it was a physical necessity. The transfer stage is dead weight for the orbital phase, and its large solar wings would have been a liability in Mercury's brutal thermal environment, where sunlight is up to eleven times more intense than at Earth. From here on, the two orbiters fly on their own power and their own chemical thrusters.
 
-![A spacecraft with extended solar panels travelling through deep space](https://images.unsplash.com/photo-1516849841032-87cbac4d88f7?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1516849841032-87cbac4d88f7-1200.avif" type="image/avif">
+<source srcset="/img/1516849841032-87cbac4d88f7-1200.webp" type="image/webp">
+<img src="/img/1516849841032-87cbac4d88f7-1200.webp" alt="A spacecraft with extended solar panels travelling through deep space" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *BepiColombo's ion propulsion fired for thousands of hours during its cruise to Mercury before being switched off for the final time in June 2026. Image: Unsplash.*
 ## The Arrival Sequence: Letting Mercury Take Over
 
@@ -54,7 +62,11 @@ Mio is the space physicist. From a more eccentric orbit that carries it far from
 
 Together, the pair will do something no single spacecraft could: observe Mercury's surface and its space environment simultaneously, linking cause and effect. When the solar wind slams into the magnetosphere, Mio will watch the impact while the MPO watches the surface respond. It is the first time two spacecraft will operate in concert around the innermost planet, and the choreography required — two agencies, two control centres, one tightly coupled science plan — has been years in the making.
 
-![An artist's concept of twin orbiters flying in formation around a planet](https://images.unsplash.com/photo-1614313913007-2b4ae8ce32d6?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1614313913007-2b4ae8ce32d6-1200.avif" type="image/avif">
+<source srcset="/img/1614313913007-2b4ae8ce32d6-1200.webp" type="image/webp">
+<img src="/img/1614313913007-2b4ae8ce32d6-1200.webp" alt="An artist's concept of twin orbiters flying in formation around a planet" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *ESA's Mercury Planetary Orbiter and JAXA's Mio will separate in December 2026 and operate as the first dual-spacecraft mission at Mercury. Image: Unsplash.*
 
 ## The Instruments Waking Up
@@ -67,7 +79,11 @@ A day later, on September 15, the MPO's multipurpose imaging system SIMBIO-SYS c
 
 Each of these milestones is a small rehearsal for 2027, when the full instrument suite — eleven instruments on the MPO, five on Mio — begins routine operations. The science questions waiting are profound: Why is Mercury so dense, with an iron core that fills most of its interior? How did volatiles like water end up in permanently shadowed polar craters on a world where daytime temperatures top 400°C? What does Mercury's magnetic field reveal about the ancient dynamos of rocky planets? After Mariner 10's brief flybys in the 1970s and NASA's MESSENGER orbiter (2011–2015), BepiColombo is humanity's third act at Mercury — and by far its most ambitious.
 
-![A detailed view of a rocky planetary surface covered in impact craters](https://images.unsplash.com/photo-1465101162946-4377e57745c3?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1465101162946-4377e57745c3-1200.avif" type="image/avif">
+<source srcset="/img/1465101162946-4377e57745c3-1200.webp" type="image/webp">
+<img src="/img/1465101162946-4377e57745c3-1200.webp" alt="A detailed view of a rocky planetary surface covered in impact craters" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *BepiColombo's instruments will map Mercury's cratered surface, probe its giant iron core and study its magnetic field in unprecedented detail. Image: Unsplash.*
 
 ## Why Mercury Is Worth the Trouble
@@ -90,5 +106,9 @@ There is a particular poignancy to discarding a spacecraft stage that worked fla
 
 What remains is the payoff. In November, Mercury's gravity takes hold. In December, two orbiters go their separate ways around the smallest planet. And in 2027, after one of the longest and most intricate journeys in the history of planetary exploration, BepiColombo finally gets to work — two spacecraft, two space agencies, one scorched and mysterious world, and a decade of questions waiting for answers.
 
-![Earth and Mercury seen together against the starfield, a tiny bright dot near the Sun's glare](https://images.unsplash.com/photo-1509391366360-2e959784a276?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1509391366360-2e959784a276-1200.avif" type="image/avif">
+<source srcset="/img/1509391366360-2e959784a276-1200.webp" type="image/webp">
+<img src="/img/1509391366360-2e959784a276-1200.webp" alt="Earth and Mercury seen together against the starfield, a tiny bright dot near the Sun's glare" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *After travelling 9.9 billion kilometres, BepiColombo is about to become the first mission to place two spacecraft in orbit around Mercury. Image: Unsplash.*

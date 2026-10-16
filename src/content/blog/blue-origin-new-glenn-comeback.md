@@ -11,7 +11,11 @@ If Blue Origin hits its target, the December flight will carry the company's Blu
 
 This is the story of New Glenn's year of triumph and disaster — and the rebuild meant to bring it back.
 
-![A rocket climbs skyward. Blue Origin's New Glenn is targeting December 2026 for its return to flight. Image: Unsplash.](https://images.unsplash.com/photo-1517976487492-5750f3195933?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1517976487492-5750f3195933-1200.avif" type="image/avif">
+<source srcset="/img/1517976487492-5750f3195933-1200.webp" type="image/webp">
+<img src="/img/1517976487492-5750f3195933-1200.webp" alt="A rocket climbs skyward. Blue Origin's New Glenn is targeting December 2026 for its return to flight. Image: Unsplash." width="1200" height="675" fetchpriority="high" decoding="async">
+</picture>
 *Blue Origin's New Glenn aims for a December 2026 return to flight after a year of highs and lows. Image: Unsplash.*
 
 ## NG-1: Orbit at Last, Booster Lost
@@ -36,7 +40,11 @@ The Federal Aviation Administration opened a mishap investigation, grounding New
 
 Six days later, the rocket exploded.
 
-![A star-filled sky. New Glenn's year included a Mars mission success and a devastating test-stand explosion. Image: Unsplash.](https://images.unsplash.com/photo-1520034475321-cbe63696469a?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1520034475321-cbe63696469a-1200.avif" type="image/avif">
+<source srcset="/img/1520034475321-cbe63696469a-1200.webp" type="image/webp">
+<img src="/img/1520034475321-cbe63696469a-1200.webp" alt="A star-filled sky. New Glenn's year included a Mars mission success and a devastating test-stand explosion. Image: Unsplash." width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *New Glenn's 2026 has swung from triumph to disaster — and now, a rebuild. Image: Unsplash.*
 
 ## May 28: Fire on the Pad
@@ -73,7 +81,11 @@ The target Bezos named in October is December 2026, with the company's Blue Ring
 
 Whether December holds will depend on the usual gauntlet: completing the replacement vehicle, finishing pad repairs, working through the investigation's corrective actions, and securing the launch license. Seven months from explosion to launch would be an aggressive turnaround by any standard — a pace more reminiscent of SpaceX's post-failure recoveries than of Blue Origin's historically deliberate tempo. The company that once preached "gradatim ferociter" — step by step, ferociously — is about to find out how ferociously it can step.
 
-![Stars scattered across the night sky. New Glenn's manifest includes Amazon's broadband constellation and lunar missions. Image: Unsplash.](https://images.unsplash.com/photo-1465101162946-4377e57745c3?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1465101162946-4377e57745c3-1200.avif" type="image/avif">
+<source srcset="/img/1465101162946-4377e57745c3-1200.webp" type="image/webp">
+<img src="/img/1465101162946-4377e57745c3-1200.webp" alt="Stars scattered across the night sky. New Glenn's manifest includes Amazon's broadband constellation and lunar missions. Image: Unsplash." width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *New Glenn's manifest includes Amazon's Leo constellation, commercial satellites, and NASA's Artemis lander program. Image: Unsplash.*
 
 ## The Manifest Waiting on the Pad
@@ -100,12 +112,20 @@ Miss it — or worse, fail again — and the questions get existential. Can Blue
 
 The company has been here before, in a sense. After NG-1's lost booster, it landed the next one. After NG-3's stranded satellite, it traced the failure to a frozen line and was cleared to fly. The pattern of Blue Origin's setbacks is that each has been followed by a fix and a return — until May, when the fix got much bigger. The question now is whether the pattern holds at this scale.
 
-![Earth from space. The road to the Moon — and to orbit — runs through a successful New Glenn recovery. Image: Unsplash.](https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1446776811953-b23d57bd21aa-1200.avif" type="image/avif">
+<source srcset="/img/1446776811953-b23d57bd21aa-1200.webp" type="image/webp">
+<img src="/img/1446776811953-b23d57bd21aa-1200.webp" alt="Earth from space. The road to the Moon — and to orbit — runs through a successful New Glenn recovery. Image: Unsplash." width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *New Glenn's recovery matters beyond one company — for Amazon's constellation, national security launches, and NASA's return to the Moon. Image: Unsplash.*
 
 There is a particular poignancy to a rocket named for John Glenn spending 2026 in pieces. Glenn's own path to orbit took years of delays, scrubbed launches, and a nation holding its breath. He flew anyway. Blue Origin's engineers, rebuilding a rocket beside a scorched pad in Florida, are engaged in the least glamorous and most essential work in spaceflight: not the dreaming, but the fixing.
 
 December will tell whether the fixing was enough. The countdown, one way or another, is on.
 
-![A spiral galaxy in deep space. Blue Origin's ambitions stretch from Earth orbit to the lunar surface. Image: Unsplash.](https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1444703686981-a3abbc4d4fe3-1200.avif" type="image/avif">
+<source srcset="/img/1444703686981-a3abbc4d4fe3-1200.webp" type="image/webp">
+<img src="/img/1444703686981-a3abbc4d4fe3-1200.webp" alt="A spiral galaxy in deep space. Blue Origin's ambitions stretch from Earth orbit to the lunar surface. Image: Unsplash." width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *From broadband constellations to Moon landers, Blue Origin's future hinges on New Glenn flying again. Image: Unsplash.*
