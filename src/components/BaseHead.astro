@@ -37,10 +37,35 @@ const imageURL = ogImage ?? SITE_OG_IMAGE;
 />
 <meta name="generator" content={Astro.generator} />
 <meta name="google-adsense-account" content="ca-pub-9526142342543425" />
-<script
-	async
-	src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9526142342543425"
-	crossorigin="anonymous"></script>
+<!-- Preconnect to the image CDN so article images start loading sooner -->
+<link rel="preconnect" href="https://images.unsplash.com" />
+<link rel="dns-prefetch" href="https://images.unsplash.com" />
+<!-- AdSense loads only after the page is interactive, so the ad script can
+     never block rendering or inflate Total Blocking Time. Revenue is
+     unaffected: the script still loads on every page view, just a moment
+     later, outside the critical path. -->
+<script>
+	(function () {
+		function loadAds() {
+			if (window.__adsLoaded) return;
+			window.__adsLoaded = true;
+			var s = document.createElement('script');
+			s.async = true;
+			s.src =
+				'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9526142342543425';
+			s.crossOrigin = 'anonymous';
+			document.head.appendChild(s);
+		}
+		if ('requestIdleCallback' in window) {
+			window.requestIdleCallback(loadAds, { timeout: 2500 });
+		} else {
+			setTimeout(loadAds, 1500);
+		}
+		window.addEventListener('load', function () {
+			setTimeout(loadAds, 800);
+		});
+	})();
+</script>
 
 <!-- Canonical URL -->
 <link rel="canonical" href={canonicalURL} />

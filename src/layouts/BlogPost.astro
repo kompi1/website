@@ -85,6 +85,23 @@ const jsonLd = {
 			.last-updated-on {
 				font-style: italic;
 			}
+			/* Reserve space for article images before they load so the page
+			   never jumps (zero Cumulative Layout Shift). */
+			.prose img {
+				width: 100%;
+				height: auto;
+				aspect-ratio: 16 / 9;
+				object-fit: cover;
+				border-radius: 12px;
+			}
+			/* Image captions sit in a paragraph of their own right after the
+			   image: center them and tone them down. */
+			.prose p > em:only-child {
+				display: block;
+				text-align: center;
+				font-size: 0.85rem;
+				color: var(--muted);
+			}
 		</style>
 	</head>
 
