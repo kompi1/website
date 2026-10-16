@@ -15,7 +15,11 @@ It is, in short, a routine cargo run that is anything but routine.
 
 The mission began at 6:33 a.m. EDT on Tuesday, October 13, when a Falcon 9 rocket lifted off from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida. The timing — just before sunrise — produced one of the most photographed launch phenomena in recent memory: a glowing, billowing plume that spread across the dawn sky like a jellyfish drifting through dark water.
 
-![A Falcon 9 rocket climbs through the dawn sky, its exhaust plume illuminated by the rising sun. Image: Unsplash.](https://images.unsplash.com/photo-1517976487492-5750f3195933?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1517976487492-5750f3195933-1200.avif" type="image/avif">
+<source srcset="/img/1517976487492-5750f3195933-1200.webp" type="image/webp">
+<img src="/img/1517976487492-5750f3195933-1200.webp" alt="A Falcon 9 rocket climbs through the dawn sky, its exhaust plume illuminated by the rising sun. Image: Unsplash." width="1200" height="675" fetchpriority="high" decoding="async">
+</picture>
 *A Falcon 9 rocket climbs through the dawn sky. Launches near sunrise or sunset can light up the exhaust plume like a glowing jellyfish. Image: Unsplash.*
 
 The spectacle was visible far beyond Florida. Early risers in Georgia, the Carolinas, Kentucky, Mississippi, and central Pennsylvania reported seeing the luminous cloud arcing northeast. Getty Images photographer Gary Hershorn captured it from Hoboken, New Jersey, as the plume drifted past lower Manhattan and One World Trade Center. NASA even took to social media to ask the public for more photos.
@@ -38,7 +42,11 @@ The most consequential hardware riding inside Dragon is not in the pressurized c
 
 When astronauts install them during a series of spacewalks planned for later this fall, the station's power system augmentation — a campaign years in the making — will be complete.
 
-![Solar panels glinting in sunlight. The final pair of roll-out solar arrays will complete the space station's power upgrade. Image: Unsplash.](https://images.unsplash.com/photo-1509391366360-2e959784a276?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1509391366360-2e959784a276-1200.avif" type="image/avif">
+<source srcset="/img/1509391366360-2e959784a276-1200.webp" type="image/webp">
+<img src="/img/1509391366360-2e959784a276-1200.webp" alt="Solar panels glinting in sunlight. The final pair of roll-out solar arrays will complete the space station's power upgrade. Image: Unsplash." width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *The final pair of roll-out solar arrays will complete the space station's power upgrade this fall. Image: Unsplash.*
 
 To understand why this matters, it helps to know the problem the arrays solve. The space station's original solar wings have been generating electricity since the early 2000s, and like all solar panels, they have degraded with age and relentless exposure to radiation and thermal cycling. Rather than undertaking the complex and risky work of removing the legacy wings, NASA chose an elegant overlay strategy: each new roll-out array is mounted in front of an existing wing, partially shadowing it while adding far more generation capacity than is lost.
@@ -75,7 +83,11 @@ On Earth, growing realistic heart tissue in a dish is notoriously difficult. Gra
 
 For pharmaceutical research, that matters enormously. Drugs that look promising in flat layers of cells in a petri dish frequently fail in the complexity of a living body. Tissue models with genuine blood-vessel architecture could help researchers weed out failures earlier — and do it without animal testing.
 
-![A modern research laboratory. Microgravity lets scientists grow tissues that gravity would collapse on Earth. Image: Unsplash.](https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1532187863486-abf9dbad1b69-1200.avif" type="image/avif">
+<source srcset="/img/1532187863486-abf9dbad1b69-1200.webp" type="image/webp">
+<img src="/img/1532187863486-abf9dbad1b69-1200.webp" alt="A modern research laboratory. Microgravity lets scientists grow tissues that gravity would collapse on Earth. Image: Unsplash." width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *In orbit, living tissues can self-assemble in ways gravity prevents on Earth. Image: Unsplash.*
 
 ### Villages of Mini-Brains
@@ -86,7 +98,11 @@ What makes MINDS unusual is its design. Each organoid is assembled from cells po
 
 Neuroinflammation — the brain's immune response gone awry — is increasingly suspected of playing a central role in neurodegenerative disease. Yet studying it in living patients is extraordinbly difficult; the brain does not lend itself to biopsy. Organoids offer a window into the process, and microgravity may make that window clearer by allowing the tissues to develop with less mechanical stress. If the experiment identifies molecular signals or drug targets associated with harmful inflammation, it could open new therapeutic avenues for diseases that collectively affect tens of millions of people worldwide.
 
-![An artistic rendering of a human brain. Brain organoids aboard the station may reveal new targets for Alzheimer's and Parkinson's treatments. Image: Unsplash.](https://images.unsplash.com/photo-1559757148-5c350d0d3c56?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1559757148-5c350d0d3c56-1200.avif" type="image/avif">
+<source srcset="/img/1559757148-5c350d0d3c56-1200.webp" type="image/webp">
+<img src="/img/1559757148-5c350d0d3c56-1200.webp" alt="An artistic rendering of a human brain. Brain organoids aboard the station may reveal new targets for Alzheimer's and Parkinson's treatments. Image: Unsplash." width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *Brain organoids aboard the station may reveal new targets for neurodegenerative disease treatments. Image: Unsplash.*
 
 ### Glass From Another World
@@ -119,7 +135,11 @@ Later this fall, astronauts will don spacesuits and head outside to install the 
 
 When Dragon departs in mid-November, it will carry home the frozen samples, manufactured prototypes, and data drives that are the mission's true payload. The supplies went up; the knowledge comes down.
 
-![Earth seen from orbit. The space station remains humanity's premier laboratory for science that can only be done in microgravity. Image: Unsplash.](https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1446776811953-b23d57bd21aa-1200.avif" type="image/avif">
+<source srcset="/img/1446776811953-b23d57bd21aa-1200.webp" type="image/webp">
+<img src="/img/1446776811953-b23d57bd21aa-1200.webp" alt="Earth seen from orbit. The space station remains humanity's premier laboratory for science that can only be done in microgravity. Image: Unsplash." width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *The space station remains humanity's premier laboratory for science that can only be done in microgravity. Image: Unsplash.*
 
 There is a tendency to treat cargo missions as the unglamorous plumbing of spaceflight — necessary, but not newsworthy next to crewed launches and Moon shots. CRS-35 is a reminder that the plumbing matters. Every future mission, from the Artemis landings to the first Mars transit, will depend on the unglamorous mastery of logistics, power, and life support being refined aboard the station right now.
