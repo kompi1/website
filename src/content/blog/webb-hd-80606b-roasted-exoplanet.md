@@ -10,9 +10,9 @@ Every 111 days, a world 217 light-years from Earth endures the most violent weat
 Astronomers have long called it the "roasted exoplanet" — NASA even gave it its own poster in the agency's beloved exoplanet travel-poster series. But until now, nobody had ever watched the roasting happen in detail. This week, at the 248th meeting of the American Astronomical Society in Pasadena, California, a team led by Tiffany Kataria of NASA's Jet Propulsion Laboratory presented the first time-resolved portrait of the planet's inferno, captured by the James Webb Space Telescope's Mid-Infrared Instrument. The verdict: the flash-heating is even more extreme than anyone anticipated.
 
 <picture>
-<source srcset="/img/1459908676235-d5f02a50184b-1200.avif" type="image/avif">
-<source srcset="/img/1459908676235-d5f02a50184b-1200.webp" type="image/webp">
-<img src="/img/1459908676235-d5f02a50184b-1200.webp" alt="Artist concept of a hot Jupiter exoplanet near its star" width="1200" height="675" fetchpriority="high" decoding="async">
+<source srcset="/img/1459908676235-d5f02a50184b-1000.avif" type="image/avif">
+<source srcset="/img/1459908676235-d5f02a50184b-700.webp" type="image/webp">
+<img src="/img/1459908676235-d5f02a50184b-700.webp" alt="Artist concept of a hot Jupiter exoplanet near its star" width="1000" height="563" fetchpriority="high" decoding="async">
 </picture>
 *An artist's concept of a gas giant enduring extreme stellar heating. Image: Unsplash.*
 
@@ -41,9 +41,9 @@ Why the surprise? Spitzer's measurements, groundbreaking in their day, were esse
 The team has only begun to analyze what Kataria's colleagues describe as an incredibly rich dataset. The temperature curve alone — the hour-by-hour rise and fall — encodes information about how quickly the atmosphere absorbs heat, how winds carry that heat from the day side to the night side, and how the planet's interior responds to a thermal pulse that penetrates deeper with each orbit. Every wiggle in the light curve is a clue.
 
 <picture>
-<source srcset="/img/1516849841032-87cbac4d88f7-1200.avif" type="image/avif">
-<source srcset="/img/1516849841032-87cbac4d88f7-1200.webp" type="image/webp">
-<img src="/img/1516849841032-87cbac4d88f7-1200.webp" alt="Infrared observation of a distant exoplanet system" width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1516849841032-87cbac4d88f7-1000.avif" type="image/avif">
+<source srcset="/img/1516849841032-87cbac4d88f7-700.webp" type="image/webp">
+<img src="/img/1516849841032-87cbac4d88f7-700.webp" alt="Infrared observation of a distant exoplanet system" width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *Webb's infrared instruments reveal heat and chemistry on distant worlds. Image: Unsplash.*
 
@@ -72,9 +72,9 @@ The observation is a technical achievement in its own right. MIRI operates at te
 And there will be more. The team has made clear that the analysis presented at the AAS meeting is only the beginning. The full dataset contains spectroscopic information across MIRI's wavelength range, and extracting every molecule, every cloud signature, and every wind pattern from it will take months or years. Future periastron passages offer the chance to watch the event again — to see whether the atmosphere behaves the same way every orbit, or whether the planet's weather has a chaotic streak. Other eccentric giants, discovered by NASA's TESS mission and by ground-based surveys, are waiting for the same treatment.
 
 <picture>
-<source srcset="/img/1614313913007-2b4ae8ce32d6-1200.avif" type="image/avif">
-<source srcset="/img/1614313913007-2b4ae8ce32d6-1200.webp" type="image/webp">
-<img src="/img/1614313913007-2b4ae8ce32d6-1200.webp" alt="James Webb Space Telescope gold mirrors" width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1614313913007-2b4ae8ce32d6-1000.avif" type="image/avif">
+<source srcset="/img/1614313913007-2b4ae8ce32d6-700.webp" type="image/webp">
+<img src="/img/1614313913007-2b4ae8ce32d6-700.webp" alt="James Webb Space Telescope gold mirrors" width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *Webb's gold-coated mirrors capture the faintest infrared light. Image: Unsplash.*
 
@@ -95,8 +95,8 @@ For the astronomers who have chased this planet since the Spitzer era, the new r
 Every 111 days, HD 80606 b dives into the fire and comes back out. Now, for the first time, we are watching.
 
 <picture>
-<source srcset="/img/1465101162946-4377e57745c3-1200.avif" type="image/avif">
-<source srcset="/img/1465101162946-4377e57745c3-1200.webp" type="image/webp">
-<img src="/img/1465101162946-4377e57745c3-1200.webp" alt="A gas giant silhouetted against its host star" width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1465101162946-4377e57745c3-1000.avif" type="image/avif">
+<source srcset="/img/1465101162946-4377e57745c3-700.webp" type="image/webp">
+<img src="/img/1465101162946-4377e57745c3-700.webp" alt="A gas giant silhouetted against its host star" width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *HD 80606 b endures the most violent weather of any known planet. Image: Unsplash.*
