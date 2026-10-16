@@ -10,9 +10,9 @@ In four days, on a small island at the southern tip of Japan, a rocket will rise
 The stakes go far beyond national prestige. For decades, planetary scientists have argued over where Phobos and its smaller companion Deimos came from — whether they are captured asteroids yanked into Mars orbit by gravity, or debris flung into space by a colossal impact and reassembled into moons. MMX's samples, just ten grams or more of regolith, could settle the debate decisively and, in doing so, rewrite a chapter of solar system history: how planets and their moons form, how water and organic material reached the inner solar system, and perhaps even how the ingredients for life arrived on Earth.
 
 <picture>
-<source srcset="/img/1517976487492-5750f3195933-1200.avif" type="image/avif">
-<source srcset="/img/1517976487492-5750f3195933-1200.webp" type="image/webp">
-<img src="/img/1517976487492-5750f3195933-1200.webp" alt="A rocket lifting off from a coastal launch pad, trailing fire and smoke." width="1200" height="675" fetchpriority="high" decoding="async">
+<source srcset="/img/1517976487492-5750f3195933-1000.avif" type="image/avif">
+<source srcset="/img/1517976487492-5750f3195933-700.webp" type="image/webp">
+<img src="/img/1517976487492-5750f3195933-700.webp" alt="A rocket lifting off from a coastal launch pad, trailing fire and smoke." width="1000" height="563" fetchpriority="high" decoding="async">
 </picture>
 *A rocket lifts off from a coastal pad. MMX will depart aboard Japan's H3 rocket from the coastal Tanegashima Space Center. Image: Unsplash.*
 
@@ -37,9 +37,9 @@ The giant impact hypothesis, by contrast, argues that the moons formed from debr
 As one recent analysis noted, the debate has only grown more complicated: researchers now discuss at least three competing explanations rather than two. Surface spectra of the moons tend to favor a captured-asteroid origin, yet their near-equatorial, nearly circular orbits look more like debris-disk relics than captured wanderers. Remote sensing alone cannot break the deadlock — not from orbit, and not from the surface. Only laboratory analysis of actual samples, measured with instruments too large, too power-hungry, and too precise to fly on a spacecraft, can tell the difference. That is why MMX exists.
 
 <picture>
-<source srcset="/img/1462331940025-496dfbfc7564-1200.avif" type="image/avif">
-<source srcset="/img/1462331940025-496dfbfc7564-1200.webp" type="image/webp">
-<img src="/img/1462331940025-496dfbfc7564-1200.webp" alt="A planetary nebula: a luminous bubble of gas and dust surrounding a dying star." width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1462331940025-496dfbfc7564-1000.avif" type="image/avif">
+<source srcset="/img/1462331940025-496dfbfc7564-700.webp" type="image/webp">
+<img src="/img/1462331940025-496dfbfc7564-700.webp" alt="A planetary nebula: a luminous bubble of gas and dust surrounding a dying star." width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *A planetary nebula — the expanding gas of a dying star. Samples from Phobos could reveal how moons and planets assembled in the young solar system. Image: Unsplash.*
 
@@ -60,9 +60,9 @@ The first NASA instrument is MEGANE — the Mars-moon Exploration with GAmma ray
 The second NASA contribution is the P-Sampler, a pneumatic collection mechanism from Honeybee Robotics, now part of Blue Origin. Mounted on one of the spacecraft's landing legs, it fires a jet of pressurized gas into the regolith and captures the blasted grains — a descendant of the PlanetVac sampling technology, some versions of which received support from The Planetary Society. The device has already been tested in California's Mojave Desert and, tellingly, on the Moon itself: it flew on Firefly Aerospace's Blue Ghost Mission-1 lander in 2025 and collected 13 grams of lunar regolith there. Its heritage makes it one of the most flight-proven sampling mechanisms ever aimed at another world.
 
 <picture>
-<source srcset="/img/1532187863486-abf9dbad1b69-1200.avif" type="image/avif">
-<source srcset="/img/1532187863486-abf9dbad1b69-1200.webp" type="image/webp">
-<img src="/img/1532187863486-abf9dbad1b69-1200.webp" alt="Laboratory glassware: a pipette filling rows of sample tubes with pink liquid." width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1532187863486-abf9dbad1b69-1000.avif" type="image/avif">
+<source srcset="/img/1532187863486-abf9dbad1b69-700.webp" type="image/webp">
+<img src="/img/1532187863486-abf9dbad1b69-700.webp" alt="Laboratory glassware: a pipette filling rows of sample tubes with pink liquid." width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *Laboratory analysis of returned samples. Phobos material will be studied in labs on Earth — some kept for decades — for clues to the solar system's formation. Image: Unsplash.*
 
@@ -89,9 +89,9 @@ MMX's ride to Mars is itself a story of recovery. The H3 rocket is Japan's flags
 This past June, the H3 returned to flight, and MMX — flight H3 F10 — will now fly as a proof that Japan's launcher has matured. The mission's placement on the tenth flight of the vehicle underscores the trust JAXA is placing in its flagship. For the Japanese space program, October 20 is about more than one spacecraft: it is a statement that the H3 is ready for the deep-space decade ahead, with crewed lunar ambitions, planetary missions, and commercial contracts riding on its reliability.
 
 <picture>
-<source srcset="/img/1446776811953-b23d57bd21aa-1200.avif" type="image/avif">
-<source srcset="/img/1446776811953-b23d57bd21aa-1200.webp" type="image/webp">
-<img src="/img/1446776811953-b23d57bd21aa-1200.webp" alt="The curved horizon of Earth seen from orbit, with a spacecraft module in frame." width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1446776811953-b23d57bd21aa-1000.avif" type="image/avif">
+<source srcset="/img/1446776811953-b23d57bd21aa-700.webp" type="image/webp">
+<img src="/img/1446776811953-b23d57bd21aa-700.webp" alt="The curved horizon of Earth seen from orbit, with a spacecraft module in frame." width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *Earth from orbit. After a five-year voyage, MMX's return capsule will streak home through the atmosphere in 2031. Image: Unsplash.*
 
@@ -110,9 +110,9 @@ JAXA will carry the launch live from Tanegashima, and the mission's website will
 For a mission that began as a line item in a 2015 announcement, survived rocket failures, international budget battles, and a slipping launch window, the countdown now feels almost unreal. But the physics of the solar system does not wait: the window is open, the spacecraft is fueled, and the moons are where they have always been, circling Mars in the dark. On October 20, humanity begins the long journey to touch one of them — and to bring a piece of the Mars system home.
 
 <picture>
-<source srcset="/img/1447433589675-4aaa569f3e05-1200.avif" type="image/avif">
-<source srcset="/img/1447433589675-4aaa569f3e05-1200.webp" type="image/webp">
-<img src="/img/1447433589675-4aaa569f3e05-1200.webp" alt="A cratered, moon-like surface seen from low altitude." width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1447433589675-4aaa569f3e05-1000.avif" type="image/avif">
+<source srcset="/img/1447433589675-4aaa569f3e05-700.webp" type="image/webp">
+<img src="/img/1447433589675-4aaa569f3e05-700.webp" alt="A cratered, moon-like surface seen from low altitude." width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *A cratered lunar landscape. Phobos, a 22-kilometer cratered body orbiting Mars, has never been landed on by any spacecraft. Image: Unsplash.*
 

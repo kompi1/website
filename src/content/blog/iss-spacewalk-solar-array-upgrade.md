@@ -6,9 +6,9 @@ category: 'Missions'
 ---
 
 <picture>
-<source srcset="/img/1446776811953-b23d57bd21aa-1200.avif" type="image/avif">
-<source srcset="/img/1446776811953-b23d57bd21aa-1200.webp" type="image/webp">
-<img src="/img/1446776811953-b23d57bd21aa-1200.webp" alt="Two astronauts working outside the International Space Station during a spacewalk" width="1200" height="675" fetchpriority="high" decoding="async">
+<source srcset="/img/1446776811953-b23d57bd21aa-1000.avif" type="image/avif">
+<source srcset="/img/1446776811953-b23d57bd21aa-700.webp" type="image/webp">
+<img src="/img/1446776811953-b23d57bd21aa-700.webp" alt="Two astronauts working outside the International Space Station during a spacewalk" width="1000" height="563" fetchpriority="high" decoding="async">
 </picture>
 *NASA astronauts at work outside the International Space Station. Image: Unsplash.*
 
@@ -83,29 +83,29 @@ Menon's path to the airlock hatch was an unusual one. A physician by training, h
 Meir, meanwhile, continues to build one of the most distinguished spacewalking careers in NASA's astronaut corps. Her first flight in 2019–2020 included the historic first all-female spacewalk with Christina Koch. Now, with six EVAs and more than 42 hours of vacuum time to her name, she is the veteran that rookies dream of being paired with — the calm, precise presence who can talk a first-timer through a balky bolt while the planet turns beneath them.
 
 <picture>
-<source srcset="/img/1447433589675-4aaa569f3e05-1200.avif" type="image/avif">
-<source srcset="/img/1447433589675-4aaa569f3e05-1200.webp" type="image/webp">
-<img src="/img/1447433589675-4aaa569f3e05-1200.webp" alt="The International Space Station silhouetted against Earth" width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1447433589675-4aaa569f3e05-1000.avif" type="image/avif">
+<source srcset="/img/1447433589675-4aaa569f3e05-700.webp" type="image/webp">
+<img src="/img/1447433589675-4aaa569f3e05-700.webp" alt="The International Space Station silhouetted against Earth" width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *The International Space Station in orbit. Image: Unsplash.*
 
 <picture>
-<source srcset="/img/1459908676235-d5f02a50184b-1200.avif" type="image/avif">
-<source srcset="/img/1459908676235-d5f02a50184b-1200.webp" type="image/webp">
-<img src="/img/1459908676235-d5f02a50184b-1200.webp" alt="Astronaut's view of Earth from orbit" width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1459908676235-d5f02a50184b-1000.avif" type="image/avif">
+<source srcset="/img/1459908676235-d5f02a50184b-700.webp" type="image/webp">
+<img src="/img/1459908676235-d5f02a50184b-700.webp" alt="Astronaut's view of Earth from orbit" width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *Earth as seen from orbit — the view spacewalkers work above. Image: Unsplash.*
 
 <picture>
-<source srcset="/img/1509391366360-2e959784a276-1200.avif" type="image/avif">
-<source srcset="/img/1509391366360-2e959784a276-1200.webp" type="image/webp">
-<img src="/img/1509391366360-2e959784a276-1200.webp" alt="Solar panels catching sunlight in space" width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1509391366360-2e959784a276-1000.avif" type="image/avif">
+<source srcset="/img/1509391366360-2e959784a276-700.webp" type="image/webp">
+<img src="/img/1509391366360-2e959784a276-700.webp" alt="Solar panels catching sunlight in space" width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *Solar arrays are the station's lifeblood, converting sunlight into power for science and life support. Image: Unsplash.*
 
 <picture>
-<source srcset="/img/1462331940025-496dfbfc7564-1200.avif" type="image/avif">
-<source srcset="/img/1462331940025-496dfbfc7564-1200.webp" type="image/webp">
-<img src="/img/1462331940025-496dfbfc7564-1200.webp" alt="Starfield over Earth's horizon" width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1462331940025-496dfbfc7564-1000.avif" type="image/avif">
+<source srcset="/img/1462331940025-496dfbfc7564-700.webp" type="image/webp">
+<img src="/img/1462331940025-496dfbfc7564-700.webp" alt="Starfield over Earth's horizon" width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *The view from the truss: Earth below, infinity above. Image: Unsplash.*
