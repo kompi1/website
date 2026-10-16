@@ -8,9 +8,9 @@ category: 'Technology'
 Five minutes past five on a Tuesday morning in July, the sky over Florida's Space Coast was still black, and a rocket was already on its way back. Falcon 9 booster B1080 had done this exact thing twenty-seven times before: climbed away from Space Launch Complex 40 at Cape Canaveral, dropped its payload of Starlink satellites into orbit, turned around, threaded the atmosphere, and settled itself upright on a ship hundreds of kilometers offshore. This time, though, there was a number attached to the routine. When B1080 lifted off at 5:10 a.m. EDT on July 14, 2026, carrying 29 more Starlink satellites into low Earth orbit, it became the 600th flight of a flight-proven booster in SpaceX's history.
 
 <picture>
-<source srcset="/img/1517976487492-5750f3195933-1200.avif" type="image/avif">
-<source srcset="/img/1517976487492-5750f3195933-1200.webp" type="image/webp">
-<img src="/img/1517976487492-5750f3195933-1200.webp" alt="A rocket lifting off against a dark sky, engines blazing" width="1200" height="675" fetchpriority="high" decoding="async">
+<source srcset="/img/1517976487492-5750f3195933-1000.avif" type="image/avif">
+<source srcset="/img/1517976487492-5750f3195933-700.webp" type="image/webp">
+<img src="/img/1517976487492-5750f3195933-700.webp" alt="A rocket lifting off against a dark sky, engines blazing" width="1000" height="563" fetchpriority="high" decoding="async">
 </picture>
 *A Falcon 9 night launch. SpaceX's 600th flight-proven booster flight lifted off from Cape Canaveral in the predawn hours of July 14, 2026. Image: Unsplash.*
 
@@ -45,9 +45,9 @@ The eight-hour doubleheader also showcased something subtler than raw numbers: a
 Behind that smoothness lies an industrial base that has been years in the making: standardized booster refurbishment flows, a fleet of recovery ships, overlapping range coordination, and a manifest dominated by a single in-house customer. Starlink is not just a business for SpaceX; it is the flywheel that keeps the launch cadence spinning, and the launch cadence is what keeps Starlink growing.
 
 <picture>
-<source srcset="/img/1446776811953-b23d57bd21aa-1200.avif" type="image/avif">
-<source srcset="/img/1446776811953-b23d57bd21aa-1200.webp" type="image/webp">
-<img src="/img/1446776811953-b23d57bd21aa-1200.webp" alt="A satellite constellation concept over Earth" width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1446776811953-b23d57bd21aa-1000.avif" type="image/avif">
+<source srcset="/img/1446776811953-b23d57bd21aa-700.webp" type="image/webp">
+<img src="/img/1446776811953-b23d57bd21aa-700.webp" alt="A satellite constellation concept over Earth" width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *More than 10,800 Starlink satellites now circle the planet, and the network grows by dozens of spacecraft every week. Image: Unsplash.*
 
@@ -64,9 +64,9 @@ SpaceX is not slowing down. The Starlink constellation still has thousands of sa
 That confidence is the real product of the doubleheader. Fifty-six satellites, two boosters, eight hours, two coasts. The 600th flight-proven launch did not change anything about how SpaceX operates — and that is exactly why it matters. When a milestone passes without ceremony, it has become a baseline. The era in which rockets were used once and thrown away is not just over; it is six hundred flights in the rearview mirror.
 
 <picture>
-<source srcset="/img/1462331940025-496dfbfc7564-1200.avif" type="image/avif">
-<source srcset="/img/1462331940025-496dfbfc7564-1200.webp" type="image/webp">
-<img src="/img/1462331940025-496dfbfc7564-1200.webp" alt="Night sky with stars over a launch facility" width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1462331940025-496dfbfc7564-1000.avif" type="image/avif">
+<source srcset="/img/1462331940025-496dfbfc7564-700.webp" type="image/webp">
+<img src="/img/1462331940025-496dfbfc7564-700.webp" alt="Night sky with stars over a launch facility" width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *The predawn hours of July 14: B1080 climbed from SLC-40 at 5:10 a.m. EDT on its record-setting 28th flight. Image: Unsplash.*
 
@@ -81,9 +81,9 @@ The Block 5 variant of Falcon 9, introduced in 2018, was the turning point from 
 Each generation of the program taught the next. Early landings were treated as experiments with extensive teardown inspections. Then came the practice of flying boosters until individual components showed wear, replacing what needed replacing, and building a statistical understanding of which parts were the long poles. By 2026, turnaround was a production flow: land, transport, inspect, refurbish, refly. B1080's twenty-eight flights and B1093's fifteen were not heroic exceptions; they were Tuesday.
 
 <picture>
-<source srcset="/img/1459908676235-d5f02a50184b-1200.avif" type="image/avif">
-<source srcset="/img/1459908676235-d5f02a50184b-1200.webp" type="image/webp">
-<img src="/img/1459908676235-d5f02a50184b-1200.webp" alt="A starfield above the Earth" width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1459908676235-d5f02a50184b-1000.avif" type="image/avif">
+<source srcset="/img/1459908676235-d5f02a50184b-700.webp" type="image/webp">
+<img src="/img/1459908676235-d5f02a50184b-700.webp" alt="A starfield above the Earth" width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *SpaceX landed its first orbital-class booster in December 2015; the 600th flight-proven launch came just over a decade later. Image: Unsplash.*
 
@@ -110,9 +110,9 @@ There is a temptation to treat milestones like these as marketing — and SpaceX
 The next hundred will come quickly. At 2026's pace, SpaceX was logging a Falcon 9 mission roughly every two and a half days; the 700th flight-proven launch is a matter of months away. Each one will be, in its particulars, unremarkable: a rocket goes up, a rocket comes down, satellites join the network. The remarkable thing is that this is now the unremarkable thing. Six hundred times, a piece of hardware that used to be thrown away came home and flew again — and the sky above us is busier, more connected, and more accessible because of it.
 
 <picture>
-<source srcset="/img/1447433589675-4aaa569f3e05-1200.avif" type="image/avif">
-<source srcset="/img/1447433589675-4aaa569f3e05-1200.webp" type="image/webp">
-<img src="/img/1447433589675-4aaa569f3e05-1200.webp" alt="Earth viewed from orbit at night" width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1447433589675-4aaa569f3e05-1000.avif" type="image/avif">
+<source srcset="/img/1447433589675-4aaa569f3e05-700.webp" type="image/webp">
+<img src="/img/1447433589675-4aaa569f3e05-700.webp" alt="Earth viewed from orbit at night" width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *The 600th flight-proven booster launch underscores how reusability has become the industry standard SpaceX built. Image: Unsplash.*
 

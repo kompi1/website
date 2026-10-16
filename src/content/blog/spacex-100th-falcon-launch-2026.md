@@ -16,9 +16,9 @@ The numbers behind the milestone are difficult to fully absorb. SpaceX flew 96 F
 By the time of the 100th flight, SpaceX was averaging roughly one Falcon 9 orbital launch every 2.4 days. Most of this year's missions have supported Starlink — the August 25 flight was the 77th Starlink-dedicated mission of 2026 — but the manifest has also carried crew to the International Space Station, cargo resupply runs, national security payloads, and commercial satellites for customers around the world.
 
 <picture>
-<source srcset="/img/1517976487492-5750f3195933-1200.avif" type="image/avif">
-<source srcset="/img/1517976487492-5750f3195933-1200.webp" type="image/webp">
-<img src="/img/1517976487492-5750f3195933-1200.webp" alt="A Falcon 9 rocket lifts off in the pre-dawn darkness" width="1200" height="675" fetchpriority="high" decoding="async">
+<source srcset="/img/1517976487492-5750f3195933-1000.avif" type="image/avif">
+<source srcset="/img/1517976487492-5750f3195933-700.webp" type="image/webp">
+<img src="/img/1517976487492-5750f3195933-700.webp" alt="A Falcon 9 rocket lifts off in the pre-dawn darkness" width="1000" height="563" fetchpriority="high" decoding="async">
 </picture>
 *SpaceX's workhorse Falcon 9 climbing skyward on an early-morning launch. Image: Unsplash.*
 
@@ -33,9 +33,9 @@ If the 100th flight was the headline, booster B1067 was the story. The veteran f
 Tuesday's mission was its 37th. After stage separation, B1067 executed its entry and landing burns and touched down on the autonomous droneship *A Shortfall of Gravitas* stationed in the Atlantic Ocean, about eight and a half minutes after liftoff. The upper stage, meanwhile, continued to orbit and deployed all 29 Starlink satellites roughly 61.5 minutes into the flight.
 
 <picture>
-<source srcset="/img/1446776811953-b23d57bd21aa-1200.avif" type="image/avif">
-<source srcset="/img/1446776811953-b23d57bd21aa-1200.webp" type="image/webp">
-<img src="/img/1446776811953-b23d57bd21aa-1200.webp" alt="A rocket booster descends toward a droneship landing" width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1446776811953-b23d57bd21aa-1000.avif" type="image/avif">
+<source srcset="/img/1446776811953-b23d57bd21aa-700.webp" type="image/webp">
+<img src="/img/1446776811953-b23d57bd21aa-700.webp" alt="A rocket booster descends toward a droneship landing" width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *Recovery at sea: a Falcon booster returns for another flight. Image: Unsplash.*
 
@@ -56,9 +56,9 @@ The operational rhythm matters as much as the hardware. SpaceX's launch teams ha
 Tuesday's launch gave early risers an unexpected show. Atmospheric conditions in the upper atmosphere created a visible noctilucent vapor plume — the twisting, glowing cloud sometimes called a "space jellyfish" — as the Falcon 9's exhaust interacted with the thin air at the edge of space. Observers reported the phenomenon from Florida's Gulf Coast all the way up the Eastern Seaboard to the Washington, D.C. region, with photos flooding social media within minutes.
 
 <picture>
-<source srcset="/img/1459908676235-d5f02a50184b-1200.avif" type="image/avif">
-<source srcset="/img/1459908676235-d5f02a50184b-1200.webp" type="image/webp">
-<img src="/img/1459908676235-d5f02a50184b-1200.webp" alt="Earth's atmosphere glowing at the edge of space" width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1459908676235-d5f02a50184b-1000.avif" type="image/avif">
+<source srcset="/img/1459908676235-d5f02a50184b-700.webp" type="image/webp">
+<img src="/img/1459908676235-d5f02a50184b-700.webp" alt="Earth's atmosphere glowing at the edge of space" width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *High-altitude exhaust plumes can paint the dawn sky in spectacular fashion. Image: Unsplash.*
 
@@ -101,9 +101,9 @@ Behind every reuse record is a balance sheet. Building a new Falcon 9 first stag
 The effect compounds. Cheaper launches mean more Starlink satellites deployed per dollar, which means a bigger constellation generating more revenue, which funds more launches. Competitors face the brutal arithmetic of expendable rockets: every flight starts from zero, with a brand-new vehicle consumed each time. Even partially reusable designs still in development must first prove they can match what SpaceX does routinely — then do it cheaper, which is a much harder problem.
 
 <picture>
-<source srcset="/img/1516849841032-87cbac4d88f7-1200.avif" type="image/avif">
-<source srcset="/img/1516849841032-87cbac4d88f7-1200.webp" type="image/webp">
-<img src="/img/1516849841032-87cbac4d88f7-1200.webp" alt="A rocket engine test firing on a stand" width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1516849841032-87cbac4d88f7-1000.avif" type="image/avif">
+<source srcset="/img/1516849841032-87cbac4d88f7-700.webp" type="image/webp">
+<img src="/img/1516849841032-87cbac4d88f7-700.webp" alt="A rocket engine test firing on a stand" width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *Merlin engines built for dozens of firings, not just one. Image: Unsplash.*
 
@@ -118,9 +118,9 @@ There is no sign of the pace slowing. SpaceX continues to prepare its next-gener
 For the rest of the industry, the 100th flight is both a benchmark and a warning. Reusability was supposed to be the great equalizer; instead, SpaceX has turned it into a widening moat. Competitors are making strides — China's landing tests, Europe's recovery efforts, new American vehicles inching toward debut — but the gap between a first successful landing and a 37-times-flown booster is measured in years of operational learning, not months.
 
 <picture>
-<source srcset="/img/1447433589675-4aaa569f3e05-1200.avif" type="image/avif">
-<source srcset="/img/1447433589675-4aaa569f3e05-1200.webp" type="image/webp">
-<img src="/img/1447433589675-4aaa569f3e05-1200.webp" alt="Satellites deploying into low Earth orbit" width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1447433589675-4aaa569f3e05-1000.avif" type="image/avif">
+<source srcset="/img/1447433589675-4aaa569f3e05-700.webp" type="image/webp">
+<img src="/img/1447433589675-4aaa569f3e05-700.webp" alt="Satellites deploying into low Earth orbit" width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *Starlink satellites joining a constellation of more than 11,000 spacecraft. Image: Unsplash.*
 

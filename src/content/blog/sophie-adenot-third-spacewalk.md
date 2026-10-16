@@ -20,9 +20,9 @@ From there, the two spacewalkers split up to cover their separate work sites, a 
 While Adenot worked the Harmony port, Meir rode the Canadarm2 robotic arm out to the site of a failed high-definition camera and swapped it for a spare. The arm, operated from inside the station, gave her a stable platform and a commanding view of the truss — a reminder of how modern spacewalks blend human dexterity with robotic reach.
 
 <picture>
-<source srcset="/img/1517976487492-5750f3195933-1200.avif" type="image/avif">
-<source srcset="/img/1517976487492-5750f3195933-1200.webp" type="image/webp">
-<img src="/img/1517976487492-5750f3195933-1200.webp" alt="Astronaut conducting a spacewalk outside the International Space Station" width="1200" height="675" fetchpriority="high" decoding="async">
+<source srcset="/img/1517976487492-5750f3195933-1000.avif" type="image/avif">
+<source srcset="/img/1517976487492-5750f3195933-700.webp" type="image/webp">
+<img src="/img/1517976487492-5750f3195933-700.webp" alt="Astronaut conducting a spacewalk outside the International Space Station" width="1000" height="563" fetchpriority="high" decoding="async">
 </picture>
 *Astronauts spent nearly seven hours outside the station during US EVA-99. Image: Unsplash.*
 
@@ -47,9 +47,9 @@ For Adenot, the symbolism was layered. Just weeks earlier, on 18 August, she had
 By September, the novelty of "firsts" had given way to something arguably more meaningful: routine excellence. Adenot wasn't a passenger on EVA-99. As EV-1, she led it.
 
 <picture>
-<source srcset="/img/1446776811953-b23d57bd21aa-1200.avif" type="image/avif">
-<source srcset="/img/1446776811953-b23d57bd21aa-1200.webp" type="image/webp">
-<img src="/img/1446776811953-b23d57bd21aa-1200.webp" alt="The International Space Station silhouetted against Earth's horizon" width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1446776811953-b23d57bd21aa-1000.avif" type="image/avif">
+<source srcset="/img/1446776811953-b23d57bd21aa-700.webp" type="image/webp">
+<img src="/img/1446776811953-b23d57bd21aa-700.webp" alt="The International Space Station silhouetted against Earth's horizon" width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *The International Space Station, where Adenot spent nearly eight months. Image: Unsplash.*
 ## Three walks, fifteen days
@@ -71,9 +71,9 @@ By August, with half a year in orbit behind her, she had settled into the peculi
 The mission's duration itself became a record: nearly eight months in space, making Adenot's the longest single spaceflight by a European astronaut. Long-duration missions are where the human spaceflight programme learns what it most needs to know for the journeys ahead — to the Moon's south pole, to Mars, and beyond. Every month in orbit refines the models of bone loss, radiation exposure, immune function, and psychological resilience that will decide whether those deeper journeys are survivable. Adenot's eight months, capped by three demanding EVAs, represent one of the richest single-mission datasets ESA has ever collected.
 
 <picture>
-<source srcset="/img/1459908676235-d5f02a50184b-1200.avif" type="image/avif">
-<source srcset="/img/1459908676235-d5f02a50184b-1200.webp" type="image/webp">
-<img src="/img/1459908676235-d5f02a50184b-1200.webp" alt="An astronaut floating during extravehicular activity" width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1459908676235-d5f02a50184b-1000.avif" type="image/avif">
+<source srcset="/img/1459908676235-d5f02a50184b-700.webp" type="image/webp">
+<img src="/img/1459908676235-d5f02a50184b-700.webp" alt="An astronaut floating during extravehicular activity" width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *Adenot completed 19 hours and 42 minutes of spacewalking in just 15 days. Image: Unsplash.*
 
@@ -94,9 +94,9 @@ For France, the symbolism was sharper still. Adenot is the first French woman to
 There is also a quieter significance in the composition of EVA-99's crew. Six all-female spacewalks in the history of the programme is still a small number, but the trajectory matters: from the first Koch–Meir excursions in 2019–2020, through the intervening years, to an EVA led by a European woman in 2026. The pipeline of women in the astronaut corps, in mission control, and in the engineering teams that build the suits and plan the timelines has been widening for a generation. EVA-99 was one more data point in that trend — and, for the young scientists watching in France and across Europe, a vivid one.
 
 <picture>
-<source srcset="/img/1462331940025-496dfbfc7564-1200.avif" type="image/avif">
-<source srcset="/img/1462331940025-496dfbfc7564-1200.webp" type="image/webp">
-<img src="/img/1462331940025-496dfbfc7564-1200.webp" alt="Earth's curvature seen from orbit" width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1462331940025-496dfbfc7564-1000.avif" type="image/avif">
+<source srcset="/img/1462331940025-496dfbfc7564-700.webp" type="image/webp">
+<img src="/img/1462331940025-496dfbfc7564-700.webp" alt="Earth's curvature seen from orbit" width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *Adenot's mission, epsilon, lasted nearly eight months — a European record. Image: Unsplash.*
 
@@ -107,9 +107,9 @@ Three EVAs in fifteen days also exact a toll that rarely makes the press release
 That Adenot's three spacewalks grew progressively longer — 6:23, then 6:30, then 6:49 — is a testament less to luck than to conditioning. EVA fitness is its own discipline, built through hundreds of hours in the Neutral Buoyancy Laboratory and maintained in orbit through the punishing daily exercise countermeasures that long-duration crews follow. By the third walk, Adenot wasn't just enduring the suit; she was directing the EVA in it. The red stripes of EV-1 are earned long before they are worn.
 
 <picture>
-<source srcset="/img/1447433589675-4aaa569f3e05-1200.avif" type="image/avif">
-<source srcset="/img/1447433589675-4aaa569f3e05-1200.webp" type="image/webp">
-<img src="/img/1447433589675-4aaa569f3e05-1200.webp" alt="The space station orbiting above Earth" width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1447433589675-4aaa569f3e05-1000.avif" type="image/avif">
+<source srcset="/img/1447433589675-4aaa569f3e05-700.webp" type="image/webp">
+<img src="/img/1447433589675-4aaa569f3e05-700.webp" alt="The space station orbiting above Earth" width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *Station EVAs blend human dexterity with robotic support from Canadarm2. Image: Unsplash.*
 
