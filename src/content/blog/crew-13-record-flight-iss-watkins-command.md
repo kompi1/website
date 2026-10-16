@@ -12,9 +12,9 @@ At 7:05 p.m. EDT that same evening, their Crew Dragon spacecraft docked autonomo
 The flight also carried a milestone of a different kind. Commander Jessica Watkins, a geologist who previously spent six months aboard the station on the Crew-4 mission in 2022, became the first Black woman to command a crew into orbit — a first she added to her earlier distinction as the first Black woman to serve on a long-duration ISS expedition.
 
 <picture>
-<source srcset="/img/1517976487492-5750f3195933-1200.avif" type="image/avif">
-<source srcset="/img/1517976487492-5750f3195933-1200.webp" type="image/webp">
-<img src="/img/1517976487492-5750f3195933-1200.webp" alt="SpaceX Falcon 9 rocket rising from the launch pad" width="1200" height="675" fetchpriority="high" decoding="async">
+<source srcset="/img/1517976487492-5750f3195933-1000.avif" type="image/avif">
+<source srcset="/img/1517976487492-5750f3195933-700.webp" type="image/webp">
+<img src="/img/1517976487492-5750f3195933-700.webp" alt="SpaceX Falcon 9 rocket rising from the launch pad" width="1000" height="563" fetchpriority="high" decoding="async">
 </picture>
 *A Falcon 9 rocket climbs away from Florida's Space Coast. Image: Unsplash.*
 
@@ -33,9 +33,9 @@ At 9:19 p.m. EDT, after post-docking checks and pressure equalization, the hatch
 The sprint to the station matters for reasons beyond bragging rights. Shorter transit times mean less time in a cramped capsule, lower exposure to the risks of launch and early flight, and quicker relief for the crew waiting above. The Crew-13 flight — designated USCV-13, the 13th operational crew rotation mission flown by SpaceX under NASA's Commercial Crew Program — showed that the fast-rendezvous techniques once pioneered by Russian Soyuz vehicles are now firmly in the American repertoire.
 
 <picture>
-<source srcset="/img/1459908676235-d5f02a50184b-1200.avif" type="image/avif">
-<source srcset="/img/1459908676235-d5f02a50184b-1200.webp" type="image/webp">
-<img src="/img/1459908676235-d5f02a50184b-1200.webp" alt="Rocket exhaust plume glowing in the sky at dawn" width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1459908676235-d5f02a50184b-1000.avif" type="image/avif">
+<source srcset="/img/1459908676235-d5f02a50184b-700.webp" type="image/webp">
+<img src="/img/1459908676235-d5f02a50184b-700.webp" alt="Rocket exhaust plume glowing in the sky at dawn" width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *A rocket's exhaust plume illuminated against a predawn sky, similar to the "space jellyfish" effect seen at dawn launches. Image: Unsplash.*
 
@@ -50,9 +50,9 @@ Luke Delaney, the pilot, is a NASA astronaut and former naval aviator making his
 Sergey Teteryatnikov, a Roscosmos cosmonaut and submariner by background, rounds out the crew as a mission specialist. His presence continues the seat-swap arrangement between NASA and Roscosmos that has persisted even as geopolitical tensions on the ground have strained relations elsewhere — American and Russian crew members still fly on each other's vehicles to ensure both nations always have a trained presence aboard the station.
 
 <picture>
-<source srcset="/img/1462331940025-496dfbfc7564-1200.avif" type="image/avif">
-<source srcset="/img/1462331940025-496dfbfc7564-1200.webp" type="image/webp">
-<img src="/img/1462331940025-496dfbfc7564-1200.webp" alt="The International Space Station in orbit" width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1462331940025-496dfbfc7564-1000.avif" type="image/avif">
+<source srcset="/img/1462331940025-496dfbfc7564-700.webp" type="image/webp">
+<img src="/img/1462331940025-496dfbfc7564-700.webp" alt="The International Space Station in orbit" width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *The International Space Station, humanity's continuously inhabited outpost in low Earth orbit. Image: Unsplash.*
 
@@ -81,9 +81,9 @@ Two other lines of research are more personal. Crew-13 will continue studies of 
 Together, the research portfolio reflects what the ISS has become in its final years of operation: not just a destination, but a testbed for the technologies and knowledge that will underpin lunar and Martian exploration, and a platform whose discoveries regularly filter back into medicine, agriculture, and materials science on Earth.
 
 <picture>
-<source srcset="/img/1447433589675-4aaa569f3e05-1200.avif" type="image/avif">
-<source srcset="/img/1447433589675-4aaa569f3e05-1200.webp" type="image/webp">
-<img src="/img/1447433589675-4aaa569f3e05-1200.webp" alt="Earth's horizon from orbit" width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1447433589675-4aaa569f3e05-1000.avif" type="image/avif">
+<source srcset="/img/1447433589675-4aaa569f3e05-700.webp" type="image/webp">
+<img src="/img/1447433589675-4aaa569f3e05-700.webp" alt="Earth's horizon from orbit" width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *Earth's horizon as seen from orbit — the view awaiting Crew-13 for six months. Image: Unsplash.*
 
@@ -104,9 +104,9 @@ This flight makes her the first Black woman to command a crew in orbit, and the 
 The significance is not lost on the communities watching. When Watkins flew in 2022, she spoke about representation as a practical matter: seeing someone who looks like you do the job makes the job feel possible. Commanding Crew-13 extends that message from participation to leadership — from being aboard to being in charge.
 
 <picture>
-<source srcset="/img/1502134249126-9f3755a50d78-1200.avif" type="image/avif">
-<source srcset="/img/1502134249126-9f3755a50d78-1200.webp" type="image/webp">
-<img src="/img/1502134249126-9f3755a50d78-1200.webp" alt="Night sky with stars over mountains" width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1502134249126-9f3755a50d78-1000.avif" type="image/avif">
+<source srcset="/img/1502134249126-9f3755a50d78-700.webp" type="image/webp">
+<img src="/img/1502134249126-9f3755a50d78-700.webp" alt="Night sky with stars over mountains" width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *A starry night sky — the view that inspired a generation of astronauts to reach for orbit. Image: Unsplash.*
 
@@ -139,8 +139,8 @@ And for Jessica Watkins, the mission is a homecoming with a difference. Four yea
 The journey from launch pad to docking port took seven hours and 55 minutes. The journey to this moment — for Watkins, for commercial crew, for a station entering its final chapter — took much longer. Crew-13 will spend the next six months doing the work that journey made possible.
 
 <picture>
-<source srcset="/img/1465101162946-4377e57745c3-1200.avif" type="image/avif">
-<source srcset="/img/1465101162946-4377e57745c3-1200.webp" type="image/webp">
-<img src="/img/1465101162946-4377e57745c3-1200.webp" alt="Astronaut silhouetted against the Earth" width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1465101162946-4377e57745c3-1000.avif" type="image/avif">
+<source srcset="/img/1465101162946-4377e57745c3-700.webp" type="image/webp">
+<img src="/img/1465101162946-4377e57745c3-700.webp" alt="Astronaut silhouetted against the Earth" width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *A view of Earth from space — the backdrop for six months of research aboard Expedition 75. Image: Unsplash.*

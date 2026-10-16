@@ -8,9 +8,9 @@ category: 'Astronomy'
 You cannot go there. No drill will ever reach it, no camera will ever see it, no hand will ever touch it. Nearly two thousand kilometers beneath your feet, rock flows like cold honey under pressures that would crush a submarine into foil and temperatures hot enough to melt steel twice over. Yet this week, scientists published the first map of the iron hidden inside that unreachable world — and they drew it using satellites flying hundreds of kilometers above the planet's surface.
 
 <picture>
-<source srcset="/img/1465101162946-4377e57745c3-1200.avif" type="image/avif">
-<source srcset="/img/1465101162946-4377e57745c3-1200.webp" type="image/webp">
-<img src="/img/1465101162946-4377e57745c3-1200.webp" alt="Earth viewed from space, showing the blue marble" width="1200" height="675" fetchpriority="high" decoding="async">
+<source srcset="/img/1465101162946-4377e57745c3-1000.avif" type="image/avif">
+<source srcset="/img/1465101162946-4377e57745c3-700.webp" type="image/webp">
+<img src="/img/1465101162946-4377e57745c3-700.webp" alt="Earth viewed from space, showing the blue marble" width="1000" height="563" fetchpriority="high" decoding="async">
 </picture>
 *A new study combined ESA Swarm satellite data with laboratory experiments to map iron in Earth's lower mantle for the first time. Image: Unsplash.*
 
@@ -65,9 +65,9 @@ The new study finds evidence of iron enrichment coinciding with the African LLSV
 As Grayver noted, if the LLSVPs are indeed enriched with iron, the implications reach into the very long-term evolution of the planet — into questions of how Earth's interior differentiated, how heat has been transported over billions of years, and how the deep mantle couples to the surface world.
 
 <picture>
-<source srcset="/img/1446776811953-b23d57bd21aa-1200.avif" type="image/avif">
-<source srcset="/img/1446776811953-b23d57bd21aa-1200.webp" type="image/webp">
-<img src="/img/1446776811953-b23d57bd21aa-1200.webp" alt="A glowing visualization of Earth's magnetic field" width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1446776811953-b23d57bd21aa-1000.avif" type="image/avif">
+<source srcset="/img/1446776811953-b23d57bd21aa-700.webp" type="image/webp">
+<img src="/img/1446776811953-b23d57bd21aa-700.webp" alt="A glowing visualization of Earth's magnetic field" width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *Swarm's three satellites measure Earth's magnetic field with enough precision to detect conductivity variations deep in the mantle. Image: Unsplash.*
 
@@ -90,9 +90,9 @@ Yet this invisible mineral makes up roughly four-fifths of the lower mantle by v
 The new work adds a crucial property to bridgmanite's dossier: its electrical conductivity as a function of iron content, measured at true lower-mantle conditions. That single calibration curve is what turns Swarm's conductivity maps into iron maps. It is a beautiful example of how laboratory mineral physics — often seen as the most esoteric corner of geoscience — can unlock observations made from orbit.
 
 <picture>
-<source srcset="/img/1516849841032-87cbac4d88f7-1200.avif" type="image/avif">
-<source srcset="/img/1516849841032-87cbac4d88f7-1200.webp" type="image/webp">
-<img src="/img/1516849841032-87cbac4d88f7-1200.webp" alt="Laboratory equipment glowing in the dark" width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1516849841032-87cbac4d88f7-1000.avif" type="image/avif">
+<source srcset="/img/1516849841032-87cbac4d88f7-700.webp" type="image/webp">
+<img src="/img/1516849841032-87cbac4d88f7-700.webp" alt="Laboratory equipment glowing in the dark" width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *In Bayreuth laboratories, bridgmanite samples were squeezed to 27 gigapascals and heated to 2,000 kelvin to measure how conductivity varies with iron content. Image: Unsplash.*
 
@@ -117,15 +117,15 @@ There is a poetic symmetry in it. To understand the iron heart of our planet, sc
 Somewhere beneath our feet, the floors of oceans that disappeared before the first fish swam are still sinking, still iron-rich, still shaping the convection that moves the ground under our cities. We cannot go there. But for the first time, we can see it — in iron, mapped from space.
 
 <picture>
-<source srcset="/img/1462331940025-496dfbfc7564-1200.avif" type="image/avif">
-<source srcset="/img/1462331940025-496dfbfc7564-1200.webp" type="image/webp">
-<img src="/img/1462331940025-496dfbfc7564-1200.webp" alt="Deep blue ocean waves, a reminder of ancient seafloors" width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1462331940025-496dfbfc7564-1000.avif" type="image/avif">
+<source srcset="/img/1462331940025-496dfbfc7564-700.webp" type="image/webp">
+<img src="/img/1462331940025-496dfbfc7564-700.webp" alt="Deep blue ocean waves, a reminder of ancient seafloors" width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *The iron-rich regions beneath the western Pacific may be the remnants of ancient ocean floors, subducted and preserved for hundreds of millions of years. Image: Unsplash.*
 
 <picture>
-<source srcset="/img/1532693322450-2cb5c511067d-1200.avif" type="image/avif">
-<source srcset="/img/1532693322450-2cb5c511067d-1200.webp" type="image/webp">
-<img src="/img/1532693322450-2cb5c511067d-1200.webp" alt="A starry night sky over mountains" width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1532693322450-2cb5c511067d-1000.avif" type="image/avif">
+<source srcset="/img/1532693322450-2cb5c511067d-700.webp" type="image/webp">
+<img src="/img/1532693322450-2cb5c511067d-700.webp" alt="A starry night sky over mountains" width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *The study points toward a new era of geomagnetic exploration of Earth's deep interior, combining satellites, ground observatories, and laboratory science. Image: Unsplash.*
