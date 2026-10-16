@@ -64,9 +64,9 @@ Meanwhile, the test campaign's geography is expanding. While Starbase remains th
 For now, though, the story belongs to a Friday evening in South Texas, when a rocket named unlucky by tradition turned out to be anything but. Two scrubs, a tropical storm, and an engine swap later, Starship Flight 13 did what the previous twelve flights had been building toward: it flew like a spaceship, not an experiment. It carried cargo. It talked to its cargo. It relit its engine in the dark. And then it came home — gently, upright, and floating on a warm Indian Ocean swell — while engineers watched the clearest pictures of a post-flight heat shield anyone had ever seen. After everything the program has been through, that counted as a very good night indeed.
 
 <picture>
-<source srcset="/img/1517976487492-5750f3195933-1200.avif" type="image/avif">
-<source srcset="/img/1517976487492-5750f3195933-1200.webp" type="image/webp">
-<img src="/img/1517976487492-5750f3195933-1200.webp" alt="Starship lifting off from Starbase at sunset" width="1200" height="675" fetchpriority="high" decoding="async">
+<source srcset="/img/1517976487492-5750f3195933-1000.avif" type="image/avif">
+<source srcset="/img/1517976487492-5750f3195933-700.webp" type="image/webp">
+<img src="/img/1517976487492-5750f3195933-700.webp" alt="Starship lifting off from Starbase at sunset" width="1000" height="563" fetchpriority="high" decoding="async">
 </picture>
 *Starship lifts off from Starbase, Texas. Image: Unsplash.*
 
@@ -93,9 +93,9 @@ The satellites' design reflects the leap. With roughly double the power generati
 For a company that now describes itself as the operator of the world's largest satellite constellation, the demonstration closed a circle: the rocket built to deploy the next generation finally did so, and the next generation proved it was ready to be deployed.
 
 <picture>
-<source srcset="/img/1446776811953-b23d57bd21aa-1200.avif" type="image/avif">
-<source srcset="/img/1446776811953-b23d57bd21aa-1200.webp" type="image/webp">
-<img src="/img/1446776811953-b23d57bd21aa-1200.webp" alt="Rocket engines firing during ascent" width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1446776811953-b23d57bd21aa-1000.avif" type="image/avif">
+<source srcset="/img/1446776811953-b23d57bd21aa-700.webp" type="image/webp">
+<img src="/img/1446776811953-b23d57bd21aa-700.webp" alt="Rocket engines firing during ascent" width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *A rocket climbs through the upper atmosphere. Image: Unsplash.*
 
@@ -114,15 +114,15 @@ The Florida pads add a longer-term dimension. As Starship infrastructure rises a
 On the evening of July 24, though, none of that was on anyone's mind. There was just a silver ship floating on the Indian Ocean, a few small flames dying out around its base, and the first clear pictures of a heat shield that had done its job. Lucky flight 13, indeed.
 
 <picture>
-<source srcset="/img/1462331940025-496dfbfc7564-1200.avif" type="image/avif">
-<source srcset="/img/1462331940025-496dfbfc7564-1200.webp" type="image/webp">
-<img src="/img/1462331940025-496dfbfc7564-1200.webp" alt="A spacecraft reentering over the ocean at dusk" width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1462331940025-496dfbfc7564-1000.avif" type="image/avif">
+<source srcset="/img/1462331940025-496dfbfc7564-700.webp" type="image/webp">
+<img src="/img/1462331940025-496dfbfc7564-700.webp" alt="A spacecraft reentering over the ocean at dusk" width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *Artist's impression of a spacecraft returning through the atmosphere. Image: Unsplash.*
 
 <picture>
-<source srcset="/img/1447433589675-4aaa569f3e05-1200.avif" type="image/avif">
-<source srcset="/img/1447433589675-4aaa569f3e05-1200.webp" type="image/webp">
-<img src="/img/1447433589675-4aaa569f3e05-1200.webp" alt="Satellites deploying above Earth" width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1447433589675-4aaa569f3e05-1000.avif" type="image/avif">
+<source srcset="/img/1447433589675-4aaa569f3e05-700.webp" type="image/webp">
+<img src="/img/1447433589675-4aaa569f3e05-700.webp" alt="Satellites deploying above Earth" width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *Satellites deploying in orbit. Image: Unsplash.*
