@@ -21,7 +21,11 @@ One of the mission's key instruments is PRIMAger, an imaging polarimeter that wi
 
 The choice of the far-infrared is deliberate and strategic. This is the wavelength range where cold cosmic dust shines brightest — and dust, for all its humble reputation, is one of the most important substances in the universe. The carbon in our bodies, the oxygen we breathe, the silicon in the rocks beneath our feet: all of it was forged in stars and scattered across space as dust. Far-infrared light is the direct signature of that material, glowing faintly as it absorbs starlight and re-radiates it at longer wavelengths.
 
-![A deep-field view of distant galaxies](https://images.unsplash.com/photo-1516849841032-87cbac4d88f7?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1516849841032-87cbac4d88f7-1200.avif" type="image/avif">
+<source srcset="/img/1516849841032-87cbac4d88f7-1200.webp" type="image/webp">
+<img src="/img/1516849841032-87cbac4d88f7-1200.webp" alt="A deep-field view of distant galaxies" width="1200" height="675" fetchpriority="high" decoding="async">
+</picture>
 *PRIMA will survey dust-obscured galaxies across cosmic time in far-infrared light. Image: Unsplash.*
 
 ## Bridging the gap between Webb and the radio sky
@@ -40,7 +44,11 @@ Consider the problem of galaxy evolution. The most vigorous star-forming galaxie
 
 Then there is the question of black holes. Nearly every massive galaxy hosts a supermassive black hole at its centre, and the growth of galaxies and their black holes appears to be intimately linked — but the details of that co-evolution remain murky, especially in the dust-enshrouded early universe. Far-infrared observations can peer through the obscuring dust to measure both star formation and black-hole activity in the same galaxies, disentangling two processes that are otherwise hopelessly confused.
 
-![A glowing nebula where stars are being born](https://images.unsplash.com/photo-1465101162946-4377e57745c3?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1465101162946-4377e57745c3-1200.avif" type="image/avif">
+<source srcset="/img/1465101162946-4377e57745c3-1200.webp" type="image/webp">
+<img src="/img/1465101162946-4377e57745c3-1200.webp" alt="A glowing nebula where stars are being born" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *Cold dust in star-forming regions glows brightest in the far-infrared. Image: Unsplash.*
 
 And then there is water — the substance that makes Earth, Earth. The origin of Earth's water remains one of planetary science's great unsolved puzzles. Did it arrive aboard icy asteroids and comets, or was it locked into the planet's building blocks from the start? Far-infrared spectroscopy can trace water vapour and ice through the planet-forming disks around young stars, mapping the reservoirs of water at the epoch when planets are assembling. PRIMA's surveys of these disks, across hundreds of young stellar systems, will test competing theories of water delivery with statistical power that no previous mission could muster.
@@ -64,7 +72,11 @@ If confirmed, the project's cost is capped at $1.2 billion, excluding launch and
 
 The target launch date is 2033, with a planned five-year prime mission. Seven years from selection to launch may sound distant, but in the timescale of space observatories it is brisk — Webb took more than two decades from concept to launch. A 2033 launch would place PRIMA's survey operations in the mid-2030s, an era when the astronomical landscape will look markedly different from today's: Roman will be conducting its wide-field infrared surveys, next-generation ground-based observatories will be operating, and PRIMA's far-infrared data will slot into a rich multi-wavelength ecosystem.
 
-![An artist's impression of a space telescope](https://images.unsplash.com/photo-1502134249126-9f3755a50d78?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1502134249126-9f3755a50d78-1200.avif" type="image/avif">
+<source srcset="/img/1502134249126-9f3755a50d78-1200.webp" type="image/webp">
+<img src="/img/1502134249126-9f3755a50d78-1200.webp" alt="An artist's impression of a space telescope" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *PRIMA's 1.8-metre telescope must be cryogenically cooled to detect faint far-infrared signals. Image: Unsplash.*
 
 ## Who builds it
@@ -89,7 +101,11 @@ Far-infrared observations read that record directly. By measuring how dust emiss
 
 The mission's deep surveys will be particularly powerful for studying the era often called "cosmic noon" — roughly ten billion years ago, when star formation across the universe peaked. The galaxies of cosmic noon are dusty almost by definition; they are forming stars at furious rates, and much of that activity is hidden from optical view. Herschel gave astronomers their first systematic look at this population. PRIMA, with greater sensitivity and vastly larger survey areas, will turn that first look into a census.
 
-![Stars scattered across the night sky](https://images.unsplash.com/photo-1509391366360-2e959784a276?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1509391366360-2e959784a276-1200.avif" type="image/avif">
+<source srcset="/img/1509391366360-2e959784a276-1200.webp" type="image/webp">
+<img src="/img/1509391366360-2e959784a276-1200.webp" alt="Stars scattered across the night sky" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *PRIMA's surveys will map the far-infrared sky systematically, building statistical samples across cosmic time. Image: Unsplash.*
 
 ## Why 2033 matters now
@@ -106,7 +122,11 @@ For more than a decade, one of the richest bands of the electromagnetic spectrum
 
 PRIMA will not launch until 2033. Its confirmation review still lies ahead, its instruments are not yet built, and the $1.2 billion cap will demand discipline at every step. But the direction of travel is now set: humanity's next window into the deep universe will open in the far-infrared, and through it, as Nicky Fox put it, we will unveil the obscure across cosmic time — the formation of planets, stars, and black holes, and the story of how water on Earth came to be.
 
-![A star field stretching to the edge of the observable universe](https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1532187863486-abf9dbad1b69-1200.avif" type="image/avif">
+<source srcset="/img/1532187863486-abf9dbad1b69-1200.webp" type="image/webp">
+<img src="/img/1532187863486-abf9dbad1b69-1200.webp" alt="A star field stretching to the edge of the observable universe" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *Through PRIMA, astronomers will unveil the obscure across cosmic time. Image: Unsplash.*
 
 Some windows, once opened, change everything seen through them. The far-infrared has been waiting thirteen years. PRIMA is coming.

@@ -13,7 +13,11 @@ In the FY2026 spending package, Congress delivered the verdict NASA had been dre
 
 The rocks are still there. The ride home is gone.
 
-![A starry night sky over dark mountains. The search for life beyond Earth begins by looking up — and now Mars holds samples with no ride home. Image: Unsplash.](https://images.unsplash.com/photo-1519681393784-d120267933ba?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1519681393784-d120267933ba-1200.avif" type="image/avif">
+<source srcset="/img/1519681393784-d120267933ba-1200.webp" type="image/webp">
+<img src="/img/1519681393784-d120267933ba-1200.webp" alt="A starry night sky over dark mountains. The search for life beyond Earth begins by looking up — and now Mars holds samples with no ride home. Image: Unsplash." width="1200" height="675" fetchpriority="high" decoding="async">
+</picture>
 *The search for life beyond Earth now hinges on sealed tubes sitting in Martian dust. Image: Unsplash.*
 
 ## How $11 Billion Killed a Flagship
@@ -38,7 +42,11 @@ To be clear-eyed about this: leopard spots are not fossils. Non-biological chemi
 
 This is what makes Mars Sample Return different from every other cancelled program. Usually when a mission dies, the science dies with it — unflown instruments, unasked questions. Here the science is already collected. The most valuable geological samples in the history of planetary exploration are waiting on another planet, and the only thing standing between them and Earth's laboratories — where instruments a hundred times more capable than anything that can be flown could interrogate them down to the atomic level — is a ride.
 
-![A spiral galaxy in deep space. The most valuable geological samples ever collected sit waiting on Mars. Image: Unsplash.](https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1444703686981-a3abbc4d4fe3-1200.avif" type="image/avif">
+<source srcset="/img/1444703686981-a3abbc4d4fe3-1200.webp" type="image/webp">
+<img src="/img/1444703686981-a3abbc4d4fe3-1200.webp" alt="A spiral galaxy in deep space. The most valuable geological samples ever collected sit waiting on Mars. Image: Unsplash." width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *The most valuable geological samples in planetary science history are waiting on another world. Image: Unsplash.*
 
 ## Isaacman's Promises
@@ -59,7 +67,11 @@ The damage extends to how NASA plans its biggest missions. Every ten years, the 
 
 Then there's the workforce. The engineers who spent years solving pieces of the hardest problem in planetary science — autonomous orbital rendezvous at Mars, the first rocket launch from another planet's surface, a return capsule that must contain potential Martian biology with absolute certainty — are dispersing. Some will go to commercial companies. Some to the Artemis program. The team, as a team, is gone. If a future administration decides to resurrect sample return, it will be starting not from zero — the studies and prototypes survive — but from the much harder position of rebuilding the human expertise that made the studies real.
 
-![A rocket climbs skyward. The engineering for Mars Sample Return existed — the funding did not. Image: Unsplash.](https://images.unsplash.com/photo-1517976487492-5750f3195933?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1517976487492-5750f3195933-1200.avif" type="image/avif">
+<source srcset="/img/1517976487492-5750f3195933-1200.webp" type="image/webp">
+<img src="/img/1517976487492-5750f3195933-1200.webp" alt="A rocket climbs skyward. The engineering for Mars Sample Return existed — the funding did not. Image: Unsplash." width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *The engineering for Mars Sample Return existed. The funding did not. Image: Unsplash.*
 
 ## China's Steady March
@@ -72,7 +84,11 @@ The architecture, as understood from Chinese technical papers, is arguably simpl
 
 The implications of China returning Martian samples first are hard to overstate. The nation that analyzes those rocks writes the first draft of Mars's biological history. If Cheyava Falls-style biosignatures turn out to be real — if the answer to "are we alone" is sitting in a sample tube — the laboratory that opens the tube first makes the discovery of the century. For decades, NASA assumed that laboratory would be American. That assumption is now an open question.
 
-![Stars scattered across the night sky. China aims to return Mars samples around 2031 — years before any American mission could. Image: Unsplash.](https://images.unsplash.com/photo-1520034475321-cbe63696469a?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1520034475321-cbe63696469a-1200.avif" type="image/avif">
+<source srcset="/img/1520034475321-cbe63696469a-1200.webp" type="image/webp">
+<img src="/img/1520034475321-cbe63696469a-1200.webp" alt="Stars scattered across the night sky. China aims to return Mars samples around 2031 — years before any American mission could. Image: Unsplash." width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *China's Tianwen-3 aims to return Mars samples around 2031. Image: Unsplash.*
 
 ## What Happens Next
@@ -87,7 +103,11 @@ The darkest path is the one nobody says aloud: that the tubes sit there for deca
 
 There is also a commercial wild card. The same companies now bidding to replace the ISS and land astronauts on the Moon have the heavy-lift capacity that Mars Sample Return always lacked. A public-private sample return — NASA's science, industry's rockets — is the kind of arrangement that would have been unthinkable a decade ago and looks increasingly plausible now. The $110 million placeholder could, in theory, become the seed of exactly that.
 
-![A glowing nebula. The samples are collected. The science is waiting. All that's missing is the ride home. Image: Unsplash.](https://images.unsplash.com/photo-1462331940025-496dfbfc7564?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1462331940025-496dfbfc7564-1200.avif" type="image/avif">
+<source srcset="/img/1462331940025-496dfbfc7564-1200.webp" type="image/webp">
+<img src="/img/1462331940025-496dfbfc7564-1200.webp" alt="A glowing nebula. The samples are collected. The science is waiting. All that's missing is the ride home. Image: Unsplash." width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *The samples are collected. The science is waiting. All that's missing is the ride home. Image: Unsplash.*
 
 ## The Rocks Remember

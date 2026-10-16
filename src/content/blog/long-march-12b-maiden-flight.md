@@ -9,7 +9,11 @@ On the morning of June 1, 2026, the first hint that something had happened in th
 
 The launch took place at 4:40 p.m. Beijing time (08:40 UTC) from the Dongfeng Commercial Space Innovation Pilot Zone at the Jiuquan Satellite Launch Center in northwest China. Aboard the Long March 12B Y1 — the "Y1" denoting the first flight article — were two satellites for the Qianfan broadband megaconstellation, also marketed internationally as Spacesail. The pair entered preset polar orbits at altitudes between 1,020 and 1,048 kilometers, and orbital tracking data published days later confirmed the deployment. The mission was declared a complete success, and with it came the 647th flight of a Long March-series carrier rocket.
 
-![Long March 12B lifts off from the Dongfeng Commercial Space Innovation Pilot Zone at Jiuquan on June 1, 2026](https://images.unsplash.com/photo-1517976487492-5750f3195933?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1517976487492-5750f3195933-1200.avif" type="image/avif">
+<source srcset="/img/1517976487492-5750f3195933-1200.webp" type="image/webp">
+<img src="/img/1517976487492-5750f3195933-1200.webp" alt="Long March 12B lifts off from the Dongfeng Commercial Space Innovation Pilot Zone at Jiuquan on June 1, 2026" width="1200" height="675" fetchpriority="high" decoding="async">
+</picture>
 *A Long March 12B Y1 carrier rocket rises from the Gobi Desert on its maiden flight. Image: Unsplash.*
 
 ## The rocket that skipped the announcements
@@ -32,7 +36,11 @@ Those nine first-stage engines are YF-102R variants burning liquid oxygen and ke
 
 For its maiden flight, though, the giant carried just two satellites — a deliberate choice. Test flights often fly light, and with a brand-new vehicle, the margin between predicted and actual performance is where careers are made or ended. The two Qianfan satellites, part of the constellation's tenth deployment group, were textbook passengers: operational hardware, but modest enough that the rocket's real test was itself.
 
-![Illustration of a heavy-lift rocket's first-stage engines](https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1446776811953-b23d57bd21aa-1200.avif" type="image/avif">
+<source srcset="/img/1446776811953-b23d57bd21aa-1200.webp" type="image/webp">
+<img src="/img/1446776811953-b23d57bd21aa-1200.webp" alt="Illustration of a heavy-lift rocket's first-stage engines" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *Nine YF-102R kerosene engines power the Long March 12B's first stage, producing about 800 metric tons of liftoff thrust. Image: Unsplash.*
 ## Twenty-one months from blueprint to liftoff
 
@@ -48,7 +56,11 @@ Inside the rocket, the Long March 12B carries what Chinese media dubbed "dual br
 
 The rocket also pioneers what Chinese reports call a "three-horizontal" launch mode — a horizontal assembly and rollout approach that compresses pad operations — and leans on cost control borrowed from the automotive industry: mature, mass-produced components pre-integrated into the recovery hardware, keeping the bill of materials down even as the rocket gains complexity.
 
-![Engineers review telemetry in a launch control room](https://images.unsplash.com/photo-1459908676235-d5f02a50184b?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1459908676235-d5f02a50184b-1200.avif" type="image/avif">
+<source srcset="/img/1459908676235-d5f02a50184b-1200.webp" type="image/webp">
+<img src="/img/1459908676235-d5f02a50184b-1200.webp" alt="Engineers review telemetry in a launch control room" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *The Long March 12B's "dual brains" flight-control system can monitor all nine engines in milliseconds. Image: Unsplash.*
 
 ## A rocket that saved its landing gear for later
@@ -86,5 +98,9 @@ There are also reasons for caution. Reusability is an operational discipline, no
 
 Still, on the morning of June 1, none of those caveats applied. A new rocket appeared over the Gobi with no warning, did exactly what its chief designer said it would do, and vanished into the blue carrying the future of China's largest commercial space project. The Long March 12B has announced itself. Its next act — coming back down in one piece — will say far more about where the global launch race is heading.
 
-![A rocket climbing through morning sky toward orbit](https://images.unsplash.com/photo-1462331940025-496dfbfc7564?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1462331940025-496dfbfc7564-1200.avif" type="image/avif">
+<source srcset="/img/1462331940025-496dfbfc7564-1200.webp" type="image/webp">
+<img src="/img/1462331940025-496dfbfc7564-1200.webp" alt="A rocket climbing through morning sky toward orbit" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *The Long March 12B's next flight is expected to attempt the vertical booster recovery that Y1 carried the hardware for. Image: Unsplash.*
