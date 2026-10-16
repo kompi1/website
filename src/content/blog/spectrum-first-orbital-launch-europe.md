@@ -11,7 +11,11 @@ Seventeen months earlier, the same rocket, from the same pad, had lasted about t
 
 For Europe, the geography matters as much as the hardware. The continent has been launching satellites aboard its own rockets for decades, but always from somewhere else: from Kourou in French Guiana, on the northern coast of South America, or — for Russian vehicles — from deep inside Russia. A working orbital launch from Norway proves that a European factory, European engines and a European pad can close the loop without crossing an ocean. After years in which Europe's independent access to space looked increasingly theoretical, that proof arrived on a Saturday night in September.
 
-![A rocket lifting off from its launch pad](https://images.unsplash.com/photo-1517976487492-5750f3195933?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1517976487492-5750f3195933-1200.avif" type="image/avif">
+<source srcset="/img/1517976487492-5750f3195933-1200.webp" type="image/webp">
+<img src="/img/1517976487492-5750f3195933-1200.webp" alt="A rocket lifting off from its launch pad" width="1200" height="675" fetchpriority="high" decoding="async">
+</picture>
 *Spectrum's liftoff from Andøya Spaceport, northern Norway — the first orbital launch from Western European soil. Image: Unsplash.*
 
 ## Seven minutes to history
@@ -40,7 +44,11 @@ The precise achievement, as documented by ESA and reported by outlets including 
 
 Why does the distinction matter? Because launch geography is sovereignty. A continent that can only reach orbit from a spaceport on another continent — or by buying rides from American providers — does not have independent access to space in any operationally meaningful sense. Europe's reliance on Kourou, excellent spaceport though it is, means every European launch depends on logistics, range agreements and geopolitics stretched across the Atlantic. A pad in Norway, under Norwegian and European jurisdiction, supplied by a factory in Bavaria, changes the equation. That is the strategic significance of a Saturday-night launch from an island at 69 degrees north.
 
-![A rocket ascending through the atmosphere at night](https://images.unsplash.com/photo-1516849841032-87cbac4d88f7?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1516849841032-87cbac4d88f7-1200.avif" type="image/avif">
+<source srcset="/img/1516849841032-87cbac4d88f7-1200.webp" type="image/webp">
+<img src="/img/1516849841032-87cbac4d88f7-1200.webp" alt="A rocket ascending through the atmosphere at night" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *Spectrum climbed through Max Q, staged, and crossed the Kármán line on its way to a roughly 180-by-500-kilometre orbit. Image: Unsplash.*
 
 ## The rocket
@@ -67,7 +75,11 @@ This is also where Europe's launch deficit gives Isar its opening. The continent
 
 The open question, as analysts have framed it, is whether Isar can move from one success to the production tempo its plan assumes: vehicles three to seven already in the factory, a plant sized for forty a year, a second pad across the Atlantic. Between the March 2025 failure and the September 2026 success, the company demonstrated it can learn fast. The next demonstration it owes the market is boring by comparison: flying again, and again, on something like a schedule.
 
-![Earth's curvature seen from space](https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1532187863486-abf9dbad1b69-1200.avif" type="image/avif">
+<source srcset="/img/1532187863486-abf9dbad1b69-1200.webp" type="image/webp">
+<img src="/img/1532187863486-abf9dbad1b69-1200.webp" alt="Earth's curvature seen from space" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *Spectrum's five CubeSats joined the growing population of small satellites in low Earth orbit — the market the 28-metre rocket was built to serve. Image: Unsplash.*
 
 ## Why Andøya
@@ -90,5 +102,9 @@ For Europe, the stakes are institutional as much as commercial. A continent that
 
 There is also a quieter milestone tucked inside the mission report. The five CubeSats and the attached experiment were selected through open competition, not assigned by a government manifest office — a sign of how far Europe's commercial space ecosystem has matured. When the next Spectrum lifts off from Andøya, its passengers will likely be paying customers with schedules of their own. That, more than any single launch, is what a launch industry looks like.
 
-![A starry night sky over a remote landscape](https://images.unsplash.com/photo-1509391366360-2e959784a276?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1509391366360-2e959784a276-1200.avif" type="image/avif">
+<source srcset="/img/1509391366360-2e959784a276-1200.webp" type="image/webp">
+<img src="/img/1509391366360-2e959784a276-1200.webp" alt="A starry night sky over a remote landscape" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *From Andøya at 69° north, Spectrum has direct access to the polar and sun-synchronous orbits favoured by Earth-observation satellites. Image: Unsplash.*

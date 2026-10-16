@@ -23,7 +23,11 @@ Against the current baseline, the scale of the ask becomes stark. Starbase is pr
 
 The filing also covers where the hardware comes down. Super Heavy boosters would return to land at the launch site, soft-land in the Gulf, or be expended in flight. Starship upper stages would land at the launch site, soft-land in the Gulf or in the open ocean, or be expended in the open ocean. The agency's notice also contemplates additional ocean landing and vehicle expenditure locations, subsequent license modifications or renewals, and the temporary airspace closures that accompany high-cadence operations.
 
-![Starship rocket standing on the launch pad at Starbase before dawn](https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1446776811953-b23d57bd21aa-1200.avif" type="image/avif">
+<source srcset="/img/1446776811953-b23d57bd21aa-1200.webp" type="image/webp">
+<img src="/img/1446776811953-b23d57bd21aa-1200.webp" alt="Starship rocket standing on the launch pad at Starbase before dawn" width="1200" height="675" fetchpriority="high" decoding="async">
+</picture>
 *A rocket stands on a launch pad under dramatic skies. Image: Unsplash.*
 
 ## Why SpaceX needs this cadence
@@ -36,7 +40,11 @@ Consider the Moon. Starship is the vehicle behind the Artemis lunar lander contr
 
 And consider Mars. Musk has spoken for a decade about flying thousands of Starships to the Red Planet during the brief transfer windows that open every 26 months. Whether or not that vision arrives on his timeline, the flight rate is the architecture: Starship is designed for minimal post-flight refurbishment, with both stages returning to the launch tower to be caught by mechanical arms and flown again. A reusable vehicle that cannot fly often is a contradiction, and SpaceX is now asking regulators to bless the tempo its design was built for.
 
-![Long-exposure night shot of a rocket launch trailing fire across the sky](https://images.unsplash.com/photo-1517976487492-5750f3195933?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1517976487492-5750f3195933-1200.avif" type="image/avif">
+<source srcset="/img/1517976487492-5750f3195933-1200.webp" type="image/webp">
+<img src="/img/1517976487492-5750f3195933-1200.webp" alt="Long-exposure night shot of a rocket launch trailing fire across the sky" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *Launch trail arcing through the night sky over a spaceport. Image: Unsplash.*
 
 ## What a programmatic EIS means
@@ -47,7 +55,11 @@ The FAA has opened public scoping, the phase where citizens, scientists, and sta
 
 The areas the FAA expects to study read like a map of South Texas anxieties: noise, air quality, wildlife, coastal resources, visual effects, and what the notice calls "socioeconomics and children's health and safety risks." For its analysis, the agency will assume that half of all launches and landings happen during the day, defined as 7 a.m. to 10 p.m., and half at night, from 10 p.m. to 7 a.m. That assumption matters enormously for residents near the site, because the night half is where a rocket that generates the acoustic power of a small volcano intersects with sleep, wildlife, and a tourism economy that sells dark skies.
 
-![Aerial view of a coastal launch site near beaches and wetlands](https://images.unsplash.com/photo-1462331940025-496dfbfc7564?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1462331940025-496dfbfc7564-1200.avif" type="image/avif">
+<source srcset="/img/1462331940025-496dfbfc7564-1200.webp" type="image/webp">
+<img src="/img/1462331940025-496dfbfc7564-1200.webp" alt="Aerial view of a coastal launch site near beaches and wetlands" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *A coastal launch region bordered by beaches and wetlands. Image: Unsplash.*
 
 ## A decade of environmental fights at Boca Chica
@@ -62,7 +74,11 @@ It also explains the peculiar details of the filing. The Monday-through-Friday r
 
 The filing's quietest detail may be its most telling for the region's waters. The proposal asks the FAA to evaluate not just launch-site landings but soft landings in the Gulf and the open ocean, plus additional ocean landing and vehicle expenditure locations — bureaucratic language for places where rocket stages come down on purpose, or where they are deliberately discarded. Each Gulf splashdown is an event with its own logistics: recovery ships, temporary closure of marine areas, and the acoustic signature of a booster decelerating into the water. For a coast whose economy runs on fishing, shrimping, and beach tourism, the environmental statement's treatment of the water may matter as much as its treatment of the sky.
 
-![Sea turtle hatchlings on a Gulf Coast beach near a wildlife refuge](https://images.unsplash.com/photo-1459908676235-d5f02a50184b?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1459908676235-d5f02a50184b-1200.avif" type="image/avif">
+<source srcset="/img/1459908676235-d5f02a50184b-1200.webp" type="image/webp">
+<img src="/img/1459908676235-d5f02a50184b-1200.webp" alt="Sea turtle hatchlings on a Gulf Coast beach near a wildlife refuge" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *Gulf Coast wildlife and beaches border the launch site. Image: Unsplash.*
 
 ## The "No Action" alternative — and why Boca Chica stays the site
@@ -81,7 +97,11 @@ Whether or not one buys the bank's framing, the flight economics are what make 4
 
 There is a precedent for skepticism here. Every one of SpaceX's past cadence projections — for Falcon 9, for the original Starship test campaign — has arrived later and messier than promised. The gap between "authorized to launch 456 times" and "launching 456 times" is the gap between a regulatory ceiling and an operational reality that requires a mature, reusable vehicle flying without incident week after week. The filing is an environmental analysis of a maximum, not a promise of a minimum. Treating it as a flight schedule would be a category error.
 
-![Engineers monitoring telemetry in a launch control room](https://images.unsplash.com/photo-1502134249126-9f3755a50d78?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1502134249126-9f3755a50d78-1200.avif" type="image/avif">
+<source srcset="/img/1502134249126-9f3755a50d78-1200.webp" type="image/webp">
+<img src="/img/1502134249126-9f3755a50d78-1200.webp" alt="Engineers monitoring telemetry in a launch control room" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *Launch operations staff watch over a high-cadence flight program. Image: Unsplash.*
 
 ## What happens next
