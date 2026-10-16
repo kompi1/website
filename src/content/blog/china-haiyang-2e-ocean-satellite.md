@@ -20,9 +20,9 @@ This particular flight carried an operational footnote that rocket engineers wil
 Riding on top of the rocket was the Haiyang-2E spacecraft, developed under the overall leadership of the China Academy of Space Technology (CAST) on behalf of the National Satellite Ocean Application Service, which operates under the State Oceanic Administration. China's official statements list its missions plainly: safeguarding maritime rights and interests, disaster prevention and mitigation, marine resource development, and marine scientific research. That quartet of roles captures how ocean satellites sit at the intersection of science, economy, and national strategy — and it is worth taking each one seriously.
 
 <picture>
-<source srcset="/img/1517976487492-5750f3195933-1200.avif" type="image/avif">
-<source srcset="/img/1517976487492-5750f3195933-1200.webp" type="image/webp">
-<img src="/img/1517976487492-5750f3195933-1200.webp" alt="Long March rocket lifting off from a launch pad" width="1200" height="675" fetchpriority="high" decoding="async">
+<source srcset="/img/1517976487492-5750f3195933-1000.avif" type="image/avif">
+<source srcset="/img/1517976487492-5750f3195933-700.webp" type="image/webp">
+<img src="/img/1517976487492-5750f3195933-700.webp" alt="Long March rocket lifting off from a launch pad" width="1000" height="563" fetchpriority="high" decoding="async">
 </picture>
 *A Long March rocket ascends from its launch pad. Image: Unsplash.*
 
@@ -55,9 +55,9 @@ That mix of orbits is the constellation's quiet cleverness. The sun-synchronous 
 The continuity matters more than any single launch. Ocean science runs on time series: one measurement of sea level is trivia, twenty years of measurements is a climate record. Replacing 2B before its retirement degrades coverage is how you keep that record intact.
 
 <picture>
-<source srcset="/img/1446776811953-b23d57bd21aa-1200.avif" type="image/avif">
-<source srcset="/img/1446776811953-b23d57bd21aa-1200.webp" type="image/webp">
-<img src="/img/1446776811953-b23d57bd21aa-1200.webp" alt="Earth's oceans seen from orbit with swirling cloud systems" width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1446776811953-b23d57bd21aa-1000.avif" type="image/avif">
+<source srcset="/img/1446776811953-b23d57bd21aa-700.webp" type="image/webp">
+<img src="/img/1446776811953-b23d57bd21aa-700.webp" alt="Earth's oceans seen from orbit with swirling cloud systems" width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *Earth's oceans and atmosphere as seen from orbit — the domain Haiyang-2E monitors. Image: Unsplash.*
 
@@ -94,9 +94,9 @@ For the rocket industry, the headline number was 654: the total count of Long Ma
 The parallel fueling innovation on this flight deserves a moment of attention because it illustrates how launch operations evolve. Rocket propellant loading is a carefully choreographed process, and high ambient temperatures change the behavior of cryogenic and storable propellants alike, complicate ground equipment, and stress the teams working the pad. Running fueling steps in parallel rather than sequence — while keeping everything within safety margins — trims the countdown and widens the launch window. It is the kind of operational refinement that matters enormously when a country is flying dozens of missions a year and cannot afford weather or heat to keep scrubbing its rockets.
 
 <picture>
-<source srcset="/img/1462331940025-496dfbfc7564-1200.avif" type="image/avif">
-<source srcset="/img/1462331940025-496dfbfc7564-1200.webp" type="image/webp">
-<img src="/img/1462331940025-496dfbfc7564-1200.webp" alt="Satellite in orbit above Earth with solar panels extended" width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1462331940025-496dfbfc7564-1000.avif" type="image/avif">
+<source srcset="/img/1462331940025-496dfbfc7564-700.webp" type="image/webp">
+<img src="/img/1462331940025-496dfbfc7564-700.webp" alt="Satellite in orbit above Earth with solar panels extended" width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *An Earth observation satellite operating in orbit. Image: Unsplash.*
 
@@ -117,15 +117,15 @@ The bigger picture is that marine remote sensing is getting crowded — in a goo
 A single satellite launch rarely changes the world. But some launches quietly make the world more legible — and a sharper eye on the ocean, watching waves rise and winds gather and temperatures climb, is exactly that kind of launch. The next time a typhoon turns toward the Chinese coast, forecasters will have one more instrument feeding their models. That is the real payload of Haiyang-2E, and it will be delivering it for years.
 
 <picture>
-<source srcset="/img/1447433589675-4aaa569f3e05-1200.avif" type="image/avif">
-<source srcset="/img/1447433589675-4aaa569f3e05-1200.webp" type="image/webp">
-<img src="/img/1447433589675-4aaa569f3e05-1200.webp" alt="Coastal waters and shoreline from above" width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1447433589675-4aaa569f3e05-1000.avif" type="image/avif">
+<source srcset="/img/1447433589675-4aaa569f3e05-700.webp" type="image/webp">
+<img src="/img/1447433589675-4aaa569f3e05-700.webp" alt="Coastal waters and shoreline from above" width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *Coastal waters — the nearshore zone where Haiyang-2E's upgraded instruments sharpen monitoring. Image: Unsplash.*
 
 <picture>
-<source srcset="/img/1502134249126-9f3755a50d78-1200.avif" type="image/avif">
-<source srcset="/img/1502134249126-9f3755a50d78-1200.webp" type="image/webp">
-<img src="/img/1502134249126-9f3755a50d78-1200.webp" alt="Rocket climbing through clouds after liftoff" width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1502134249126-9f3755a50d78-1000.avif" type="image/avif">
+<source srcset="/img/1502134249126-9f3755a50d78-700.webp" type="image/webp">
+<img src="/img/1502134249126-9f3755a50d78-700.webp" alt="Rocket climbing through clouds after liftoff" width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *The Long March 4B's ascent — the 654th flight of the Long March series. Image: Unsplash.*
