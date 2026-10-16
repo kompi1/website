@@ -19,7 +19,11 @@ What is publicly known comes from launch infrastructure filings and from SpaceX'
 
 The classified nature of the mission dictated how much the public could see. SpaceX's webcast began about ten minutes before liftoff, but the livestream ended right after the first stage landed on the droneship — roughly eight and a half minutes into flight. No second-stage video was provided, and no footage of payload fairing deployment was shown. That early blackout is standard practice for national security launches: once the classified phase begins, the cameras stop.
 
-![SpaceX Falcon 9 rocket on the launch pad ready for liftoff](https://images.unsplash.com/photo-1517976487492-5750f3195933?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1517976487492-5750f3195933-1000.avif" type="image/avif">
+<source srcset="/img/1517976487492-5750f3195933-700.webp" type="image/webp">
+<img src="/img/1517976487492-5750f3195933-700.webp" alt="SpaceX Falcon 9 rocket on the launch pad ready for liftoff" width="1000" height="563" fetchpriority="high" decoding="async">
+</picture>
 *A Falcon 9 rocket stands ready for launch. Image: Unsplash.*
 
 ## B1081: The 28-Time Flyer
@@ -38,7 +42,11 @@ There was one detail about USSF-481 that was anything but routine: its send-off.
 
 SpaceX even shared the moment on social media, noting that its rocket launching on a secretive mission for the U.S. military got "a musical send-off from Vandenberg Space Force Base." It was a small human detail — a base pausing for evening colors while a rocket climbed through the dusk — and a reminder that even classified missions are launched by people on a schedule, in a place with traditions older than the Space Age.
 
-![Rocket ascending through evening sky after liftoff](https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1446776811953-b23d57bd21aa-1000.avif" type="image/avif">
+<source srcset="/img/1446776811953-b23d57bd21aa-700.webp" type="image/webp">
+<img src="/img/1446776811953-b23d57bd21aa-700.webp" alt="Rocket ascending through evening sky after liftoff" width="1000" height="563" loading="lazy" decoding="async">
+</picture>
 *A rocket climbs through the evening sky. Image: Unsplash.*
 
 ## The Secret Payload: What Analysts Think
@@ -59,7 +67,11 @@ Beyond the classified payload, USSF-481 was a landmark for its launch site. The 
 
 Vandenberg, on California's Central Coast, is the United States' primary gateway to polar and sun-synchronous orbits. Rockets launching southward from its pads fly over open ocean, making it ideal for Earth observation, weather, and reconnaissance missions that need high-inclination orbits. Seventy launches in ten and a half months is an extraordinary tempo for a range that, not long ago, handled a few dozen launches in a good year — and it underscores how thoroughly SpaceX's high flight rate has transformed the West Coast range into a high-volume spaceport.
 
-![Rocket launching from a coastal launch pad](https://images.unsplash.com/photo-1520034475321-cbe63696469a?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1520034475321-cbe63696469a-1000.avif" type="image/avif">
+<source srcset="/img/1520034475321-cbe63696469a-700.webp" type="image/webp">
+<img src="/img/1520034475321-cbe63696469a-700.webp" alt="Rocket launching from a coastal launch pad" width="1000" height="563" loading="lazy" decoding="async">
+</picture>
 *A Falcon-class rocket launches from a coastal pad. Image: Unsplash.*
 
 ## Falcon 9's Relentless 2026
@@ -94,7 +106,11 @@ For now, the facts that are solid are these: on October 15, 2026, at 5:01 p.m. P
 
 And somewhere above a darkening Pacific, whatever USSF-481 carried is now in orbit — joining a constellation of secrets that keeps growing, one classified launch at a time.
 
-![Earth viewed from space above a darkened ocean](https://images.unsplash.com/photo-1519681393784-d120267933ba?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1519681393784-d120267933ba-1000.avif" type="image/avif">
+<source srcset="/img/1519681393784-d120267933ba-700.webp" type="image/webp">
+<img src="/img/1519681393784-d120267933ba-700.webp" alt="Earth viewed from space above a darkened ocean" width="1000" height="563" loading="lazy" decoding="async">
+</picture>
 *Earth seen from orbit, where classified payloads join their constellations. Image: Unsplash.*
 
 ## Context: Why Secret Launches Still Make Headlines
@@ -103,5 +119,9 @@ It is worth asking why a launch whose payload cannot be described still matters 
 
 There is also a cultural dimension. A decade ago, classified launches were rare, expensive, and shrouded in near-total silence. Today, SpaceX livestreams the first eight minutes of a secret mission — rocket, ascent, landing and all — and a bugle call at Vandenberg gets quoted in the space press. The payload may be hidden, but the launch business has become a public spectacle with a public scoreboard: 114 flights, 671 landings, 70 launches from one range. Those numbers are the real story of USSF-481 — the story the Space Force does not need to classify, because it is written in every contrail over the Pacific.
 
-![Rocket launch pad at dusk ready for a night mission](https://images.unsplash.com/photo-1509391366360-2e959784a276?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1509391366360-2e959784a276-1000.avif" type="image/avif">
+<source srcset="/img/1509391366360-2e959784a276-700.webp" type="image/webp">
+<img src="/img/1509391366360-2e959784a276-700.webp" alt="Rocket launch pad at dusk ready for a night mission" width="1000" height="563" loading="lazy" decoding="async">
+</picture>
 *A launch pad prepared for its next mission. Image: Unsplash.*
