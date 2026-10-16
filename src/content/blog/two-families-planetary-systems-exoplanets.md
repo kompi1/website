@@ -20,9 +20,9 @@ The team assembled the 300 best-characterized systems available, meaning systems
 The result was not a smooth continuum but two clusters — two families with sharply different properties, separated by a statistical analysis robust enough to survive rigorous testing.
 
 <picture>
-<source srcset="/img/1517976487492-5750f3195933-1200.avif" type="image/avif">
-<source srcset="/img/1517976487492-5750f3195933-1200.webp" type="image/webp">
-<img src="/img/1517976487492-5750f3195933-1200.webp" alt="Two families of exoplanet systems illustrated by star types" width="1200" height="675" fetchpriority="high" decoding="async">
+<source srcset="/img/1517976487492-5750f3195933-1000.avif" type="image/avif">
+<source srcset="/img/1517976487492-5750f3195933-700.webp" type="image/webp">
+<img src="/img/1517976487492-5750f3195933-700.webp" alt="Two families of exoplanet systems illustrated by star types" width="1000" height="563" fetchpriority="high" decoding="async">
 </picture>
 *A star's mass and chemistry shape the planetary system around it. Image: Unsplash.*
 
@@ -45,9 +45,9 @@ These systems run cool. Their dynamical temperatures are low, indicating compara
 That observation itself raises an intriguing question the researchers are eager to explore. Our solar system kept the calm temperament of the second family but built itself at the grand scale more typical of the first family's architectures. Why the solar system never produced a compact pack of inner super-Earths — the most common planetary configuration in the galaxy — remains one of exoplanet science's most delicious mysteries. One leading idea is that Jupiter, by growing quickly and carving a gap in the young solar nebula, choked off the inward flow of planet-building material and starved the inner solar system. The new two-family framework gives that debate fresh context: the Sun's moderate mass and near-solar metallicity placed our system squarely in the calm family's nursery, but Jupiter's early growth may have pushed our architecture toward a wider, grander layout.
 
 <picture>
-<source srcset="/img/1462331940025-496dfbfc7564-1200.avif" type="image/avif">
-<source srcset="/img/1462331940025-496dfbfc7564-1200.webp" type="image/webp">
-<img src="/img/1462331940025-496dfbfc7564-1200.webp" alt="A dense field of stars like those hosting compact planetary systems" width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1462331940025-496dfbfc7564-1000.avif" type="image/avif">
+<source srcset="/img/1462331940025-496dfbfc7564-700.webp" type="image/webp">
+<img src="/img/1462331940025-496dfbfc7564-700.webp" alt="A dense field of stars like those hosting compact planetary systems" width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *Compact multiplanet systems crowd their small stars far more tightly than Mercury orbits the Sun. Image: Unsplash.*
 
@@ -62,9 +62,9 @@ Their answer came from statistics. The researchers fit the distribution of their
 The simulations provided the second pillar of the argument. Models of planet formation and long-term dynamical evolution, run with different starting masses and disk compositions, naturally produced the two families: abundant disks gave rise to systems that were unstable from birth and settled into wide, massive, dynamically excited configurations, while sparser disks produced compact, calm peas-in-a-pod systems. The models reproduced not just the existence of two groups but their observed dynamical temperatures — a match between theory and data that is difficult to dismiss as coincidence.
 
 <picture>
-<source srcset="/img/1446776811953-b23d57bd21aa-1200.avif" type="image/avif">
-<source srcset="/img/1446776811953-b23d57bd21aa-1200.webp" type="image/webp">
-<img src="/img/1446776811953-b23d57bd21aa-1200.webp" alt="Planets on varied orbits around their host stars" width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1446776811953-b23d57bd21aa-1000.avif" type="image/avif">
+<source srcset="/img/1446776811953-b23d57bd21aa-700.webp" type="image/webp">
+<img src="/img/1446776811953-b23d57bd21aa-700.webp" alt="Planets on varied orbits around their host stars" width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *Wide, massive systems show scars of violent gravitational encounters in their past. Image: Unsplash.*
 
@@ -99,9 +99,9 @@ Standing back, what the INAF-led team has offered is not just a classification s
 There is something quietly profound in that. The universe builds planets the way families raise children: not from a blueprint, but from inherited tendencies, material circumstances, and the accidents of a shared history. Some families are born into abundance and tear themselves apart; others are born into scarcity and hold together. The stars, it turns out, are not just the lamps that light their planets — they are the parents that shaped them. And now, for the first time, we can read the family resemblance in the sky.
 
 <picture>
-<source srcset="/img/1502134249126-9f3755a50d78-1200.avif" type="image/avif">
-<source srcset="/img/1502134249126-9f3755a50d78-1200.webp" type="image/webp">
-<img src="/img/1502134249126-9f3755a50d78-1200.webp" alt="The Milky Way hosts more than a thousand known multiplanet systems" width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1502134249126-9f3755a50d78-1000.avif" type="image/avif">
+<source srcset="/img/1502134249126-9f3755a50d78-700.webp" type="image/webp">
+<img src="/img/1502134249126-9f3755a50d78-700.webp" alt="The Milky Way hosts more than a thousand known multiplanet systems" width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *Astronomers studied 300 of the best-characterized multiplanet systems in the Milky Way. Image: Unsplash.*
 
