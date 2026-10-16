@@ -12,9 +12,9 @@ Since that splashdown in the Pacific, NASA has spent the intervening six months 
 This is where the Moon program stands in October 2026: a triumph behind it, a high-stakes rehearsal ahead, and a genuine race — against physics, schedules, and China — to get there.
 
 <picture>
-<source srcset="/img/1532693322450-2cb5c511067d-1200.avif" type="image/avif">
-<source srcset="/img/1532693322450-2cb5c511067d-1200.webp" type="image/webp">
-<img src="/img/1532693322450-2cb5c511067d-1200.webp" alt="The full Moon hangs in the black sky. Six months after Artemis II, NASA is pushing toward a 2028 lunar landing. Image: Unsplash." width="1200" height="675" fetchpriority="high" decoding="async">
+<source srcset="/img/1532693322450-2cb5c511067d-1000.avif" type="image/avif">
+<source srcset="/img/1532693322450-2cb5c511067d-700.webp" type="image/webp">
+<img src="/img/1532693322450-2cb5c511067d-700.webp" alt="The full Moon hangs in the black sky. Six months after Artemis II, NASA is pushing toward a 2028 lunar landing. Image: Unsplash." width="1000" height="563" fetchpriority="high" decoding="async">
 </picture>
 *The Moon, as seen from Earth. NASA now aims to land astronauts near its south pole in early 2028. Image: Unsplash.*
 
@@ -31,9 +31,9 @@ And what a homecoming it was full of. Slipping behind the Moon, out of radio con
 On April 10, Orion streaked through the atmosphere and splashed down in the Pacific off San Diego at 5:07 p.m. PDT. Navy and NASA recovery teams pulled the capsule from calm seas; the crew was flown by helicopter to the USS John P. Murtha for medical checks before returning to Ellington Airport in Houston the next day. "Artemis II demonstrated extraordinary skill, courage, and dedication," NASA Administrator Jared Isaacman said afterward, "as the crew pushed Orion, SLS, and human exploration farther than ever before."
 
 <picture>
-<source srcset="/img/1517976487492-5750f3195933-1200.avif" type="image/avif">
-<source srcset="/img/1517976487492-5750f3195933-1200.webp" type="image/webp">
-<img src="/img/1517976487492-5750f3195933-1200.webp" alt="A rocket climbs skyward on a column of flame. Artemis II lifted off aboard the Space Launch System on April 1, 2026. Image: Unsplash." width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1517976487492-5750f3195933-1000.avif" type="image/avif">
+<source srcset="/img/1517976487492-5750f3195933-700.webp" type="image/webp">
+<img src="/img/1517976487492-5750f3195933-700.webp" alt="A rocket climbs skyward on a column of flame. Artemis II lifted off aboard the Space Launch System on April 1, 2026. Image: Unsplash." width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *Artemis II lifted off aboard NASA's Space Launch System on April 1, 2026 — the first crewed lunar mission in 53 years. Image: Unsplash.*
 
@@ -60,9 +60,9 @@ The crew for this pivotal flight was announced on June 9, 2026: Commander Randy 
 NASA is currently targeting no earlier than June 2027 for launch, and officials insist the date is achievable — while acknowledging, candidly, how much has to go right. "The biggest thing is having faith in the team to pull together, with the same rationale that anything can happen," mission specialist Andre Douglas told Reuters in early October, when asked whether the mission is still on track. The pacing items, he said, are the ones the contractors must demonstrate: storing and delicately transferring super-cooled propellants in space, and docking with another object in orbit. Isaacman, for his part, has pointed to good progress on "the parts that are in NASA's greatest control" — the agency-owned Orion and SLS. The SLS boosters completed assembly at the end of September, with final assembly of the core stage expected in the coming weeks.
 
 <picture>
-<source srcset="/img/1519681393784-d120267933ba-1200.avif" type="image/avif">
-<source srcset="/img/1519681393784-d120267933ba-1200.webp" type="image/webp">
-<img src="/img/1519681393784-d120267933ba-1200.webp" alt="A star-filled sky over dark mountains. Artemis III will rehearse lunar landing procedures in Earth orbit in 2027. Image: Unsplash." width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1519681393784-d120267933ba-1000.avif" type="image/avif">
+<source srcset="/img/1519681393784-d120267933ba-700.webp" type="image/webp">
+<img src="/img/1519681393784-d120267933ba-700.webp" alt="A star-filled sky over dark mountains. Artemis III will rehearse lunar landing procedures in Earth orbit in 2027. Image: Unsplash." width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *Artemis III will rehearse docking with the commercial lunar landers in Earth orbit — a dress rehearsal before the 2028 landing. Image: Unsplash.*
 
@@ -89,9 +89,9 @@ NASA is not the only agency with lunar ambitions, and everyone involved knows it
 American officials rarely frame Artemis as a race anymore; the language is all about partnerships, with more than 40 nations signed to the Artemis Accords. But the subtext is unmistakable, and it shapes the schedule pressure. A 2028 American landing would reestablish a lead of several years. A slip into the 2030s would turn the return to the Moon into something far more contested — two superpowers building rival outposts on the same small world, under very different rules.
 
 <picture>
-<source srcset="/img/1444703686981-a3abbc4d4fe3-1200.avif" type="image/avif">
-<source srcset="/img/1444703686981-a3abbc4d4fe3-1200.webp" type="image/webp">
-<img src="/img/1444703686981-a3abbc4d4fe3-1200.webp" alt="A spiral galaxy in deep space. The Moon is a stepping stone — Artemis is ultimately about learning to live and work beyond Earth. Image: Unsplash." width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1444703686981-a3abbc4d4fe3-1000.avif" type="image/avif">
+<source srcset="/img/1444703686981-a3abbc4d4fe3-700.webp" type="image/webp">
+<img src="/img/1444703686981-a3abbc4d4fe3-700.webp" alt="A spiral galaxy in deep space. The Moon is a stepping stone — Artemis is ultimately about learning to live and work beyond Earth. Image: Unsplash." width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *The Moon is a proving ground. Everything learned there — landers, suits, surface habitats — feeds the eventual push to Mars. Image: Unsplash.*
 
@@ -110,8 +110,8 @@ There are a hundred ways this timeline can slip. Propellant depots, docking syst
 The Moon is 238,855 miles away on average. In April, humanity closed the distance to 4,067 miles above its surface and turned for home. The next time Orion makes that trip with a crew, the plan says, it won't be turning around.
 
 <picture>
-<source srcset="/img/1520034475321-cbe63696469a-1200.avif" type="image/avif">
-<source srcset="/img/1520034475321-cbe63696469a-1200.webp" type="image/webp">
-<img src="/img/1520034475321-cbe63696469a-1200.webp" alt="Stars scattered across the night sky. The next crewed trip to the Moon is planned for 2028 — this time, to land. Image: Unsplash." width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1520034475321-cbe63696469a-1000.avif" type="image/avif">
+<source srcset="/img/1520034475321-cbe63696469a-700.webp" type="image/webp">
+<img src="/img/1520034475321-cbe63696469a-700.webp" alt="Stars scattered across the night sky. The next crewed trip to the Moon is planned for 2028 — this time, to land. Image: Unsplash." width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *In 2028, NASA plans to return astronauts to the lunar surface for the first time in over half a century. Image: Unsplash.*
