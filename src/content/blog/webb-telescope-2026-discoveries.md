@@ -11,7 +11,11 @@ That discovery, announced in June 2026, was just one entry in what may go down a
 
 This is the story of Webb's breakthrough year.
 
-![A spiral galaxy glowing against the dark. Webb spent 2026 dissecting the chemistry of galaxies, planets, and alien worlds. Image: Unsplash.](https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1444703686981-a3abbc4d4fe3-1200.avif" type="image/avif">
+<source srcset="/img/1444703686981-a3abbc4d4fe3-1200.webp" type="image/webp">
+<img src="/img/1444703686981-a3abbc4d4fe3-1200.webp" alt="A spiral galaxy glowing against the dark. Webb spent 2026 dissecting the chemistry of galaxies, planets, and alien worlds. Image: Unsplash." width="1200" height="675" fetchpriority="high" decoding="async">
+</picture>
 *Webb spent 2026 dissecting the chemistry of galaxies, planets, and alien worlds — moving astronomy from discovery to dissection. Image: Unsplash.*
 
 ## A Nursery of Galaxies at the Dawn of Time
@@ -24,7 +28,11 @@ The discovery was led by researchers at Leiden University and the University of 
 
 TGSSJ1530+1049 was not even the most distant prize of Webb's year. Another galaxy, MoM-z14, was confirmed at a staggering remove: its light began traveling just 280 million years after the Big Bang. Each such object is a stress test for our understanding of how quickly the first stars ignited and the first galaxies assembled — and so far, the universe keeps passing the test earlier than expected.
 
-![A colorful nebula. Webb found at least six infant galaxies packed together 12 billion light-years away, already merging into a giant. Image: Unsplash.](https://images.unsplash.com/photo-1462331940025-496dfbfc7564?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1462331940025-496dfbfc7564-1200.avif" type="image/avif">
+<source srcset="/img/1462331940025-496dfbfc7564-1200.webp" type="image/webp">
+<img src="/img/1462331940025-496dfbfc7564-1200.webp" alt="A colorful nebula. Webb found at least six infant galaxies packed together 12 billion light-years away, already merging into a giant. Image: Unsplash." width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *In the system TGSSJ1530+1049, at least six infant galaxies are merging into a single giant, with a supermassive black hole growing at the center. Image: Unsplash.*
 
 ## The Impossible Planets
@@ -39,7 +47,11 @@ HATS-6 b was not the only planetary rule-breaker of Webb's year. In the young Be
 
 And then there is the boundary case. In April 2026, astronomers announced the direct imaging of 29 Cygni b, an object about 15 times the mass of Jupiter. That puts it in the contested territory between the largest planets and the smallest brown dwarfs — failed stars. Webb's analysis of its carbon and oxygen chemistry suggests it formed the way planets do, by accreting material from a disk around its star, rather than collapsing like a star. Each such measurement sharpens a boundary that has been blurry since the first exoplanets were found: what, exactly, counts as a planet?
 
-![A dense field of stars. Webb found giant planets around stars too small to make them — and detected a hidden world by its atmosphere's chemical fingerprint. Image: Unsplash.](https://images.unsplash.com/photo-1520034475321-cbe63696469a?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1520034475321-cbe63696469a-1200.avif" type="image/avif">
+<source srcset="/img/1520034475321-cbe63696469a-1200.webp" type="image/webp">
+<img src="/img/1520034475321-cbe63696469a-1200.webp" alt="A dense field of stars. Webb found giant planets around stars too small to make them — and detected a hidden world by its atmosphere's chemical fingerprint. Image: Unsplash." width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *Webb found a Jupiter-size planet orbiting a tiny red dwarf star every three days — a world that shouldn't exist under current formation theories. Image: Unsplash.*
 
 ## Rocks, Magma, and the Clearest Alien Surface Ever Seen
@@ -54,7 +66,11 @@ A December 2025 result pushed the rocky-planet story in the opposite direction. 
 
 Meanwhile, closer to the temperate zone that captures the public imagination, Webb continued tightening the constraints on the TRAPPIST-1 system, the famous septet of Earth-sized worlds around a nearby red dwarf. The telescope's measurements of TRAPPIST-1 d, one of the system's most promising planets, are progressively narrowing what kind of atmosphere — if any — it can have. Each observation is a process of elimination, and elimination is how you eventually find something.
 
-![Earth seen from orbit. Webb is now doing geology on other worlds — reading the mineral makeup of rocky exoplanet surfaces. Image: Unsplash.](https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1446776811953-b23d57bd21aa-1200.avif" type="image/avif">
+<source srcset="/img/1446776811953-b23d57bd21aa-1200.webp" type="image/webp">
+<img src="/img/1446776811953-b23d57bd21aa-1200.webp" alt="Earth seen from orbit. Webb is now doing geology on other worlds — reading the mineral makeup of rocky exoplanet surfaces. Image: Unsplash." width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *Earth is the reference point, but Webb is now reading the geology of alien rocks — like the basalt-like surface of LHS 3844 b. Image: Unsplash.*
 
 ## A Fossil in Our Own Backyard
@@ -91,5 +107,9 @@ The next chapters are already being written. Webb's targets for the coming years
 
 A century ago, astronomy could barely prove other galaxies existed. This year, it read the mineralogy of a rock around another star and watched six infant galaxies falling together at the edge of time. The universe, it turns out, rewards a closer look.
 
-![A starry sky over dark mountain silhouettes. A century after proving other galaxies exist, astronomy now reads the geology of alien worlds. Image: Unsplash.](https://images.unsplash.com/photo-1519681393784-d120267933ba?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1519681393784-d120267933ba-1200.avif" type="image/avif">
+<source srcset="/img/1519681393784-d120267933ba-1200.webp" type="image/webp">
+<img src="/img/1519681393784-d120267933ba-1200.webp" alt="A starry sky over dark mountain silhouettes. A century after proving other galaxies exist, astronomy now reads the geology of alien worlds. Image: Unsplash." width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *Webb's techniques — proven on magma oceans and airless rocks — are the rehearsal for the search for habitable worlds. Image: Unsplash.*

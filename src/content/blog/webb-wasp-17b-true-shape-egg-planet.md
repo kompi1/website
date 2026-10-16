@@ -11,7 +11,11 @@ The planet is WASP-17b, a bloated hot Jupiter racing around its star once every 
 
 "This is proof of concept that planets are in fact 3D objects," said first author Lili Alderson, a Klarman Postdoctoral Fellow at Cornell University. Until now, she noted, the idea that hot gas giants should be deformed was a computational exercise. "To move beyond computational exercises and see it for real is a different matter."
 
-![A dense field of stars in the Milky Way. Webb's transit mapping technique can now read the true shapes of planets around distant stars. Image: Unsplash.](https://images.unsplash.com/photo-1465101162946-4377e57745c3?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1465101162946-4377e57745c3-1200.avif" type="image/avif">
+<source srcset="/img/1465101162946-4377e57745c3-1200.webp" type="image/webp">
+<img src="/img/1465101162946-4377e57745c3-1200.webp" alt="A dense field of stars in the Milky Way. Webb's transit mapping technique can now read the true shapes of planets around distant stars. Image: Unsplash." width="1200" height="675" fetchpriority="high" decoding="async">
+</picture>
 *A dense field of stars in the Milky Way. Webb's transit mapping technique can now read the true shapes of planets around distant stars. Image: Unsplash.*
 
 ## The Egg in Scorpius
@@ -46,7 +50,11 @@ The asymmetry — the lopsidedness of the egg — is the clincher. A perfectly s
 
 Second author Hannah Wakeford of the University of Bristol emphasized that the coherence of the result is what makes it exciting. The numbers from different parts of the planet's edge came together to show a structured, dynamical picture of a giant world more than a thousand light-years away — not a random scatter of noise, but the fingerprint of a circulation pattern astronomers have modeled for years but never directly seen.
 
-![A stargazer silhouetted under the Milky Way. For the first time, astronomers have measured the true, imperfect shape of a distant world. Image: Unsplash.](https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1444703686981-a3abbc4d4fe3-1200.avif" type="image/avif">
+<source srcset="/img/1444703686981-a3abbc4d4fe3-1200.webp" type="image/webp">
+<img src="/img/1444703686981-a3abbc4d4fe3-1200.webp" alt="A stargazer silhouetted under the Milky Way. For the first time, astronomers have measured the true, imperfect shape of a distant world. Image: Unsplash." width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *A stargazer silhouetted under the Milky Way. For the first time, astronomers have measured the true, imperfect shape of a distant world. Image: Unsplash.*
 
 ## Why a Bulge Matters
@@ -59,7 +67,11 @@ Now there is a measurement. The transit mapping technique does more than confirm
 
 That is the long game, and the team is explicit about it. The same technique that revealed WASP-17b's egg-like form can be turned on other transiting exoplanets, including smaller and cooler worlds, where the signals will be fainter but the scientific payoff potentially larger. Mapping shapes and circulation on a statistical sample of hot Jupiters would let astronomers test which atmospheric processes are universal and which depend on a planet's particular history — a comparative planetology program that until now was confined to the eight worlds of our own solar system.
 
-![The Bubble Nebula, captured by the Hubble Space Telescope. Webb's infrared eyes now peer into planetary atmospheres with unprecedented precision. Image: Unsplash.](https://images.unsplash.com/photo-1462331940025-496dfbfc7564?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1462331940025-496dfbfc7564-1200.avif" type="image/avif">
+<source srcset="/img/1462331940025-496dfbfc7564-1200.webp" type="image/webp">
+<img src="/img/1462331940025-496dfbfc7564-1200.webp" alt="The Bubble Nebula, captured by the Hubble Space Telescope. Webb's infrared eyes now peer into planetary atmospheres with unprecedented precision. Image: Unsplash." width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *The Bubble Nebula, captured by the Hubble Space Telescope. Webb's infrared eyes now peer into planetary atmospheres with unprecedented precision. Image: Unsplash.*
 
 ## A Familiar Physics, at an Unfamiliar Scale
@@ -70,7 +82,11 @@ In such an environment, the atmosphere is not a calm envelope. The temperature c
 
 There are precedents in our own solar system for winds that reshape a world. On Jupiter, alternating jet streams carve the banded clouds into chevrons and ovals, and the Great Red Spot — a storm wider than the Earth — is itself a deformation driven by circulation. On Neptune, the fastest winds in the solar system, screaming past 2,000 kilometers per hour, sculpt a deep blue atmosphere into streaks and dark spots. What Webb has done is extend that kind of dynamical reasoning to a world no human instrument will ever visit, and shown that the same equations hold.
 
-![Neptune, photographed by Voyager 2. In our own solar system, no giant planet is a perfect sphere either. Image: Unsplash.](https://images.unsplash.com/photo-1614313913007-2b4ae8ce32d6?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1614313913007-2b4ae8ce32d6-1200.avif" type="image/avif">
+<source srcset="/img/1614313913007-2b4ae8ce32d6-1200.webp" type="image/webp">
+<img src="/img/1614313913007-2b4ae8ce32d6-1200.webp" alt="Neptune, photographed by Voyager 2. In our own solar system, no giant planet is a perfect sphere either. Image: Unsplash." width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *Neptune, photographed by Voyager 2. In our own solar system, no giant planet is a perfect sphere either. Image: Unsplash.*
 
 ## Tidal Locking: One Face to the Fire
@@ -81,7 +97,11 @@ On a tidally locked hot Jupiter, the consequences are far more dramatic than lun
 
 This is why the team attributes the egg-like silhouette to the combined effects of stellar irradiation and the equatorial jet. The dayside atmosphere, heated from above, expands; the jet carries that expanded gas around to the nightside, stretching the silhouette; and the uneven strength of the winds on different sides of the planet produces the observed asymmetry. Every bump and stretch in the reconstructed outline is, in effect, a weather report written in geometry.
 
-![The full Moon. Our Moon is tidally locked to Earth — WASP-17b is tidally locked to its star the same way. Image: Unsplash.](https://images.unsplash.com/photo-1532693322450-2cb5c511067d?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1532693322450-2cb5c511067d-1200.avif" type="image/avif">
+<source srcset="/img/1532693322450-2cb5c511067d-1200.webp" type="image/webp">
+<img src="/img/1532693322450-2cb5c511067d-1200.webp" alt="The full Moon. Our Moon is tidally locked to Earth — WASP-17b is tidally locked to its star the same way. Image: Unsplash." width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *The full Moon. Our Moon is tidally locked to Earth — WASP-17b is tidally locked to its star the same way. Image: Unsplash.*
 
 ## Webb's Growing Playbook

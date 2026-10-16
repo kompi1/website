@@ -23,7 +23,11 @@ Brown dwarfs occupy a strange middle ground. They are far more massive than plan
 
 Webb has now smashed through that floor.
 
-![Star-forming region in deep space](https://images.unsplash.com/photo-1462331940025-496dfbfc7564?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1462331940025-496dfbfc7564-1200.avif" type="image/avif">
+<source srcset="/img/1462331940025-496dfbfc7564-1200.webp" type="image/webp">
+<img src="/img/1462331940025-496dfbfc7564-1200.webp" alt="Star-forming region in deep space" width="1200" height="675" fetchpriority="high" decoding="async">
+</picture>
 *The IC 348 region lies about 1,000 light-years away in Perseus. Image: Unsplash.*
 
 ## A second, deeper look at IC 348
@@ -46,7 +50,11 @@ Consider the evidence. These objects are members of IC 348, a young cluster stil
 
 That distinction matters enormously. If these objects were ejected planets, they would tell us about the violence of young planetary systems. But as products of star formation itself, they tell us something far more fundamental: that the process which builds stars can operate at masses far lower than theory predicted. The collapsing-cloud machinery, it seems, does not know where the textbooks told it to stop.
 
-![Infrared view of a stellar nursery](https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1446776811953-b23d57bd21aa-1200.avif" type="image/avif">
+<source srcset="/img/1446776811953-b23d57bd21aa-1200.webp" type="image/webp">
+<img src="/img/1446776811953-b23d57bd21aa-1200.webp" alt="Infrared view of a stellar nursery" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *Webb's infrared instruments peer through dust to find the faintest cluster members. Image: Unsplash.*
 
 ## A disk around a near-planet
@@ -71,7 +79,11 @@ If confirmed by further observations and laboratory work, the H class would be t
 
 The unidentified hydrocarbon itself is a puzzle worth savoring. Hydrocarbons are among the most interesting molecules in astronomy — they are the chemical precursors, in the right environments, to far more complex organic chemistry. Finding an unknown one in the atmosphere of a near-planetary-mass object is a reminder of how much basic chemistry of the cold universe remains unmapped.
 
-![Cosmic dust and gas clouds](https://images.unsplash.com/photo-1517976487492-5750f3195933?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1517976487492-5750f3195933-1200.avif" type="image/avif">
+<source srcset="/img/1517976487492-5750f3195933-1200.webp" type="image/webp">
+<img src="/img/1517976487492-5750f3195933-1200.webp" alt="Cosmic dust and gas clouds" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *Unidentified molecules in brown dwarf atmospheres may define a new spectral class. Image: Unsplash.*
 
 ## When models meet reality
@@ -120,7 +132,11 @@ And then there is the biggest question of all, the one the discovery poses witho
 
 For now, the nine new members of IC 348 stand as a reminder of a truth astronomers relearn with every generation of telescopes: the universe is under no obligation to respect our categories. We draw lines between stars and planets, between success and failure, between the significant and the negligible. And every so often, the cosmos draws something right across them — in this case, a wisp of an object, twice the mass of Jupiter, wrapped in the makings of worlds, daring us to say what it is.
 
-![Deep space starfield](https://images.unsplash.com/photo-1459908676235-d5f02a50184b?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1459908676235-d5f02a50184b-1200.avif" type="image/avif">
+<source srcset="/img/1459908676235-d5f02a50184b-1200.webp" type="image/webp">
+<img src="/img/1459908676235-d5f02a50184b-1200.webp" alt="Deep space starfield" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *The smallest brown dwarfs blur the line between stars and planets. Image: Unsplash.*
 
 ## A September to remember
