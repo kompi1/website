@@ -22,9 +22,9 @@ The Falcon 9 performed its opening act flawlessly: nine Merlin engines on the fi
 Then came the part of the evening that belonged to the customer. SpaceX ended its public webcast after the landing, at the NRO's request. No footage of the second stage, no fairing views, no payload deployment callouts. Hours later, the NRO confirmed the payload had been delivered. Beyond that: nothing. The agency's entire public statement about the satellite's purpose fits in a sentence: the payload was designed, built, and will be operated by the NRO.
 
 <picture>
-<source srcset="/img/1459908676235-d5f02a50184b-1200.avif" type="image/avif">
-<source srcset="/img/1459908676235-d5f02a50184b-1200.webp" type="image/webp">
-<img src="/img/1459908676235-d5f02a50184b-1200.webp" alt="A rocket ascending on a pillar of flame against the night sky" width="1200" height="675" fetchpriority="high" decoding="async">
+<source srcset="/img/1459908676235-d5f02a50184b-1000.avif" type="image/avif">
+<source srcset="/img/1459908676235-d5f02a50184b-700.webp" type="image/webp">
+<img src="/img/1459908676235-d5f02a50184b-700.webp" alt="A rocket ascending on a pillar of flame against the night sky" width="1000" height="563" fetchpriority="high" decoding="async">
 </picture>
 *Falcon 9 lifts off from Cape Canaveral in the predawn darkness. Image: Unsplash.*
 
@@ -47,9 +47,9 @@ Patch exegesis is a beloved pastime of the space press, and analysts will spend 
 Beyond the patch, the cone of silence is total. No orbit has been officially disclosed, no satellite bus identified, no mission duration suggested. Amateur satellite trackers will, in time, catalog whatever object the NRO declines to name — they always do — but for now NROL-95 is a point of light with a ferret for a flag.
 
 <picture>
-<source srcset="/img/1516849841032-87cbac4d88f7-1200.avif" type="image/avif">
-<source srcset="/img/1516849841032-87cbac4d88f7-1200.webp" type="image/webp">
-<img src="/img/1516849841032-87cbac4d88f7-1200.webp" alt="Stars scattered across the deep night sky" width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1516849841032-87cbac4d88f7-1000.avif" type="image/avif">
+<source srcset="/img/1516849841032-87cbac4d88f7-700.webp" type="image/webp">
+<img src="/img/1516849841032-87cbac4d88f7-700.webp" alt="Stars scattered across the deep night sky" width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *The NRO disclosed no details of the payload or its orbit. Image: Unsplash.*
 
@@ -76,9 +76,9 @@ NROL-95 does not fit that pattern, and the differences are instructive. It launc
 The NRO, of course, will neither confirm nor deny any of this. But the architecture of American space reconnaissance in 2026 is increasingly legible even through the secrecy: a proliferated layer of hundreds of small satellites providing persistence and revisit, and beneath or above it — the agency won't say — a layer of exquisite capabilities for the hardest intelligence problems. NROL-95 looks like the second layer. The ferret hunts where the swarm cannot go.
 
 <picture>
-<source srcset="/img/1614313913007-2b4ae8ce32d6-1200.avif" type="image/avif">
-<source srcset="/img/1614313913007-2b4ae8ce32d6-1200.webp" type="image/webp">
-<img src="/img/1614313913007-2b4ae8ce32d6-1200.webp" alt="A satellite's-eye view of Earth from orbit" width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1614313913007-2b4ae8ce32d6-1000.avif" type="image/avif">
+<source srcset="/img/1614313913007-2b4ae8ce32d6-700.webp" type="image/webp">
+<img src="/img/1614313913007-2b4ae8ce32d6-700.webp" alt="A satellite's-eye view of Earth from orbit" width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *NROL-95 was the fourth NRO launch of 2026, amid a build-out of hundreds of reconnaissance satellites. Image: Unsplash.*
 
@@ -103,8 +103,8 @@ There is also the adversary's-eye view, which the NRO never discusses but which 
 For the public, NROL-95 offered ninety seconds of fire and thunder, a booster landing in the dark, and then a curtain. That is how it goes with the NRO's most sensitive missions: the rocket is public, the payload is not, and the gap between the two is where American spacepower lives. Somewhere above the Earth tonight, a new satellite — ferret-emblazoned, champion-declared — is beginning its secret work. The launch was at 3:10 a.m. The mission, whatever it is, is just getting started.
 
 <picture>
-<source srcset="/img/1465101162946-4377e57745c3-1200.avif" type="image/avif">
-<source srcset="/img/1465101162946-4377e57745c3-1200.webp" type="image/webp">
-<img src="/img/1465101162946-4377e57745c3-1200.webp" alt="A rocket's fiery ascent lighting up the night" width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1465101162946-4377e57745c3-1000.avif" type="image/avif">
+<source srcset="/img/1465101162946-4377e57745c3-700.webp" type="image/webp">
+<img src="/img/1465101162946-4377e57745c3-700.webp" alt="A rocket's fiery ascent lighting up the night" width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *Booster B1096 landed at LZ-2 about eight and a half minutes after liftoff — SpaceX's 642nd recovery. Image: Unsplash.*

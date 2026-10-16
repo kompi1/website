@@ -14,9 +14,9 @@ By the closing bell, the numbers were even more staggering. SPCX opened at $150,
 Twenty-four years after Musk founded the company with the stated goal of making humanity multiplanetary, SpaceX had become a public company. And its first day as one was, fittingly, business as usual: by the time traders went home, the morning's Falcon 9 booster — veteran B1080, flying for the 27th time — had already landed itself on the droneship *A Shortfall of Gravitas* in the Atlantic Ocean, and the 29 satellites were spreading out in orbit. It was the 68th Falcon 9 mission of 2026.
 
 <picture>
-<source srcset="/img/1517976487492-5750f3195933-1200.avif" type="image/avif">
-<source srcset="/img/1517976487492-5750f3195933-1200.webp" type="image/webp">
-<img src="/img/1517976487492-5750f3195933-1200.webp" alt="A Falcon 9 rocket climbing away from its launch pad on a bright morning" width="1200" height="675" fetchpriority="high" decoding="async">
+<source srcset="/img/1517976487492-5750f3195933-1000.avif" type="image/avif">
+<source srcset="/img/1517976487492-5750f3195933-700.webp" type="image/webp">
+<img src="/img/1517976487492-5750f3195933-700.webp" alt="A Falcon 9 rocket climbing away from its launch pad on a bright morning" width="1000" height="563" fetchpriority="high" decoding="async">
 </picture>
 *The June 12 IPO-day Falcon 9 launch was the company's 68th of the year — and its first as a public company. Image: Unsplash.*
 
@@ -43,9 +43,9 @@ The second business is the launch operation itself: the Falcon 9 and Falcon Heav
 The third is Starship, the giant fully reusable vehicle SpaceX is developing in Texas — 33 engines on the booster, a ship designed to be caught out of the sky — intended to loft the next generation of Starlink satellites by the hundreds, carry NASA astronauts to the lunar surface, and, in Musk's telling, eventually carry settlers to Mars.
 
 <picture>
-<source srcset="/img/1502134249126-9f3755a50d78-1200.avif" type="image/avif">
-<source srcset="/img/1502134249126-9f3755a50d78-1200.webp" type="image/webp">
-<img src="/img/1502134249126-9f3755a50d78-1200.webp" alt="A giant stainless-steel rocket on its launch mount under a wide sky" width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1502134249126-9f3755a50d78-1000.avif" type="image/avif">
+<source srcset="/img/1502134249126-9f3755a50d78-700.webp" type="image/webp">
+<img src="/img/1502134249126-9f3755a50d78-700.webp" alt="A giant stainless-steel rocket on its launch mount under a wide sky" width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *Starship — SpaceX's fully reusable super-heavy vehicle — is central to the company's pitch for its next decade of growth. Image: Unsplash.*
 
@@ -54,9 +54,9 @@ The fourth, and the one that most complicates any valuation model, is artificial
 That last element is precisely what made independent analysts queasy. Morningstar, the investment research firm, valued SpaceX at $780 billion before the listing — less than half the $1.77 trillion offer price — and flagged losses absorbed through the xAI merger as a structural concern. The gap between Morningstar's math and the market's enthusiasm captured a genuine disagreement: is SpaceX a launch company with a great broadband business, or is it the indispensable infrastructure layer for the AI age, with rockets as merely the delivery mechanism?
 
 <picture>
-<source srcset="/img/1446776811953-b23d57bd21aa-1200.avif" type="image/avif">
-<source srcset="/img/1446776811953-b23d57bd21aa-1200.webp" type="image/webp">
-<img src="/img/1446776811953-b23d57bd21aa-1200.webp" alt="A Starlink satellite deploy array imagined above Earth's limb at dawn" width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1446776811953-b23d57bd21aa-1000.avif" type="image/avif">
+<source srcset="/img/1446776811953-b23d57bd21aa-700.webp" type="image/webp">
+<img src="/img/1446776811953-b23d57bd21aa-700.webp" alt="A Starlink satellite deploy array imagined above Earth's limb at dawn" width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *Starlink's connectivity business — $4.4 billion in revenue in 2025 — was framed in the prospectus as the primary driver of SpaceX's value. Image: Unsplash.*
 
@@ -89,18 +89,18 @@ The launch itself was routine only by SpaceX's standards. Liftoff of the Starlin
 The booster that did the flying deserved its own footnote. B1080 was on its 27th mission — a veteran whose logbook included the Axiom-2 and Axiom-3 private crew flights, the European Space Agency's Euclid space telescope, and a NASA cargo resupply run. Its landing on *A Shortfall of Gravitas* was the 157th touchdown on that vessel. Reusability, the technology that made the company's economics work, was on full display on the morning the company went public: the rocket that opened the trading day had already been to space and back 26 times before.
 
 <picture>
-<source srcset="/img/1447433589675-4aaa569f3e05-1200.avif" type="image/avif">
-<source srcset="/img/1447433589675-4aaa569f3e05-1200.webp" type="image/webp">
-<img src="/img/1447433589675-4aaa569f3e05-1200.webp" alt="A rocket booster descending toward a droneship in the ocean" width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1447433589675-4aaa569f3e05-1000.avif" type="image/avif">
+<source srcset="/img/1447433589675-4aaa569f3e05-700.webp" type="image/webp">
+<img src="/img/1447433589675-4aaa569f3e05-700.webp" alt="A rocket booster descending toward a droneship in the ocean" width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *Booster B1080 completed its 27th flight on IPO day, landing on the droneship A Shortfall of Gravitas in the Atlantic. Image: Unsplash.*
 
 There was poetry in the timing, and SpaceX knew it. The company's launch webcast and social channels leaned into the double meaning of the word "launch" all morning. But there was also a harder-edged message: the cadence doesn't stop for Wall Street. Rockets fly on the schedule the manifest demands, and the manifest in 2026 demanded a Falcon 9 roughly every three days.
 
 <picture>
-<source srcset="/img/1462331940025-496dfbfc7564-1200.avif" type="image/avif">
-<source srcset="/img/1462331940025-496dfbfc7564-1200.webp" type="image/webp">
-<img src="/img/1462331940025-496dfbfc7564-1200.webp" alt="A rocket's exhaust plume glowing against a darkening sky during ascent" width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1462331940025-496dfbfc7564-1000.avif" type="image/avif">
+<source srcset="/img/1462331940025-496dfbfc7564-700.webp" type="image/webp">
+<img src="/img/1462331940025-496dfbfc7564-700.webp" alt="A rocket's exhaust plume glowing against a darkening sky during ascent" width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *The IPO-day mission deployed 29 Starlink V2 Mini Optimized satellites about an hour into flight. Image: Unsplash.*
 
