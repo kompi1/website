@@ -10,9 +10,9 @@ At 2:39 a.m. on a Wednesday morning, when most of Florida's Space Coast was asle
 The mission, BlueBird 8-10, was a triumph for AST SpaceMobile, the Texas-based company building what it calls the first and only space-based cellular broadband network accessible directly by everyday smartphones. It was also something more: a comeback. Less than two months earlier, the company's BlueBird 7 satellite had been lost when a Blue Origin New Glenn rocket deposited it in the wrong orbit. On June 17, aboard a tried-and-true SpaceX Falcon 9, AST SpaceMobile got its constellation back on track.
 
 <picture>
-<source srcset="/img/1447433589675-4aaa569f3e05-1200.avif" type="image/avif">
-<source srcset="/img/1447433589675-4aaa569f3e05-1200.webp" type="image/webp">
-<img src="/img/1447433589675-4aaa569f3e05-1200.webp" alt="A rocket launching into the night sky with a brilliant exhaust plume" width="1200" height="675" fetchpriority="high" decoding="async">
+<source srcset="/img/1447433589675-4aaa569f3e05-1000.avif" type="image/avif">
+<source srcset="/img/1447433589675-4aaa569f3e05-700.webp" type="image/webp">
+<img src="/img/1447433589675-4aaa569f3e05-700.webp" alt="A rocket launching into the night sky with a brilliant exhaust plume" width="1000" height="563" fetchpriority="high" decoding="async">
 </picture>
 *SpaceX's Falcon 9 has become the workhorse for deploying AST SpaceMobile's constellation. Image: Unsplash.*
 
@@ -45,9 +45,9 @@ For the recovery team, the timing meant working a night shift hundreds of miles 
 That night, it all worked. And the northeasterly trajectory the Falcon took — climbing out over the Atlantic toward the orbit AST needed — put on the usual show for anyone awake along the Space Coast: a pillar of fire rising, the rumble arriving seconds later, and then the strange, silent arc of the booster returning, its engines relighting to slow its fall before the final touchdown burn.
 
 <picture>
-<source srcset="/img/1502134249126-9f3755a50d78-1200.avif" type="image/avif">
-<source srcset="/img/1502134249126-9f3755a50d78-1200.webp" type="image/webp">
-<img src="/img/1502134249126-9f3755a50d78-1200.webp" alt="The full Moon glowing in a dark night sky" width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1502134249126-9f3755a50d78-1000.avif" type="image/avif">
+<source srcset="/img/1502134249126-9f3755a50d78-700.webp" type="image/webp">
+<img src="/img/1502134249126-9f3755a50d78-700.webp" alt="The full Moon glowing in a dark night sky" width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *The BlueBird 8-10 mission lifted off in the predawn darkness, when Florida's weather is often at its calmest. Image: Unsplash.*
 
@@ -62,9 +62,9 @@ The payoff is speed. AST's initial Block 1 satellites recently demonstrated peak
 The engineering is genuinely novel. Unlike competing low-Earth-orbit constellations that require specialized user terminals — a dish on your roof, a puck in your hand — AST's approach works with the phone already in your pocket. The satellite does the heavy lifting: the giant array, the onboard processing, the beamforming that tracks your handset as it moves. If it works at scale, it rewrites the economics of rural and remote connectivity, where building terrestrial towers has never penciled out.
 
 <picture>
-<source srcset="/img/1446776811953-b23d57bd21aa-1200.avif" type="image/avif">
-<source srcset="/img/1446776811953-b23d57bd21aa-1200.webp" type="image/webp">
-<img src="/img/1446776811953-b23d57bd21aa-1200.webp" alt="A satellite with large solar panels orbiting above the Earth" width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1446776811953-b23d57bd21aa-1000.avif" type="image/avif">
+<source srcset="/img/1446776811953-b23d57bd21aa-700.webp" type="image/webp">
+<img src="/img/1446776811953-b23d57bd21aa-700.webp" alt="A satellite with large solar panels orbiting above the Earth" width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *Each Block 2 BlueBird carries the largest commercial communications array ever deployed in orbit. Image: Unsplash.*
 
@@ -101,9 +101,9 @@ The race is also being fought in courtrooms and regulatory filings. Spectrum —
 That rulebook matters because the physics of sharing spectrum between terrestrial towers and satellites is genuinely tricky. A satellite beaming down on a carrier's frequencies must not drown out the tower down the street, and the tower must not deafen the satellite's receivers. AST's giant arrays help here too: their narrow, precisely shaped beams can target individual cells on the ground while minimizing interference with neighboring ones. It is an elegant solution to a problem that has bedeviled satellite telephony since the days of Iridium — and one reason the company's partnerships with established carriers are as important as its hardware. The carriers bring the spectrum licenses, the customers, and the billing relationships. AST brings the tower in the sky.
 
 <picture>
-<source srcset="/img/1516849841032-87cbac4d88f7-1200.avif" type="image/avif">
-<source srcset="/img/1516849841032-87cbac4d88f7-1200.webp" type="image/webp">
-<img src="/img/1516849841032-87cbac4d88f7-1200.webp" alt="A person holding a smartphone showing a bright screen" width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1516849841032-87cbac4d88f7-1000.avif" type="image/avif">
+<source srcset="/img/1516849841032-87cbac4d88f7-700.webp" type="image/webp">
+<img src="/img/1516849841032-87cbac4d88f7-700.webp" alt="A person holding a smartphone showing a bright screen" width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *AST SpaceMobile's bet: the phone in your pocket is all the ground equipment you'll ever need. Image: Unsplash.*
 
