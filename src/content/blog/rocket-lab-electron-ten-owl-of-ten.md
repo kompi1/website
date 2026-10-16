@@ -10,9 +10,9 @@ Dawn was still an hour away on the Mahia Peninsula when Rocket Lab's Electron li
 The name was a pun — the mission deployed the tenth StriX, so Rocket Lab leaned into the owl theme with wordplay only a launch provider could love — but the numbers behind it were serious. Every one of Synspective's ten operational StriX satellites has been delivered to orbit by an Electron. The partnership, which began in 2020, has never failed. And with 17 more Synspective missions already booked to complete the constellation before the end of the decade, the relationship shows no sign of slowing.
 
 <picture>
-<source srcset="/img/1517976487492-5750f3195933-1200.avif" type="image/avif">
-<source srcset="/img/1517976487492-5750f3195933-1200.webp" type="image/webp">
-<img src="/img/1517976487492-5750f3195933-1200.webp" alt="An Electron rocket standing on its launch pad at dawn" width="1200" height="675" fetchpriority="high" decoding="async">
+<source srcset="/img/1517976487492-5750f3195933-1000.avif" type="image/avif">
+<source srcset="/img/1517976487492-5750f3195933-700.webp" type="image/webp">
+<img src="/img/1517976487492-5750f3195933-700.webp" alt="An Electron rocket standing on its launch pad at dawn" width="1000" height="563" fetchpriority="high" decoding="async">
 </picture>
 *Electron's "Ten Owl Of Ten" mission lifted off from Launch Complex 1 in Mahia, New Zealand. Image: Unsplash.*
 
@@ -33,9 +33,9 @@ The numbers behind the relationship keep growing. With the tenth StriX now opera
 Synspective's constellation plans reflect the maturing economics of commercial radar imaging. Where the first StriX satellites were technology demonstrators, the current fleet is an operational data service, selling imagery and analytics to governments and commercial customers across Asia. Each new satellite sharpens the constellation's revisit rate — how often any point on Earth can be re-imaged — which is the metric that turns a collection of satellites into a useful monitoring service. Ten satellites, all placed by Electron into carefully chosen orbits, give Synspective a foundation that its competitors, many of whom fly as secondary payloads, struggle to match.
 
 <picture>
-<source srcset="/img/1447433589675-4aaa569f3e05-1200.avif" type="image/avif">
-<source srcset="/img/1447433589675-4aaa569f3e05-1200.webp" type="image/webp">
-<img src="/img/1447433589675-4aaa569f3e05-1200.webp" alt="A satellite imaging the Earth through cloud cover" width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1447433589675-4aaa569f3e05-1000.avif" type="image/avif">
+<source srcset="/img/1447433589675-4aaa569f3e05-700.webp" type="image/webp">
+<img src="/img/1447433589675-4aaa569f3e05-700.webp" alt="A satellite imaging the Earth through cloud cover" width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *Synspective's StriX satellites use synthetic aperture radar to image Earth through clouds and darkness. Image: Unsplash.*
 
@@ -57,9 +57,9 @@ The physics of SAR also enables something optical cameras cannot do: interferome
 That is the commercial logic behind the partnership's perfect record. A dedicated launch costs more than a rideshare slot, but for a constellation operator, orbit is the product. Electron's value proposition has always been exactly this: your satellite, your orbit, your schedule.
 
 <picture>
-<source srcset="/img/1465101162946-4377e57745c3-1200.avif" type="image/avif">
-<source srcset="/img/1465101162946-4377e57745c3-1200.webp" type="image/webp">
-<img src="/img/1465101162946-4377e57745c3-1200.webp" alt="Radar waves illuminating Earth through clouds at night" width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1465101162946-4377e57745c3-1000.avif" type="image/avif">
+<source srcset="/img/1465101162946-4377e57745c3-700.webp" type="image/webp">
+<img src="/img/1465101162946-4377e57745c3-700.webp" alt="Radar waves illuminating Earth through clouds at night" width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *Radar satellites supply their own illumination, imaging through cloud cover and darkness. Image: Unsplash.*
 
@@ -82,9 +82,9 @@ Bigger changes were brewing on the horizon. Rocket Lab's Neutron — a reusable 
 For now, though, the story of late June 2026 belongs to an owl. Ten dedicated launches, ten successful deployments, one satellite constellation taking shape one precise orbit at a time. In an industry obsessed with the biggest rockets and the heaviest payloads, Rocket Lab's Electron keeps proving that sometimes the most valuable thing a rocket can do is put one satellite exactly where it belongs — and do it again, and again, and again.
 
 <picture>
-<source srcset="/img/1502134249126-9f3755a50d78-1200.avif" type="image/avif">
-<source srcset="/img/1502134249126-9f3755a50d78-1200.webp" type="image/webp">
-<img src="/img/1502134249126-9f3755a50d78-1200.webp" alt="A rocket ascending over the Pacific at dawn" width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1502134249126-9f3755a50d78-1000.avif" type="image/avif">
+<source srcset="/img/1502134249126-9f3755a50d78-700.webp" type="image/webp">
+<img src="/img/1502134249126-9f3755a50d78-700.webp" alt="A rocket ascending over the Pacific at dawn" width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *Electron's 12th launch of 2026 kept it the world's most frequently launched small-lift orbital rocket. Image: Unsplash.*
 ## Nine years from debut to industry standard
@@ -98,9 +98,9 @@ Nine years and ninety-one missions later, the skepticism looks quaint. Electron 
 The "Ten Owl Of Ten" mission distilled all of it into a single flight: a custom fairing for a repeat customer, a precise orbit insertion for a satellite whose business depends on orbital precision, and a launch cadence — twelve flights in under six months — that no other small launcher has ever sustained. The owl on the mission patch was a joke. The numbers underneath it were not.
 
 <picture>
-<source srcset="/img/1532187863486-abf9dbad1b69-1200.avif" type="image/avif">
-<source srcset="/img/1532187863486-abf9dbad1b69-1200.webp" type="image/webp">
-<img src="/img/1532187863486-abf9dbad1b69-1200.webp" alt="Stars over a launch facility at night" width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1532187863486-abf9dbad1b69-1000.avif" type="image/avif">
+<source srcset="/img/1532187863486-abf9dbad1b69-700.webp" type="image/webp">
+<img src="/img/1532187863486-abf9dbad1b69-700.webp" alt="Stars over a launch facility at night" width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *Nine years after its 2017 debut, Electron remains the benchmark for dedicated small-satellite launch. Image: Unsplash.*
 ## The constellation taking shape

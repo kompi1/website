@@ -6,9 +6,9 @@ category: 'Technology'
 ---
 
 <picture>
-<source srcset="/img/1517976487492-5750f3195933-1200.avif" type="image/avif">
-<source srcset="/img/1517976487492-5750f3195933-1200.webp" type="image/webp">
-<img src="/img/1517976487492-5750f3195933-1200.webp" alt="Rocket launching into the night sky" width="1200" height="675" fetchpriority="high" decoding="async">
+<source srcset="/img/1517976487492-5750f3195933-1000.avif" type="image/avif">
+<source srcset="/img/1517976487492-5750f3195933-700.webp" type="image/webp">
+<img src="/img/1517976487492-5750f3195933-700.webp" alt="Rocket launching into the night sky" width="1000" height="563" fetchpriority="high" decoding="async">
 </picture>
 *An Electron-class rocket climbs away from the pad. Image: Unsplash.*
 
@@ -89,29 +89,29 @@ The company operates two pads at Mahia — LC-1A and LC-1B — plus a third, LC-
 The August cadence illustrates the payoff. The Grain Goddess Provides flew on the 6th; "The Lightning God Defends" — the next iQPS mission, already named and manifested — was slated for later the same month from the same peninsula. Two dedicated constellation launches, weeks apart, from a private range most people have never heard of. A decade ago, that tempo belonged exclusively to superpowers. Now it belongs to a company that started in a New Zealander's garage.
 
 <picture>
-<source srcset="/img/1516849841032-87cbac4d88f7-1200.avif" type="image/avif">
-<source srcset="/img/1516849841032-87cbac4d88f7-1200.webp" type="image/webp">
-<img src="/img/1516849841032-87cbac4d88f7-1200.webp" alt="Rocket engine ignition at liftoff" width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1516849841032-87cbac4d88f7-1000.avif" type="image/avif">
+<source srcset="/img/1516849841032-87cbac4d88f7-700.webp" type="image/webp">
+<img src="/img/1516849841032-87cbac4d88f7-700.webp" alt="Rocket engine ignition at liftoff" width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *Engines ignite as a rocket begins its climb to orbit. Image: Unsplash.*
 
 <picture>
-<source srcset="/img/1532693322450-2cb5c511067d-1200.avif" type="image/avif">
-<source srcset="/img/1532693322450-2cb5c511067d-1200.webp" type="image/webp">
-<img src="/img/1532693322450-2cb5c511067d-1200.webp" alt="Satellite in Earth orbit" width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1532693322450-2cb5c511067d-1000.avif" type="image/avif">
+<source srcset="/img/1532693322450-2cb5c511067d-700.webp" type="image/webp">
+<img src="/img/1532693322450-2cb5c511067d-700.webp" alt="Satellite in Earth orbit" width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *Radar satellites like QPS-SAR-13 image the Earth day and night, through cloud and darkness. Image: Unsplash.*
 
 <picture>
-<source srcset="/img/1614313913007-2b4ae8ce32d6-1200.avif" type="image/avif">
-<source srcset="/img/1614313913007-2b4ae8ce32d6-1200.webp" type="image/webp">
-<img src="/img/1614313913007-2b4ae8ce32d6-1200.webp" alt="Earth at night from space" width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1614313913007-2b4ae8ce32d6-1000.avif" type="image/avif">
+<source srcset="/img/1614313913007-2b4ae8ce32d6-700.webp" type="image/webp">
+<img src="/img/1614313913007-2b4ae8ce32d6-700.webp" alt="Earth at night from space" width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *Synthetic-aperture radar sees the planet even where optical cameras cannot. Image: Unsplash.*
 
 <picture>
-<source srcset="/img/1559757148-5c350d0d3c56-1200.avif" type="image/avif">
-<source srcset="/img/1559757148-5c350d0d3c56-1200.webp" type="image/webp">
-<img src="/img/1559757148-5c350d0d3c56-1200.webp" alt="Launch complex at dawn" width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1559757148-5c350d0d3c56-1000.avif" type="image/avif">
+<source srcset="/img/1559757148-5c350d0d3c56-700.webp" type="image/webp">
+<img src="/img/1559757148-5c350d0d3c56-700.webp" alt="Launch complex at dawn" width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *Small launchers have made dedicated orbits routine for constellation operators. Image: Unsplash.*
