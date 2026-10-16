@@ -21,7 +21,11 @@ That payload matters more than its terse designation suggests. The China Satelli
 
 But the second stage's success, while essential, was the less-watched half of the mission. All eyes were on what the first stage would do after separation. About six minutes later, it did what no Chinese booster had ever done: it came home.
 
-![A rocket climbs through clear skies above its launch pad](https://images.unsplash.com/photo-1517976487492-5750f3195933?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1517976487492-5750f3195933-1200.avif" type="image/avif">
+<source srcset="/img/1517976487492-5750f3195933-1200.webp" type="image/webp">
+<img src="/img/1517976487492-5750f3195933-1200.webp" alt="A rocket climbs through clear skies above its launch pad" width="1200" height="675" fetchpriority="high" decoding="async">
+</picture>
 *The Long March-10B Y1 lifts off from Wenchang on its maiden flight. Image: Unsplash.*
 
 ## Anatomy of a Catch
@@ -34,7 +38,11 @@ The booster, for its part, carries hooks on its exterior. It descended verticall
 
 The catch took place about 430 kilometers downrange from Wenchang. CNSA called the launch a "complete success," and Chinese state media framed the recovery as "the world's first successful sea-based net-based recovery of a carrier rocket" — a claim that, on the available evidence, holds up. No one else has recovered an orbital-class booster this way.
 
-![An illustration of Earth's curvature against the black of space](https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1446776811953-b23d57bd21aa-1200.avif" type="image/avif">
+<source srcset="/img/1446776811953-b23d57bd21aa-1200.webp" type="image/webp">
+<img src="/img/1446776811953-b23d57bd21aa-1200.webp" alt="An illustration of Earth's curvature against the black of space" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *The booster's target was a ship holding station 430 kilometers downrange in the South China Sea. Image: Unsplash.*
 
 ## Why a Net? The Engineering Logic
@@ -67,7 +75,11 @@ The 10A is the moon rocket. China has committed to landing its astronauts on the
 
 That is why the maiden flight carried a China SatNet payload to 800 kilometers: the Long March-10B is being built as the truck that will deploy Guowang, China's 13,000-satellite answer to Starlink, at a launch cadence and cost that expendable rockets cannot sustain. Reusability is not a prestige project for Beijing. It is infrastructure — for the constellation, for the space station's future logistics, and for the lunar program.
 
-![A launch vehicle ascending on a column of fire](https://images.unsplash.com/photo-1462331940025-496dfbfc7564?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1462331940025-496dfbfc7564-1200.avif" type="image/avif">
+<source srcset="/img/1462331940025-496dfbfc7564-1200.webp" type="image/webp">
+<img src="/img/1462331940025-496dfbfc7564-1200.webp" alt="A launch vehicle ascending on a column of fire" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *The Long March-10 family shares a 5-meter common core; the 10A variant is China's designated moon rocket. Image: Unsplash.*
 
 ## The Long Road to the Net
@@ -94,5 +106,9 @@ Longer term, the questions multiply. Can CALT scale production of the YF-100K an
 
 For now, though, the image endures: a smoking rocket stage hanging in a steel net above the South China Sea, 430 kilometers from where it launched, caught rather than crashed. On July 10, 2026, China stopped throwing its rockets away. The rest of the decade will show what it does with them.
 
-![Stars wheeling above a dark horizon](https://images.unsplash.com/photo-1447433589675-4aaa569f3e05?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1447433589675-4aaa569f3e05-1200.avif" type="image/avif">
+<source srcset="/img/1447433589675-4aaa569f3e05-1200.webp" type="image/webp">
+<img src="/img/1447433589675-4aaa569f3e05-1200.webp" alt="Stars wheeling above a dark horizon" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *China is now the second nation ever to recover an orbital-class booster. Image: Unsplash.*

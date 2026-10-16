@@ -25,7 +25,11 @@ The second act came from the Wenchang Commercial Space Launch Site on the southe
 
 The Long March 8A is the upgraded variant of the Long March 8, a newer rocket in China's fleet designed with constellation deployment in mind. Its appearance on the Qianfan manifest is significant in its own right: China is widening the stable of rockets feeding its megaconstellations, spreading launches across Taiyuan, the commercial pads at Wenchang, and other vehicles, rather than betting everything on a single launcher. Redundancy in launch is how you keep a 15,000-satellite plan credible.
 
-![Rocket launch at night from a coastal spaceport](https://images.unsplash.com/photo-1517976487492-5750f3195933?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1517976487492-5750f3195933-1200.avif" type="image/avif">
+<source srcset="/img/1517976487492-5750f3195933-1200.webp" type="image/webp">
+<img src="/img/1517976487492-5750f3195933-1200.webp" alt="Rocket launch at night from a coastal spaceport" width="1200" height="675" fetchpriority="high" decoding="async">
+</picture>
 *A rocket climbs skyward — Qianfan's July push used two different launch vehicles from two spaceports. Image: Unsplash.*
 
 ## Anatomy of a Qianfan satellite
@@ -64,7 +68,11 @@ Both are chasing Starlink, which had more than 10,400 active satellites by mid-2
 
 The competition has a legal dimension that rarely makes headlines but drives the schedule: international spectrum rules. The International Telecommunication Union requires constellations to hit deployment milestones or risk losing their orbital slots and frequency rights. Qianfan missed a self-imposed target of 324 satellites by July 2026. Guowang faces a steeper test — China would need roughly ten percent of its planned total, about 1,299 satellites, in orbit by September 2029 to hold its spectrum claims, and it is well behind that pace. Every launch weekend like this one is, in part, a down payment on those deadlines.
 
-![Low Earth orbit satellites visualized over the night side of Earth](https://images.unsplash.com/photo-1462331940025-496dfbfc7564?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1462331940025-496dfbfc7564-1200.avif" type="image/avif">
+<source srcset="/img/1462331940025-496dfbfc7564-1200.webp" type="image/webp">
+<img src="/img/1462331940025-496dfbfc7564-1200.webp" alt="Low Earth orbit satellites visualized over the night side of Earth" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *Megaconstellations in low Earth orbit — three networks are now racing to fill the sky. Image: Unsplash.*
 
 ## Money, markets, and momentum
@@ -85,7 +93,11 @@ Here is the part of the story that the launch photos don't show. China currently
 
 That is why the details of this July weekend matter more than the headline count. A second launch vehicle (the 8A) joining the Qianfan campaign. A commercial manufacturer (Genesat) delivering its fifth contract batch. A commercial spaceport (Wenchang) handling back-to-back constellation traffic. Twenty satellites on one rocket instead of eighteen. Each is a small step in building the industrial capacity the 2028 ramp will require.
 
-![Earth from space with orbital paths and city lights](https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1446776811953-b23d57bd21aa-1200.avif" type="image/avif">
+<source srcset="/img/1446776811953-b23d57bd21aa-1200.webp" type="image/webp">
+<img src="/img/1446776811953-b23d57bd21aa-1200.webp" alt="Earth from space with orbital paths and city lights" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *The view Qianfan's customers will never see — but the network it enables starts here. Image: Unsplash.*
 
 ## What comes next
@@ -98,5 +110,9 @@ And the competition will not be standing still. Starlink will be larger, Guowang
 
 For now, though, the scoreboard reads 238, and the weekend of July 4-5 showed that China's constellation machine can run two rockets in two days from two coasts. In the race for the sky, operational rhythm is everything — and Thousand Sails is finally finding its wind.
 
-![Rocket fairing and payload stack during ascent](https://images.unsplash.com/photo-1502134249126-9f3755a50d78?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1502134249126-9f3755a50d78-1200.avif" type="image/avif">
+<source srcset="/img/1502134249126-9f3755a50d78-1200.webp" type="image/webp">
+<img src="/img/1502134249126-9f3755a50d78-1200.webp" alt="Rocket fairing and payload stack during ascent" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *Twenty satellites rode one Long March 8A — the largest Qianfan group launched to date. Image: Unsplash.*

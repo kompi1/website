@@ -11,7 +11,11 @@ On the evening of Thursday, June 4, 2026, a Long March 6A rocket rose from the T
 
 The back-to-back missions were the 11th and 12th deployment groups of the first-generation Qianfan constellation, and they pushed the network's total launched satellite count to exactly 200 — a milestone that had been years in the making and that signals the project's recovery from a difficult 2025.
 
-![Long March rocket ascending through clouds over the launch pad](https://images.unsplash.com/photo-1517976487492-5750f3195933?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1517976487492-5750f3195933-1200.avif" type="image/avif">
+<source srcset="/img/1517976487492-5750f3195933-1200.webp" type="image/webp">
+<img src="/img/1517976487492-5750f3195933-1200.webp" alt="Long March rocket ascending through clouds over the launch pad" width="1200" height="675" fetchpriority="high" decoding="async">
+</picture>
 *A Long March rocket climbs skyward. The June 4–5 double header launched 36 Qianfan internet satellites from two spaceports in 48 hours. Image: Unsplash.*
 
 ## Thursday night in Taiyuan: the 11th group
@@ -22,7 +26,11 @@ The launch marked the 648th flight of the Long March carrier rocket series, acco
 
 The Long March 6A is a workhorse of China's constellation-building effort. A new-generation medium-lift rocket with a modular design, it has become the default carrier for the standard 18-satellite Qianfan batches, launching them from Taiyuan's inland pads into the polar sun-synchronous orbits where the first-generation network is being assembled. The 18-satellite batch size has become something of a Qianfan signature: a full fairing of flat-packed spacecraft, standardized for rapid deployment.
 
-![Satellite constellation concept over Earth at night](https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1446776811953-b23d57bd21aa-1200.avif" type="image/avif">
+<source srcset="/img/1446776811953-b23d57bd21aa-1200.webp" type="image/webp">
+<img src="/img/1446776811953-b23d57bd21aa-1200.webp" alt="Satellite constellation concept over Earth at night" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *An artist's impression of a satellite constellation over Earth. Qianfan passed 200 launched satellites with the June double header. Image: Unsplash.*
 
 ## Friday afternoon in Hainan: the 12th group
@@ -33,7 +41,11 @@ The spacecraft on this flight were produced by the Innovation Academy for Micros
 
 The mission was the third flight of the Long March 8 rocket in 2026, coming just 18 days after its previous mission on May 17 — a turnaround pace that reflects the rocket's growing role as a dedicated constellation-deployment vehicle. The Long March 8 is a new-generation medium-lift liquid-fueled rocket designed specifically with commercial satellite constellation missions in mind, and its manifest is increasingly dominated by Qianfan flights. Together with its larger sibling the Long March 8A — rated for 5 tonnes and 7 tonnes to sun-synchronous orbit respectively — the Long March 8 family gives China a modern, purpose-built fleet for filling out low-Earth-orbit networks.
 
-![Rocket launch pad at dawn with gantry tower](https://images.unsplash.com/photo-1516849841032-87cbac4d88f7?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1516849841032-87cbac4d88f7-1200.avif" type="image/avif">
+<source srcset="/img/1516849841032-87cbac4d88f7-1200.webp" type="image/webp">
+<img src="/img/1516849841032-87cbac4d88f7-1200.webp" alt="Rocket launch pad at dawn with gantry tower" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *A launch pad at first light. The Long March 8 Y9 mission on June 5 was the rocket's third flight of 2026. Image: Unsplash.*
 
 ## What Qianfan actually is
@@ -54,7 +66,11 @@ That history matters because megaconstellations live or die on reliability. A br
 
 The cadence is the story. Five Qianfan launches in roughly a month, two of them 19 hours apart, from pads at opposite ends of the country, demonstrates a launch infrastructure that can sustain parallel campaigns. Taiyuan handles the polar-orbit batches on the Long March 6A; Wenchang's commercial pads handle the Long March 8 family; and newer commercial vehicles like the Long March 12B are beginning to join the manifest. For a program that needs to average hundreds of satellites per year to hit its targets, that kind of throughput is not optional — it is the entire business plan.
 
-![Earth horizon from space with satellite silhouette](https://images.unsplash.com/photo-1459908676235-d5f02a50184b?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1459908676235-d5f02a50184b-1200.avif" type="image/avif">
+<source srcset="/img/1459908676235-d5f02a50184b-1200.webp" type="image/webp">
+<img src="/img/1459908676235-d5f02a50184b-1200.webp" alt="Earth horizon from space with satellite silhouette" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *Earth's horizon seen from orbit. Megaconstellations like Qianfan are racing to fill low Earth orbit with broadband capacity. Image: Unsplash.*
 
 ## The rockets behind the numbers
@@ -75,7 +91,11 @@ But Qianfan's backers are not trying to beat Starlink satellite-for-satellite in
 
 The economics are shifting, too. Qianfan satellites are reported to cost under 10 million yuan each — roughly $1.4 million — a figure that, if accurate, makes them among the cheapest broadband satellites ever built at scale. That cost discipline, combined with standardized buses and high launch cadence, is the formula every megaconstellation operator is chasing: cheap satellites, cheap launches, relentless tempo.
 
-![Night sky filled with stars above a mountain observatory](https://images.unsplash.com/photo-1462331940025-496dfbfc7564?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1462331940025-496dfbfc7564-1200.avif" type="image/avif">
+<source srcset="/img/1462331940025-496dfbfc7564-1200.webp" type="image/webp">
+<img src="/img/1462331940025-496dfbfc7564-1200.webp" alt="Night sky filled with stars above a mountain observatory" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *The night sky over an observatory. As constellations multiply, astronomers and operators alike are watching low Earth orbit fill up. Image: Unsplash.*
 
 ## What comes next
@@ -92,7 +112,11 @@ The June 4–5 double header was actually the tail end of an even busier stretch
 
 Three Qianfan launches in five days, from three different spaceports, on three different rocket types. That is the kind of operational breadth that turns a constellation program from a series of missions into a production line — and it is precisely the capability China needs if it intends to average more than 300 Qianfan satellites per year.
 
-![Rocket on launch pad with service towers at sunset](https://images.unsplash.com/photo-1465101162946-4377e57745c3?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1465101162946-4377e57745c3-1200.avif" type="image/avif">
+<source srcset="/img/1465101162946-4377e57745c3-1200.webp" type="image/webp">
+<img src="/img/1465101162946-4377e57745c3-1200.webp" alt="Rocket on launch pad with service towers at sunset" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *A rocket on its pad at sunset. China's June launch tempo spanned three spaceports and three rocket types in five days. Image: Unsplash.*
 
 ## Why polar orbit

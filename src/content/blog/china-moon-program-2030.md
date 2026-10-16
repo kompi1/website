@@ -13,7 +13,11 @@ To appreciate what is happening, it helps to step back. China's space program ha
 
 The 2030 announcement fits that pattern — but with the volume turned up. Unifying everything under one project is how you clear bureaucratic roadblocks, concentrate funding, and tell every contractor, institute, and launch site in the country that the Moon is now the main event. The deadline is the message.
 
-![The full Moon against a black sky. China has set a 2030 deadline for landing taikonauts on the lunar surface. Image: Unsplash.](https://images.unsplash.com/photo-1532693322450-2cb5c511067d?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1532693322450-2cb5c511067d-1200.avif" type="image/avif">
+<source srcset="/img/1532693322450-2cb5c511067d-1200.webp" type="image/webp">
+<img src="/img/1532693322450-2cb5c511067d-1200.webp" alt="The full Moon against a black sky. China has set a 2030 deadline for landing taikonauts on the lunar surface. Image: Unsplash." width="1200" height="675" fetchpriority="high" decoding="async">
+</picture>
 *China has unified its lunar programs under a single project with one goal: a crewed landing by 2030. Image: Unsplash.*
 
 ## Why Unification Matters
@@ -36,7 +40,11 @@ The lander is **Lanyue** — "Embracing the Moon" — and it is arguably the har
 
 The mission profile Chinese officials have described is elegantly simple: three taikonauts launch toward the Moon; two descend to the surface in Lanyue while the third remains in lunar orbit aboard Mengzhou. It mirrors, in broad strokes, the Apollo approach — and the American Artemis plan — because orbital mechanics leaves little room for creativity. What differs is the institutional memory behind it: China has never flown humans beyond low Earth orbit, so every element of this architecture is being proven from scratch.
 
-![A rocket climbs skyward on a pillar of flame. China's Long March 10 heavy rocket will carry the crew spacecraft and lander toward the Moon. Image: Unsplash.](https://images.unsplash.com/photo-1517976487492-5750f3195933?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1517976487492-5750f3195933-1200.avif" type="image/avif">
+<source srcset="/img/1517976487492-5750f3195933-1200.webp" type="image/webp">
+<img src="/img/1517976487492-5750f3195933-1200.webp" alt="A rocket climbs skyward on a pillar of flame. China's Long March 10 heavy rocket will carry the crew spacecraft and lander toward the Moon. Image: Unsplash." width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *China's Long March 10 heavy rocket is being developed specifically for crewed lunar missions. Image: Unsplash.*
 
 ## The Crew Question
@@ -55,7 +63,11 @@ The south pole is the prize precisely because of those shadows. In craters near 
 
 Following it, **Chang'e-8** is planned for before 2030 with a different job: testing in-situ resource utilization and construction technologies. In plain language, that means learning to make things out of Moon dirt — bricks, landing pads, radiation shielding — using the regolith underfoot rather than hauling every kilogram up from Earth. If Chang'e-7 is the surveyor, Chang'e-8 is the construction foreman, proving the techniques a permanent base will depend on.
 
-![A field of stars in the night sky. Robotic pathfinders like Chang'e-7 are scouting the lunar south pole ahead of the crewed landing. Image: Unsplash.](https://images.unsplash.com/photo-1520034475321-cbe63696469a?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1520034475321-cbe63696469a-1200.avif" type="image/avif">
+<source srcset="/img/1520034475321-cbe63696469a-1200.webp" type="image/webp">
+<img src="/img/1520034475321-cbe63696469a-1200.webp" alt="A field of stars in the night sky. Robotic pathfinders like Chang'e-7 are scouting the lunar south pole ahead of the crewed landing. Image: Unsplash." width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *Robotic missions are mapping the Moon's south pole and testing the technologies a permanent presence will need. Image: Unsplash.*
 
 ## A Track Record That Demands Respect
@@ -70,7 +82,11 @@ Every serious lunar plan now converges on the same geography, and the reasons ar
 
 That convergence is what makes the south pole the most interesting real estate in the solar system. NASA's Artemis program is targeting the same region for its planned 2028 landing and its own base ambitions. Two programs, built on different hardware and different philosophies, are now aimed at the same craters — one arriving, if schedules hold, in 2028, the other by 2030.
 
-![A starry night sky over dark mountains. The Moon's south pole pairs shadowed, ice-bearing craters with sunlit peaks — ideal terrain for a permanent base. Image: Unsplash.](https://images.unsplash.com/photo-1519681393784-d120267933ba?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1519681393784-d120267933ba-1200.avif" type="image/avif">
+<source srcset="/img/1519681393784-d120267933ba-1200.webp" type="image/webp">
+<img src="/img/1519681393784-d120267933ba-1200.webp" alt="A starry night sky over dark mountains. The Moon's south pole pairs shadowed, ice-bearing craters with sunlit peaks — ideal terrain for a permanent base. Image: Unsplash." width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *The lunar south pole's rugged terrain holds water ice in permanent shadow near peaks of near-continuous sunlight. Image: Unsplash.*
 
 ## Beyond 2030: The International Lunar Research Station
@@ -91,7 +107,11 @@ What is genuinely new is not the competition — the Moon has always inspired ri
 
 There is also a quieter dimension worth noting. For all the rivalry, the Moon is big enough — barely — for parallel efforts, and the history of space exploration suggests that competition accelerates everyone. The Apollo era's breakneck pace was a product of rivalry; the International Space Station's longevity was a product of partnership. The 2020s and 2030s may produce an uneasy blend of both: two programs racing to the same craters, each watching the other's progress, each forced by the other's existence to move faster than it otherwise would.
 
-![Earth seen from orbit. Two programs, one destination: the race to establish a lasting presence on the Moon is now fully underway. Image: Unsplash.](https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1446776811953-b23d57bd21aa-1200.avif" type="image/avif">
+<source srcset="/img/1446776811953-b23d57bd21aa-1200.webp" type="image/webp">
+<img src="/img/1446776811953-b23d57bd21aa-1200.webp" alt="Earth seen from orbit. Two programs, one destination: the race to establish a lasting presence on the Moon is now fully underway. Image: Unsplash." width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *Two programs are now aimed at the same lunar craters — a settlement race, not just a sprint. Image: Unsplash.*
 
 ## What to Watch
