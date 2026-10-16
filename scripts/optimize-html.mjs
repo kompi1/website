@@ -25,11 +25,16 @@ function* htmlFiles(dir) {
 
 let imagesTouched = 0;
 let pagesTouched = 0;
+let cssInlined = 0;
 
-// Preload the two main font files so text never waits on them. The hashed
-// filenames are discovered from the just-built output, so this stays correct
-// across builds.
+// Inline the (small) global stylesheet into every page to eliminate the
+// render-blocking CSS request. Astro emits one shared hashed CSS file.
 const astroDir = join(dist, '_astro');
+const cssFiles = readdirSync(astroDir).filter((f) => f.endsWith('.css'));
+const cssByHref = new Map();
+for (const f of cssFiles) {
+	cssByHref.set(`/_astro/${f}`, readFileSync(join(astroDir, f), 'utf8'));
+}
 const fontFiles = readdirSync(astroDir).filter(
 	(f) => f.startsWith('atkinson-hyperlegible-latin-') && f.endsWith('.woff2') && !f.includes('latin-ext')
 );
@@ -71,6 +76,23 @@ for (const file of htmlFiles(dist)) {
 		pagesTouched += 1;
 	}
 
+	// Inline render-blocking stylesheets (the shared global CSS is ~9KB).
+	html = readFileSync(file, 'utf8');
+	const inlined = html.replace(
+		/<link rel="stylesheet" href="(\/_astro\/[^"]+\.css)">/g,
+		(match, href) => {
+			const css = cssByHref.get(href);
+			if (!css) return match;
+			cssInlined += 1;
+			return `<style>${css}</style>`;
+		}
+	);
+	if (inlined !== html) {
+		writeFileSync(file, inlined);
+		html = inlined;
+		pagesTouched += 1;
+	}
+
 	// Inject font preloads right after <meta charset>, on every page.
 	// (Skip if already injected, so re-running the script is idempotent.)
 	if (fontPreloads && !html.includes('rel="preload" href="/_astro/atkinson-hyperlegible')) {
@@ -85,4 +107,4 @@ for (const file of htmlFiles(dist)) {
 	}
 }
 
-console.log(`[optimize-html] ${imagesTouched} <img> tags optimized across ${pagesTouched} pages.`);
+console.log(`[optimize-html] ${imagesTouched} <img> tags optimized, ${cssInlined} stylesheets inlined, across ${pagesTouched} pages.`);

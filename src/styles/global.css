@@ -169,6 +169,9 @@ p {
 	aspect-ratio: 16 / 9;
 	object-fit: cover;
 }
+.card picture {
+	display: block;
+}
 .card-body {
 	padding: 1.25em 1.4em 1.5em;
 }

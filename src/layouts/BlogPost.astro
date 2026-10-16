@@ -87,6 +87,9 @@ const jsonLd = {
 			}
 			/* Reserve space for article images before they load so the page
 			   never jumps (zero Cumulative Layout Shift). */
+			.prose picture {
+				display: block;
+			}
 			.prose img {
 				width: 100%;
 				height: auto;

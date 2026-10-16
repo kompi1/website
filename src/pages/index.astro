@@ -4,6 +4,7 @@ import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
 import FormattedDate from '../components/FormattedDate.astro';
 import Header from '../components/Header.astro';
+import ResponsiveImage from '../components/ResponsiveImage.astro';
 import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 
 const posts = (await getCollection('blog')).sort(
@@ -11,29 +12,26 @@ const posts = (await getCollection('blog')).sort(
 );
 const latest = posts.slice(0, 6);
 
-const img = (id: string, w = 800) =>
-	`https://images.unsplash.com/photo-${id}?q=80&w=${w}&auto=format&fit=crop`;
-
 const categories = [
 	{
 		name: 'Missions',
 		desc: 'Launches, landings & deep-space missions',
-		img: img('1517976487492-5750f3195933'),
+		img: '1517976487492-5750f3195933',
 	},
 	{
 		name: 'Technology',
 		desc: 'Rockets, satellites & instruments',
-		img: img('1446776811953-b23d57bd21aa'),
+		img: '1446776811953-b23d57bd21aa',
 	},
 	{
 		name: 'Astronomy',
 		desc: 'Stars, galaxies & cosmic phenomena',
-		img: img('1462331940025-496dfbfc7564'),
+		img: '1462331940025-496dfbfc7564',
 	},
 	{
 		name: 'Exploration',
 		desc: 'Humanity’s quest beyond Earth',
-		img: img('1419242902214-272b3f66ee7a'),
+		img: '1419242902214-272b3f66ee7a',
 	},
 ];
 
@@ -61,12 +59,12 @@ const topics = [
 ];
 
 const thumbs = [
-	img('1447433589675-4aaa569f3e05', 600),
-	img('1502134249126-9f3755a50d78', 600),
-	img('1459908676235-d5f02a50184b', 600),
-	img('1516849841032-87cbac4d88f7', 600),
-	img('1614313913007-2b4ae8ce32d6', 600),
-	img('1465101162946-4377e57745c3', 600),
+	'1447433589675-4aaa569f3e05',
+	'1502134249126-9f3755a50d78',
+	'1459908676235-d5f02a50184b',
+	'1516849841032-87cbac4d88f7',
+	'1614313913007-2b4ae8ce32d6',
+	'1465101162946-4377e57745c3',
 ];
 ---
 
@@ -299,7 +297,7 @@ const thumbs = [
 					{
 						categories.map((c) => (
 							<a class="cat-card" href="/blog">
-								<img src={c.img} alt={c.name} loading="lazy" />
+								<ResponsiveImage id={c.img} alt="" loading="lazy" />
 								<span class="cat-label">
 									<strong>{c.name}</strong>
 									<span>{c.desc}</span>
@@ -345,7 +343,7 @@ const thumbs = [
 						latest.map((post, i) => (
 							<article class="card article-card">
 								<a href={`/blog/${post.id}/`} aria-label={post.data.title}>
-									<img src={thumbs[i % thumbs.length]} alt="" loading="lazy" />
+									<ResponsiveImage id={thumbs[i % thumbs.length]} alt="" loading="lazy" />
 								</a>
 								<div class="card-body">
 									<div class="date">

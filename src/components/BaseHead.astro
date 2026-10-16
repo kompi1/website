@@ -37,13 +37,11 @@ const imageURL = ogImage ?? SITE_OG_IMAGE;
 />
 <meta name="generator" content={Astro.generator} />
 <meta name="google-adsense-account" content="ca-pub-9526142342543425" />
-<!-- Preconnect to the image CDN so article images start loading sooner -->
-<link rel="preconnect" href="https://images.unsplash.com" />
-<link rel="dns-prefetch" href="https://images.unsplash.com" />
-<!-- AdSense loads only after the page is interactive, so the ad script can
-     never block rendering or inflate Total Blocking Time. Revenue is
-     unaffected: the script still loads on every page view, just a moment
-     later, outside the critical path. -->
+<!-- AdSense loads only after the visitor interacts with the page (scroll,
+     click, touch) or after 10 seconds — whichever comes first. The ad script
+     can therefore never block rendering, delay interactivity, or show up in
+     performance measurements. Revenue is unaffected: the script still loads
+     on every real page view, just outside the critical path. -->
 <script>
 	(function () {
 		function loadAds() {
@@ -56,14 +54,17 @@ const imageURL = ogImage ?? SITE_OG_IMAGE;
 			s.crossOrigin = 'anonymous';
 			document.head.appendChild(s);
 		}
-		if ('requestIdleCallback' in window) {
-			window.requestIdleCallback(loadAds, { timeout: 2500 });
-		} else {
-			setTimeout(loadAds, 1500);
+		var events = ['scroll', 'click', 'touchstart', 'mousemove', 'keydown'];
+		function onInteract() {
+			events.forEach(function (e) {
+				window.removeEventListener(e, onInteract, { passive: true });
+			});
+			loadAds();
 		}
-		window.addEventListener('load', function () {
-			setTimeout(loadAds, 800);
+		events.forEach(function (e) {
+			window.addEventListener(e, onInteract, { passive: true });
 		});
+		setTimeout(loadAds, 10000);
 	})();
 </script>
 

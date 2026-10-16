@@ -4,21 +4,20 @@ import BaseHead from '../../components/BaseHead.astro';
 import Footer from '../../components/Footer.astro';
 import FormattedDate from '../../components/FormattedDate.astro';
 import Header from '../../components/Header.astro';
+import ResponsiveImage from '../../components/ResponsiveImage.astro';
 import { SITE_DESCRIPTION, SITE_TITLE } from '../../consts';
 
 const posts = (await getCollection('blog')).sort(
 	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
 );
 
-const img = (id: string, w = 600) =>
-	`https://images.unsplash.com/photo-${id}?q=80&w=${w}&auto=format&fit=crop`;
 const thumbs = [
-	img('1447433589675-4aaa569f3e05'),
-	img('1502134249126-9f3755a50d78'),
-	img('1459908676235-d5f02a50184b'),
-	img('1516849841032-87cbac4d88f7'),
-	img('1614313913007-2b4ae8ce32d6'),
-	img('1465101162946-4377e57745c3'),
+	'1447433589675-4aaa569f3e05',
+	'1502134249126-9f3755a50d78',
+	'1459908676235-d5f02a50184b',
+	'1516849841032-87cbac4d88f7',
+	'1614313913007-2b4ae8ce32d6',
+	'1465101162946-4377e57745c3',
 ];
 ---
 
@@ -100,7 +99,7 @@ const thumbs = [
 							<li>
 								<article class="card">
 									<a href={`/blog/${post.id}/`} aria-label={post.data.title}>
-										<img src={thumbs[i % thumbs.length]} alt="" loading="lazy" />
+										<ResponsiveImage id={thumbs[i % thumbs.length]} alt="" loading="lazy" />
 									</a>
 									<div class="card-body">
 										{post.data.category && <span class="badge">{post.data.category}</span>}
