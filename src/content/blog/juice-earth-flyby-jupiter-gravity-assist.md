@@ -50,9 +50,9 @@ That saved propellant is not a rounding error. Every kilogram of fuel conserved 
 The tracking campaign behind that precision was extensive. Teams began closely tracking Juice on August 17 and continued enhanced monitoring through October 10 — nearly two months of intense observation bracketing a flyby that lasted hours. Gravity assists look effortless in animations; in practice, they are among the most demanding operations in spaceflight, requiring the spacecraft to hit a corridor in space a few kilometers wide while moving at interplanetary speed.
 
 <picture>
-<source srcset="/img/1446776811953-b23d57bd21aa-1200.avif" type="image/avif">
-<source srcset="/img/1446776811953-b23d57bd21aa-1200.webp" type="image/webp">
-<img src="/img/1446776811953-b23d57bd21aa-1200.webp" alt="Earth seen from space, dominated by the African continent. Juice's JMC1 camera captured this view at 11:56 UTC on September 28, 2026, just after closest approach. Image: Unsplash." width="1200" height="675" fetchpriority="high" decoding="async">
+<source srcset="/img/1446776811953-b23d57bd21aa-1000.avif" type="image/avif">
+<source srcset="/img/1446776811953-b23d57bd21aa-700.webp" type="image/webp">
+<img src="/img/1446776811953-b23d57bd21aa-700.webp" alt="Earth seen from space, dominated by the African continent. Juice's JMC1 camera captured this view at 11:56 UTC on September 28, 2026, just after closest approach. Image: Unsplash." width="1000" height="563" fetchpriority="high" decoding="async">
 </picture>
 
 *Earth from Juice's perspective: Africa, Madagascar, and — look closely — the Moon as a tiny grey dot. Image: Unsplash.*
@@ -80,9 +80,9 @@ Europa is the highest-profile target, with its chaos terrains and plumes that ma
 None of that happens without the cruise. Every gravity assist is a down payment on the science, and September 28 was one of the largest. The 3.5 kilometers per second gained from Earth is energy the spacecraft will carry all the way to Jupiter, where it will be spent — carefully, over years — exploring the most promising abodes for life beyond Earth.
 
 <picture>
-<source srcset="/img/1532693322450-2cb5c511067d-1200.avif" type="image/avif">
-<source srcset="/img/1532693322450-2cb5c511067d-1200.webp" type="image/webp">
-<img src="/img/1532693322450-2cb5c511067d-1200.webp" alt="The full Moon against the black sky. Juice used the lunar limb to rehearse the optical navigation it will need around Jupiter's icy moons. Image: Unsplash." width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1532693322450-2cb5c511067d-1000.avif" type="image/avif">
+<source srcset="/img/1532693322450-2cb5c511067d-700.webp" type="image/webp">
+<img src="/img/1532693322450-2cb5c511067d-700.webp" alt="The full Moon against the black sky. Juice used the lunar limb to rehearse the optical navigation it will need around Jupiter's icy moons. Image: Unsplash." width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 
 *The Moon served as a calibration target, helping engineers perfect navigation by sight for the Jupiter tour. Image: Unsplash.*
@@ -104,9 +104,9 @@ When Juice arrives in July 2031, it will become the first spacecraft to orbit a 
 On September 28, Earth did what planets do best for the spacecraft that visit them: it gave Juice a push and sent it on its way. The spacecraft looked back once, took the picture, and kept going. Jupiter is waiting.
 
 <picture>
-<source srcset="/img/1447433589675-4aaa569f3e05-1200.avif" type="image/avif">
-<source srcset="/img/1447433589675-4aaa569f3e05-1200.webp" type="image/webp">
-<img src="/img/1447433589675-4aaa569f3e05-1200.webp" alt="The curved horizon of Earth seen from orbit. Juice passed 8,640 km above the Indian Ocean — less than 70 percent of Earth's diameter. Image: Unsplash." width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1447433589675-4aaa569f3e05-1000.avif" type="image/avif">
+<source srcset="/img/1447433589675-4aaa569f3e05-700.webp" type="image/webp">
+<img src="/img/1447433589675-4aaa569f3e05-700.webp" alt="The curved horizon of Earth seen from orbit. Juice passed 8,640 km above the Indian Ocean — less than 70 percent of Earth's diameter. Image: Unsplash." width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 
 *Skimming the edge: Juice's closest approach came at 11:45 UTC over the Indian Ocean. Image: Unsplash.*
@@ -120,9 +120,9 @@ But the deeper story, the one the engineers will remember, is the Moon-limb rehe
 Five years from now, when Juice makes its final Earth flyby and departs for Jupiter for good, the team will run through the same rituals: the weeks of tracking, the correction opportunities mostly unused, the held breath at closest approach. If September 2026 is any guide, they will nail it. The long road to the ocean worlds is, so far, going exactly to plan.
 
 <picture>
-<source srcset="/img/1462331940025-496dfbfc7564-1200.avif" type="image/avif">
-<source srcset="/img/1462331940025-496dfbfc7564-1200.webp" type="image/webp">
-<img src="/img/1462331940025-496dfbfc7564-1200.webp" alt="Deep space scattered with stars. Juice's journey continues toward a final Earth flyby in 2029 and Jupiter arrival in 2031. Image: Unsplash." width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1462331940025-496dfbfc7564-1000.avif" type="image/avif">
+<source srcset="/img/1462331940025-496dfbfc7564-700.webp" type="image/webp">
+<img src="/img/1462331940025-496dfbfc7564-700.webp" alt="Deep space scattered with stars. Juice's journey continues toward a final Earth flyby in 2029 and Jupiter arrival in 2031. Image: Unsplash." width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 
 *The road ahead: one more Earth flyby in January 2029, then the long transfer to Jupiter. Image: Unsplash.*
