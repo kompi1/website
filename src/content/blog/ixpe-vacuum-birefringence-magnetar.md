@@ -11,7 +11,11 @@ On August 5, 2026, an international team reported in the journal Nature what the
 
 It is a beautiful result. It is also, already, a contested one. And the contest is what makes this story worth telling carefully, because it reveals how modern astrophysics actually works: not as a series of eureka moments, but as an argument conducted with photons, statistics and geometry.
 
-![A dense starfield with the glow of distant stellar remnants](https://images.unsplash.com/photo-1459908676235-d5f02a50184b?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1459908676235-d5f02a50184b-1200.avif" type="image/avif">
+<source srcset="/img/1459908676235-d5f02a50184b-1200.webp" type="image/webp">
+<img src="/img/1459908676235-d5f02a50184b-1200.webp" alt="A dense starfield with the glow of distant stellar remnants" width="1200" height="675" fetchpriority="high" decoding="async">
+</picture>
 *Some 13,000 light-years away, a magnetar is putting a 90-year-old prediction to the test. Image: Unsplash.*
 
 ## The prediction
@@ -30,7 +34,11 @@ That last property turns out to be decisive. The whole argument about vacuum bir
 
 Between March and April 2025, IXPE devoted more than 140 hours of exposure — about 500 kiloseconds — to 1E 1547.0−5408. The campaign was coordinated with radio telescopes, described by NASA as the first coordinated radio-and-X-ray polarization measurement of a magnetar. NICER, the X-ray telescope mounted on the International Space Station, contributed supporting observations. It was, by any measure, a major investment of scarce observing time.
 
-![An X-ray observatory concept: precision instruments hunting polarized light from dead stars](https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1446776811953-b23d57bd21aa-1200.avif" type="image/avif">
+<source srcset="/img/1446776811953-b23d57bd21aa-1200.webp" type="image/webp">
+<img src="/img/1446776811953-b23d57bd21aa-1200.webp" alt="An X-ray observatory concept: precision instruments hunting polarized light from dead stars" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *NASA's IXPE spent more than 140 hours measuring X-ray polarization from the magnetar. Image: Unsplash.*
 
 ## Why polarization is the perfect witness
@@ -73,7 +81,11 @@ This is not a scandal; it is science working as designed. The hot spot on the st
 
 The honest summary, then: the August Nature paper presents genuinely strong evidence, strengthened by the coordinated radio data, but the inference is model-dependent, and a credible rival reading of the same data exists. NASA itself described the result as a possible first direct observation — "possible" doing important work in that sentence.
 
-![A giant radio dish scanning the sky, anchoring the geometry of a distant star](https://images.unsplash.com/photo-1447433589675-4aaa569f3e05?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1447433589675-4aaa569f3e05-1200.avif" type="image/avif">
+<source srcset="/img/1447433589675-4aaa569f3e05-1200.webp" type="image/webp">
+<img src="/img/1447433589675-4aaa569f3e05-1200.webp" alt="A giant radio dish scanning the sky, anchoring the geometry of a distant star" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *Radio polarization from Murriyang, CSIRO's Parkes telescope, independently constrained the magnetar's orientation. Image: Unsplash.*
 
 ## What confirmation would mean
@@ -94,7 +106,11 @@ The story is not over, and everyone involved knows it. Additional IXPE observati
 
 There is a particular poignancy in the timeline. Heisenberg and Euler wrote down their prediction in 1936, when quantum electrodynamics itself was barely born. For most of the intervening century, the effect was a theorist's curiosity, forever out of experimental reach. That a small NASA telescope, working with a radio dish in the Australian outback and supercomputers in Melbourne, might finally have caught it in the act — around a star that died before humans invented agriculture — is the kind of thing that makes the long grind of observational astronomy feel worthwhile.
 
-![The Milky Way's glowing band: a reminder of the extreme physics hiding in plain sight](https://images.unsplash.com/photo-1465101162946-4377e57745c3?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1465101162946-4377e57745c3-1200.avif" type="image/avif">
+<source srcset="/img/1465101162946-4377e57745c3-1200.webp" type="image/webp">
+<img src="/img/1465101162946-4377e57745c3-1200.webp" alt="The Milky Way's glowing band: a reminder of the extreme physics hiding in plain sight" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *The verdict is not final — but the hunt for vacuum birefringence has never had better evidence. Image: Unsplash.*
 
 Whether this particular measurement becomes the discovery or merely the strongest hint so far, it has already done something valuable: it has shown that the question is answerable. Empty space may or may not be a prism. For the first time in ninety years, we have a real chance of finding out.

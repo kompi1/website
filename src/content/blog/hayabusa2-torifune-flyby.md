@@ -9,7 +9,11 @@ On the evening of July 5, 2026, a spacecraft the size of a small car hurtled pas
 
 The Japan Aerospace Exploration Agency announced the successful flyby on July 6, calling it the first asteroid exploration of the Hayabusa2 Extended Mission — known to its team as Hayabusa2 Sharp, or Hayabusa2♯. It was a precision shot from 100 million kilometers away, executed by a spacecraft that completed its original mission nearly six years ago, and it is a preview of how veteran probes can keep delivering science long after their primary objectives are done.
 
-![Asteroid drifting through deep space](https://images.unsplash.com/photo-1447433589675-4aaa569f3e05?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1447433589675-4aaa569f3e05-1200.avif" type="image/avif">
+<source srcset="/img/1447433589675-4aaa569f3e05-1200.webp" type="image/webp">
+<img src="/img/1447433589675-4aaa569f3e05-1200.webp" alt="Asteroid drifting through deep space" width="1200" height="675" fetchpriority="high" decoding="async">
+</picture>
 *Asteroid Torifune as seen from space: two lobes fused into a contact binary, captured during Hayabusa2's July 5 flyby. Image: Unsplash.*
 
 ## The Daring Plan
@@ -38,7 +42,11 @@ Hayabusa2 did far more than take pictures. During the flyby, the spacecraft also
 
 These thermal measurements are science, not decoration. Surface temperature differences help researchers understand the asteroid's surface composition, the distribution of rock and dust, the thermal properties of the regolith, surface roughness, and how the asteroid responds to sunlight. A boulder and a patch of fine dust heat up and cool down at different rates; by watching Torifune's thermal behavior, scientists can infer what its surface is made of and how it is put together. Together with the optical images, these observations will help researchers characterize Torifune's physical properties in detail once the rest of the scientific data captured during the flyby is downloaded and analyzed — JAXA noted that the remaining data will reach Earth at a later date.
 
-![Thermal view of a rocky asteroid surface](https://images.unsplash.com/photo-1502134249126-9f3755a50d78?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1502134249126-9f3755a50d78-1200.avif" type="image/avif">
+<source srcset="/img/1502134249126-9f3755a50d78-1200.webp" type="image/webp">
+<img src="/img/1502134249126-9f3755a50d78-1200.webp" alt="Thermal view of a rocky asteroid surface" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *Heat vision: Hayabusa2's thermal infrared camera mapped temperature differences across Torifune's surface, cooler in shadow, warmer in sunlight. Image: Unsplash.*
 
 ## Meet Torifune
@@ -75,7 +83,11 @@ The German Aerospace Center, DLR, is scientifically involved in Hayabusa2♯ —
 
 And then there is Makoto Yoshikawa, the former mission manager who stood before the Asteroids, Comets and Meteors conference in Poznań on July 10 with two surprises to report: the contact binary nobody had quite imagined, and an image far larger than the team had expected. In planetary science, as in life, the best results are often the ones you didn't plan for.
 
-![Spacecraft approaching a distant asteroid](https://images.unsplash.com/photo-1459908676235-d5f02a50184b?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1459908676235-d5f02a50184b-1200.avif" type="image/avif">
+<source srcset="/img/1459908676235-d5f02a50184b-1200.webp" type="image/webp">
+<img src="/img/1459908676235-d5f02a50184b-1200.webp" alt="Spacecraft approaching a distant asteroid" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *Precision navigation: Hayabusa2 aimed for a pass within 800 meters of Torifune's center at 5 km/s. Image: Unsplash.*
 
 ## What Comes Next
@@ -96,5 +108,9 @@ There is also a strategic dimension. The population of near-Earth asteroids numb
 
 Twelve years after launch, six years after its sample capsule parachuted into the Australian outback, Hayabusa2 is still exploring. On July 5, 2026, it threaded a needle past a two-headed rock at 18,000 kilometers per hour and sent home the pictures to prove it. The scientists who said it was too dangerous got their data anyway. The engineers who proposed it got their vindication. And the rest of us got a snowman, floating in the dark, 100 million kilometers away — two rocks that found each other, and held on.
 
-![Distant asteroid against starfield](https://images.unsplash.com/photo-1516849841032-87cbac4d88f7?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1516849841032-87cbac4d88f7-1200.avif" type="image/avif">
+<source srcset="/img/1516849841032-87cbac4d88f7-1200.webp" type="image/webp">
+<img src="/img/1516849841032-87cbac4d88f7-1200.webp" alt="Distant asteroid against starfield" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *Torifune drifts 100 million kilometers from Earth — a 450-meter Apollo asteroid, now revealed as a contact binary. Image: Unsplash.*

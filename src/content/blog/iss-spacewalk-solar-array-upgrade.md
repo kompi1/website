@@ -5,7 +5,11 @@ pubDate: 2026-08-08T09:00:00
 category: 'Missions'
 ---
 
-![Two astronauts working outside the International Space Station during a spacewalk](https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1446776811953-b23d57bd21aa-1200.avif" type="image/avif">
+<source srcset="/img/1446776811953-b23d57bd21aa-1200.webp" type="image/webp">
+<img src="/img/1446776811953-b23d57bd21aa-1200.webp" alt="Two astronauts working outside the International Space Station during a spacewalk" width="1200" height="675" fetchpriority="high" decoding="async">
+</picture>
 *NASA astronauts at work outside the International Space Station. Image: Unsplash.*
 
 At 8:33 on the morning of August 6, 2026, two figures in bulky white spacesuits pushed out of the International Space Station's Quest airlock and into the vacuum. For NASA astronaut Anil Menon, it was the first time he had ever floated free in space with nothing but a tether between him and eternity. For his crewmate Jessica Meir, the station's commander, it was old territory — her sixth spacewalk. Together, over the next six hours and twenty-seven minutes, they would assemble what one space journalist aptly described as a giant erector set on the far starboard tip of the station's backbone truss: the seventh and final set of mounting brackets that will one day hold the International Space Station's last new solar wings.
@@ -78,14 +82,30 @@ Menon's path to the airlock hatch was an unusual one. A physician by training, h
 
 Meir, meanwhile, continues to build one of the most distinguished spacewalking careers in NASA's astronaut corps. Her first flight in 2019–2020 included the historic first all-female spacewalk with Christina Koch. Now, with six EVAs and more than 42 hours of vacuum time to her name, she is the veteran that rookies dream of being paired with — the calm, precise presence who can talk a first-timer through a balky bolt while the planet turns beneath them.
 
-![The International Space Station silhouetted against Earth](https://images.unsplash.com/photo-1447433589675-4aaa569f3e05?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1447433589675-4aaa569f3e05-1200.avif" type="image/avif">
+<source srcset="/img/1447433589675-4aaa569f3e05-1200.webp" type="image/webp">
+<img src="/img/1447433589675-4aaa569f3e05-1200.webp" alt="The International Space Station silhouetted against Earth" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *The International Space Station in orbit. Image: Unsplash.*
 
-![Astronaut's view of Earth from orbit](https://images.unsplash.com/photo-1459908676235-d5f02a50184b?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1459908676235-d5f02a50184b-1200.avif" type="image/avif">
+<source srcset="/img/1459908676235-d5f02a50184b-1200.webp" type="image/webp">
+<img src="/img/1459908676235-d5f02a50184b-1200.webp" alt="Astronaut's view of Earth from orbit" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *Earth as seen from orbit — the view spacewalkers work above. Image: Unsplash.*
 
-![Solar panels catching sunlight in space](https://images.unsplash.com/photo-1509391366360-2e959784a276?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1509391366360-2e959784a276-1200.avif" type="image/avif">
+<source srcset="/img/1509391366360-2e959784a276-1200.webp" type="image/webp">
+<img src="/img/1509391366360-2e959784a276-1200.webp" alt="Solar panels catching sunlight in space" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *Solar arrays are the station's lifeblood, converting sunlight into power for science and life support. Image: Unsplash.*
 
-![Starfield over Earth's horizon](https://images.unsplash.com/photo-1462331940025-496dfbfc7564?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1462331940025-496dfbfc7564-1200.avif" type="image/avif">
+<source srcset="/img/1462331940025-496dfbfc7564-1200.webp" type="image/webp">
+<img src="/img/1462331940025-496dfbfc7564-1200.webp" alt="Starfield over Earth's horizon" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *The view from the truss: Earth below, infinity above. Image: Unsplash.*
