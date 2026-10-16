@@ -11,7 +11,11 @@ It was the first time Starship, the largest and most powerful rocket ever built,
 
 The flight was not flawless. It rarely is with Starship, and that is by design. But Flight 14 crossed the threshold the entire program has been marching toward since the first test flight: orbit, payload deployment, and a controlled return. For NASA, which has bet its Artemis Moon landings on a modified Starship, it was the most encouraging data point yet.
 
-![A rocket climbs skyward on a pillar of flame. Starship lifted off from Starbase, Texas, on September 28, 2026. Image: Unsplash.](https://images.unsplash.com/photo-1517976487492-5750f3195933?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1517976487492-5750f3195933-1200.avif" type="image/avif">
+<source srcset="/img/1517976487492-5750f3195933-1200.webp" type="image/webp">
+<img src="/img/1517976487492-5750f3195933-1200.webp" alt="A rocket climbs skyward on a pillar of flame. Starship lifted off from Starbase, Texas, on September 28, 2026. Image: Unsplash." width="1200" height="675" fetchpriority="high" decoding="async">
+</picture>
 *Starship lifted off from Starbase, Texas, on the morning of September 28, 2026 — and reached orbit for the first time. Image: Unsplash.*
 
 ## The Morning Everything Worked — Almost
@@ -44,7 +48,11 @@ This time, the ending was rough. The Ship hit the water, tipped over, and caught
 
 The booster fared better. About seven minutes after liftoff, the Super Heavy stage executed a controlled soft splashdown in the Gulf of Mexico. SpaceX has been working toward catching boosters with the launch tower's mechanical arms — the famous "chopsticks" — and while this flight ended in the water rather than in the tower's grasp, a controlled ocean touchdown keeps the recovery learning curve moving in the right direction.
 
-![Earth seen from orbit. Starship deployed 26 Starlink V3 satellites at about 160 miles altitude. Image: Unsplash.](https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1446776811953-b23d57bd21aa-1200.avif" type="image/avif">
+<source srcset="/img/1446776811953-b23d57bd21aa-1200.webp" type="image/webp">
+<img src="/img/1446776811953-b23d57bd21aa-1200.webp" alt="Earth seen from orbit. Starship deployed 26 Starlink V3 satellites at about 160 miles altitude. Image: Unsplash." width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *Starship deployed 26 next-generation Starlink V3 satellites into orbit — the first operational payload the vehicle has ever delivered. Image: Unsplash.*
 
 ## Flying to Learn
@@ -65,7 +73,11 @@ The timeline is unforgiving. Artemis III, now recast as a crewed docking rehears
 
 But consider the trajectory. In roughly three years, Starship went from a fireball over the Gulf to an orbital satellite deployment. The remaining demonstrations — propellant transfer, long-duration orbital operations, precision landing — are hard, but they are the kind of hard that flight testing solves. SpaceX's manifest of upcoming flights will tell the story: each one a chance to close the gap between a rocket that can reach orbit and a spacecraft that can land humans on the Moon.
 
-![A field of stars. Starship still must demonstrate orbital refueling and rapid reuse before it can carry Artemis astronauts. Image: Unsplash.](https://images.unsplash.com/photo-1520034475321-cbe63696469a?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1520034475321-cbe63696469a-1200.avif" type="image/avif">
+<source srcset="/img/1520034475321-cbe63696469a-1200.webp" type="image/webp">
+<img src="/img/1520034475321-cbe63696469a-1200.webp" alt="A field of stars. Starship still must demonstrate orbital refueling and rapid reuse before it can carry Artemis astronauts. Image: Unsplash." width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *Reaching orbit was the threshold. Next come the demonstrations Artemis needs: propellant transfer, docking, and rapid reuse. Image: Unsplash.*
 
 ## A Constellation Needs a Heavy Lifter
@@ -98,5 +110,9 @@ And somewhere in the data from Flight 14 — in the telemetry of those two silen
 
 On September 28, for the first time, Starship did the fundamental thing. It went to orbit, did work there, and came home. Everything else is engineering.
 
-![A spiral galaxy. Starship's ambitions extend beyond Earth orbit — to the Moon, Mars, and beyond. Image: Unsplash.](https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1444703686981-a3abbc4d4fe3-1200.avif" type="image/avif">
+<source srcset="/img/1444703686981-a3abbc4d4fe3-1200.webp" type="image/webp">
+<img src="/img/1444703686981-a3abbc4d4fe3-1200.webp" alt="A spiral galaxy. Starship's ambitions extend beyond Earth orbit — to the Moon, Mars, and beyond. Image: Unsplash." width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *Starship is designed for deep space. The orbital milestone is the foundation for everything that follows. Image: Unsplash.*

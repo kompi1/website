@@ -27,7 +27,11 @@ Ten flights for a single orbital-class booster would have been unthinkable a dec
 
 The drone ship's name, drawn from the science-fiction novels of Iain M. Banks, has become a familiar sight in post-launch coverage. "Of Course I Still Love You" serves the West Coast recovery zone, catching boosters that cannot return to the launch site because the mission's performance demands leave insufficient propellant for a boost-back burn. Heavier payloads and demanding orbits — exactly the profile of a classified deployment to low Earth orbit — are the classic reason for a droneship landing.
 
-![A SpaceX Falcon 9 climbs skyward on a column of flame. USSF-385 lifted off from Vandenberg's SLC-4E at 7:00:54 a.m. PDT on September 26, 2026. Image: Unsplash.](https://images.unsplash.com/photo-1517976487492-5750f3195933?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1517976487492-5750f3195933-1200.avif" type="image/avif">
+<source srcset="/img/1517976487492-5750f3195933-1200.webp" type="image/webp">
+<img src="/img/1517976487492-5750f3195933-1200.webp" alt="A SpaceX Falcon 9 climbs skyward on a column of flame. USSF-385 lifted off from Vandenberg's SLC-4E at 7:00:54 a.m. PDT on September 26, 2026. Image: Unsplash." width="1200" height="675" fetchpriority="high" decoding="async">
+</picture>
 
 *The Falcon 9 carrying USSF-385 climbs through Vandenberg's coastal fog. Image: Unsplash.*
 
@@ -55,7 +59,11 @@ In plain terms: the Pentagon is building a layered orbital infrastructure — se
 
 The scale of the investment is striking. SpaceX leadership has told analysts that the company won more than $6 billion in U.S. government contracts in a single recent quarter, with Starshield a major driver alongside airline connectivity partnerships. The federal budget request for fiscal year 2027 includes $9.8 billion for satellite communications and $10.8 billion for space-based sensing and targeting — the exact mission areas Starshield is built to serve. Whatever else one thinks of the militarization of low Earth orbit, the money is flowing, and it is flowing fast.
 
-![Rocket exhaust plume glowing against the dawn sky. Like many national-security missions, SpaceX ended its USSF-385 webcast after the booster landing. Image: Unsplash.](https://images.unsplash.com/photo-1459908676235-d5f02a50184b?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1459908676235-d5f02a50184b-1200.avif" type="image/avif">
+<source srcset="/img/1459908676235-d5f02a50184b-1200.webp" type="image/webp">
+<img src="/img/1459908676235-d5f02a50184b-1200.webp" alt="Rocket exhaust plume glowing against the dawn sky. Like many national-security missions, SpaceX ended its USSF-385 webcast after the booster landing. Image: Unsplash." width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 
 *Dawn ascent: SpaceX routinely cuts its webcast on classified missions rather than showing payload deployment. Image: Unsplash.*
 
@@ -77,7 +85,11 @@ What is clear is the trajectory. Eighteen planned launches under the SBST task o
 
 USSF-385 disappeared into the fog over Vandenberg on a Saturday morning. Somewhere above the Pacific, an upper stage was quietly dispensing its two dozen passengers into orbit. By Monday, they were cataloged objects with numbers instead of names. And somewhere in Colorado, at Space Force headquarters, another box on a very long checklist got checked off. The next one, if the pattern holds, is only weeks away.
 
-![Earth seen from orbit. Analysts believe USSF-385 deployed roughly 23 Starshield-based sensing satellites into low Earth orbit. Image: Unsplash.](https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1446776811953-b23d57bd21aa-1200.avif" type="image/avif">
+<source srcset="/img/1446776811953-b23d57bd21aa-1200.webp" type="image/webp">
+<img src="/img/1446776811953-b23d57bd21aa-1200.webp" alt="Earth seen from orbit. Analysts believe USSF-385 deployed roughly 23 Starshield-based sensing satellites into low Earth orbit. Image: Unsplash." width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 
 *The view from the orbital regime USSF-385 was targeting: low Earth orbit, home to the Pentagon's growing sensing constellations. Image: Unsplash.*
 
@@ -91,6 +103,10 @@ For SpaceX, the mission was also a proof point for its dual identity: simultaneo
 
 As September closed at Vandenberg, the pad crews could look back on six launches in thirty days — a pace the base's founders could never have imagined. The fog lifted by midday on the 26th, revealing the empty pad at SLC-4E and the Pacific glittering beyond it. The rocket was gone, the satellites were circling, and the silence from the Space Force was, as always, total. In military spaceflight, no news is the news. The constellation grows, one foggy morning at a time.
 
-![A star-filled night sky. Three classified Space Force launches in 16 days demonstrated an operational tempo unmatched in military spaceflight history. Image: Unsplash.](https://images.unsplash.com/photo-1502134249126-9f3755a50d78?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1502134249126-9f3755a50d78-1200.avif" type="image/avif">
+<source srcset="/img/1502134249126-9f3755a50d78-1200.webp" type="image/webp">
+<img src="/img/1502134249126-9f3755a50d78-1200.webp" alt="A star-filled night sky. Three classified Space Force launches in 16 days demonstrated an operational tempo unmatched in military spaceflight history. Image: Unsplash." width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 
 *The September campaign — USSF-153, USSF-259, and USSF-385 — showcased a launch tempo measured in weeks, not years. Image: Unsplash.*
