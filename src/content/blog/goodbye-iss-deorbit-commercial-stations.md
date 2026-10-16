@@ -23,7 +23,11 @@ For an industry that has spent years building hardware on the promise that NASA 
 
 The December deadline also sets up one of the more consequential bid competitions in aerospace history. Unlike a typical procurement, the prize here isn't just a contract — it's a position in the post-ISS economy. Winners get NASA's money and, just as importantly, NASA's imprimatur, which unlocks private capital, international partnerships, and commercial customers. Losers may find their stations unfundable. Expect the proposals to be ambitious, the lobbying intense, and the April awards genuinely dramatic.
 
-![A rocket climbs skyward on a column of flame. NASA's October 2026 solicitation officially opened the competition to replace the ISS. Image: Unsplash.](https://images.unsplash.com/photo-1517976487492-5750f3195933?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1517976487492-5750f3195933-1200.avif" type="image/avif">
+<source srcset="/img/1517976487492-5750f3195933-1200.webp" type="image/webp">
+<img src="/img/1517976487492-5750f3195933-1200.webp" alt="A rocket climbs skyward on a column of flame. NASA's October 2026 solicitation officially opened the competition to replace the ISS. Image: Unsplash." width="1200" height="675" fetchpriority="high" decoding="async">
+</picture>
 *NASA's October 2026 solicitation officially opened the competition to replace the International Space Station. Image: Unsplash.*
 
 ## The Choreography of the Fall
@@ -38,7 +42,11 @@ Most of the station will vaporize in the fireball of reentry, torn apart by heat
 
 It's worth pausing on the strangeness of this. The ISS is the most expensive single object ever built — over $150 billion across its lifetime, assembled across 42 flights by five space agencies and fifteen nations. Its end is being planned with the same care as a building implosion, except the building is the size of a football field and the demolition crew has to work in a vacuum.
 
-![Earth seen from orbit. The ISS will end its life in a controlled reentry over Point Nemo in the South Pacific. Image: Unsplash.](https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1446776811953-b23d57bd21aa-1200.avif" type="image/avif">
+<source srcset="/img/1446776811953-b23d57bd21aa-1200.webp" type="image/webp">
+<img src="/img/1446776811953-b23d57bd21aa-1200.webp" alt="Earth seen from orbit. The ISS will end its life in a controlled reentry over Point Nemo in the South Pacific. Image: Unsplash." width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *The ISS will end its life in a controlled reentry over Point Nemo, the remotest patch of ocean on Earth. Image: Unsplash.*
 
 ## Meet the Contenders
@@ -55,7 +63,11 @@ Four serious bids are expected on NASA's desk by December, each with a different
 
 Each proposal is, in effect, a wager on a different theory of the future: Vast bets on speed, Axiom on continuity, Starlab on scale, Orbital Reef on diversification. NASA's April awards will reveal which theories the agency finds credible — and which companies get the anchor funding to keep going.
 
-![Solar panels glinting in sunlight. Aging power systems are one reason the ISS cannot fly forever. Image: Unsplash.](https://images.unsplash.com/photo-1509391366360-2e959784a276?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1509391366360-2e959784a276-1200.avif" type="image/avif">
+<source srcset="/img/1509391366360-2e959784a276-1200.webp" type="image/webp">
+<img src="/img/1509391366360-2e959784a276-1200.webp" alt="Solar panels glinting in sunlight. Aging power systems are one reason the ISS cannot fly forever. Image: Unsplash." width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *The station's aging systems are one reason NASA says the ISS cannot fly forever. Image: Unsplash.*
 
 ## The Gap Everyone Is Afraid to Name
@@ -72,7 +84,11 @@ China's Tiangong space station is already up there, orbiting at roughly 402 kilo
 
 None of this is lost on NASA leadership. The October RFP's structure — minimum guarantees, committed crew missions, awards in spring 2027 — is designed to compress the timeline as much as contracting law allows. But rockets, habitats, and life-support systems don't care about procurement schedules. As one astronaut recently put it about a different program's timeline, anything can happen.
 
-![A glowing nebula in deep space. The question isn't whether humanity stays in orbit — it's who builds the next home there. Image: Unsplash.](https://images.unsplash.com/photo-1462331940025-496dfbfc7564?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1462331940025-496dfbfc7564-1200.avif" type="image/avif">
+<source srcset="/img/1462331940025-496dfbfc7564-1200.webp" type="image/webp">
+<img src="/img/1462331940025-496dfbfc7564-1200.webp" alt="A glowing nebula in deep space. The question isn't whether humanity stays in orbit — it's who builds the next home there. Image: Unsplash." width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *The question isn't whether humanity stays in orbit — it's who builds the next home there. Image: Unsplash.*
 
 ## What Low Earth Orbit Looks Like After
@@ -93,5 +109,9 @@ When the Deorbit Vehicle fires its final burns sometime in 2030 or 2031, and the
 
 What comes next — Vast's testbed, Axiom's inheritor, Starlab's single-launch gamble, Orbital Reef's orbital business park, or something not yet proposed — will determine whether that ending is a handoff or an interruption. NASA has now officially asked industry to build the future. The proposals are due December 8. The awards come in April. And somewhere above us, the old station keeps circling, its orbit decaying a little more each day, waiting to find out what replaces it.
 
-![Stars scattered across the night sky. The ISS has hosted continuous human presence since 2000 — the race is on to keep that chain unbroken. Image: Unsplash.](https://images.unsplash.com/photo-1465101162946-4377e57745c3?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1465101162946-4377e57745c3-1200.avif" type="image/avif">
+<source srcset="/img/1465101162946-4377e57745c3-1200.webp" type="image/webp">
+<img src="/img/1465101162946-4377e57745c3-1200.webp" alt="Stars scattered across the night sky. The ISS has hosted continuous human presence since 2000 — the race is on to keep that chain unbroken. Image: Unsplash." width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *The ISS has hosted continuous human presence since 2000. The race is on to keep that chain unbroken. Image: Unsplash.*

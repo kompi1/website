@@ -11,7 +11,11 @@ Tango, formally designated Cluster II FM-8, had been steered to that exact patch
 
 The reentry campaign that made this possible is called ROSIE — the Re-entry Observation and Scientific Investigation Experiment — and it turned the deaths of two satellites into a dataset that engineers will mine for years. According to ESA's Space Safety account of the campaign, published on 2 September, 29 of the 30 instruments aboard the observation aircraft captured both the Samba and Tango reentries. For a community that studies how spacecraft disintegrate — and how to make future ones disintegrate more cleanly — that number is the headline.
 
-![A satellite reentering Earth's atmosphere in a trail of fire](https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1446776811953-b23d57bd21aa-1200.avif" type="image/avif">
+<source srcset="/img/1446776811953-b23d57bd21aa-1200.webp" type="image/webp">
+<img src="/img/1446776811953-b23d57bd21aa-1200.webp" alt="A satellite reentering Earth's atmosphere in a trail of fire" width="1200" height="675" fetchpriority="high" decoding="async">
+</picture>
 *A satellite's fiery reentry over the ocean — the fate ESA choreographed for each of its four Cluster spacecraft. Image: Unsplash.*
 
 ## The night the sky caught fire
@@ -46,7 +50,11 @@ The orbital choreography behind these farewells began years earlier. Operators a
 
 Tim Flohrer, head of ESA's Space Debris Office, has long argued that these fiery finales are really about beginnings. Studying how a satellite burns up — which parts survive, for how long, and in what state — teaches engineers how to build spacecraft that leave nothing behind. The lessons, he has said, will help turn targeted reentry into a safe, well-understood disposal option for future missions in similar orbits.
 
-![Earth's magnetosphere shields the planet from the solar wind](https://images.unsplash.com/photo-1459908676235-d5f02a50184b?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1459908676235-d5f02a50184b-1200.avif" type="image/avif">
+<source srcset="/img/1459908676235-d5f02a50184b-1200.webp" type="image/webp">
+<img src="/img/1459908676235-d5f02a50184b-1200.webp" alt="Earth's magnetosphere shields the planet from the solar wind" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *Earth from orbit. For 26 years, Cluster's four satellites mapped the invisible magnetic bubble that protects the planet. Image: Unsplash.*
 
 ## Chasing fire from an airplane
@@ -69,7 +77,11 @@ The next steps are already in motion. ESA's DRACO mission will take reentry scie
 
 There is a pleasing symmetry in it. Cluster spent 26 years teaching humanity how the invisible shield above our heads works. In its final act, it taught us something equally valuable: how to leave orbit gracefully. On the night of 1 September 2026, as Tango's fire faded over the Pacific and the observation plane turned for home, the mission's last gift was already secure in twenty-nine recorders — a dataset on destruction, gathered so that the satellites of the future can be built to disappear.
 
-![The Milky Way over a dark sky, a reminder of the space environment Cluster studied](https://images.unsplash.com/photo-1462331940025-496dfbfc7564?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1462331940025-496dfbfc7564-1200.avif" type="image/avif">
+<source srcset="/img/1462331940025-496dfbfc7564-1200.webp" type="image/webp">
+<img src="/img/1462331940025-496dfbfc7564-1200.webp" alt="The Milky Way over a dark sky, a reminder of the space environment Cluster studied" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *The space environment Cluster explored for 26 years. Its successor, the Smile mission, will continue the study of Earth's magnetic shield. Image: Unsplash.*
 
 ## A controlled end, and a beginning
@@ -78,5 +90,9 @@ Tango's reentry closed the longest-running magnetospheric mission ever flown, bu
 
 It is also worth remembering what made this finale possible at all: propellant. Every targeted reentry in the Cluster campaign was bought with fuel deliberately reserved years in advance, at the cost of a slightly shorter operational life. That trade — a few months of science in exchange for a safe, observable, instructive death — is the quiet engineering lesson of the whole endeavour. Future missions designed under ESA's Zero Debris approach will make the same bargain from the drawing board, budgeting disposal into their very first mass estimates rather than improvising it at the end.
 
-![Stars above Earth's horizon at night](https://images.unsplash.com/photo-1502134249126-9f3755a50d78?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1502134249126-9f3755a50d78-1200.avif" type="image/avif">
+<source srcset="/img/1502134249126-9f3755a50d78-1200.webp" type="image/webp">
+<img src="/img/1502134249126-9f3755a50d78-1200.webp" alt="Stars above Earth's horizon at night" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *For 26 years Cluster watched the boundary between Earth and space. Its fiery, carefully observed finale sets the standard for responsible satellite disposal. Image: Unsplash.*

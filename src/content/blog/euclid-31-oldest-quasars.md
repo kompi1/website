@@ -9,7 +9,11 @@ Somewhere overhead, in the dark between the stars, photons are falling onto Eucl
 
 The discovery, published on July 6 in the journal *Astronomy & Astrophysics* under the title "Euclid: Discovery of 31 new quasars at 6.6<z<7.8," includes the two most distant quasars ever observed. Their light began its journey when the cosmos was just 670 million years old. They beat the team's previous record for the earliest known quasar, announced in 2021, by about 20 million years. And, perhaps more importantly than the records, the 31 new objects are mostly ordinary quasars — not the freakishly bright outliers that earlier searches could find, but a first true sample of the population at cosmic dawn.
 
-![Artist's rendering of a distant quasar](https://images.unsplash.com/photo-1462331940025-496dfbfc7564?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1462331940025-496dfbfc7564-1200.avif" type="image/avif">
+<source srcset="/img/1462331940025-496dfbfc7564-1200.webp" type="image/webp">
+<img src="/img/1462331940025-496dfbfc7564-1200.webp" alt="Artist's rendering of a distant quasar" width="1200" height="675" fetchpriority="high" decoding="async">
+</picture>
 *An artist's impression of a quasar: at the center, a brilliant disk of incandescent matter spirals into a supermassive black hole. Image: Unsplash.*
 
 "The Euclid team has taken a true 'census' of quasars at the dawn of the universe for the first time," said Antonio La Marca, a Ph.D. candidate at the Netherlands Institute for Space Research and a research fellow on the Euclid team, in an ESA statement. "It's a big step toward understanding these fascinating objects on a more fundamental level."
@@ -68,7 +72,11 @@ And the follow-up has barely started. Spectroscopic confirmation with ground-bas
 
 For Antonio La Marca, Daming Yang, and their colleagues, the work of the census is just beginning. They have taken the first true headcount of quasars at the dawn of the universe. Now comes the harder part: understanding what the numbers mean. But for the rest of us, the image is worth savoring — a space telescope catching photons that left their quasars when the universe was five percent of its current age, and delivering them, thirteen billion years later, to scientists who have finally learned how to count the lights of dawn.
 
-![Distant galaxies in deep space](https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1446776811953-b23d57bd21aa-1200.avif" type="image/avif">
+<source srcset="/img/1446776811953-b23d57bd21aa-1200.webp" type="image/webp">
+<img src="/img/1446776811953-b23d57bd21aa-1200.webp" alt="Distant galaxies in deep space" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *Deep-field galaxies: each smudge of light is a galaxy, some shining across billions of years. Image: Unsplash.*
 
 ## The View From the Ground
@@ -87,10 +95,18 @@ Quasars are among the most powerful sources of ionising radiation in the early u
 
 There is a poetic symmetry in it. The light from these quasars traveled for thirteen billion years through a universe that their own kind helped make transparent — and it arrived at a telescope built to study the dark energy that now drives that universe apart. Euclid's wide survey, designed to map billions of galaxies for cosmology, has turned out to be a time machine for the cosmic dawn.
 
-![Star-forming region in deep space](https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1532187863486-abf9dbad1b69-1200.avif" type="image/avif">
+<source srcset="/img/1532187863486-abf9dbad1b69-1200.webp" type="image/webp">
+<img src="/img/1532187863486-abf9dbad1b69-1200.webp" alt="Star-forming region in deep space" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *The cosmic dawn: the first stars and quasars transformed the young universe from opaque fog into the transparent cosmos we see today. Image: Unsplash.*
 
 Thirteen billion years ago, in a universe five percent of its current age, thirty-one black holes were blazing. We have only just learned to see them. The census has begun.
 
-![Telescope observing the night sky](https://images.unsplash.com/photo-1517976487492-5750f3195933?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1517976487492-5750f3195933-1200.avif" type="image/avif">
+<source srcset="/img/1517976487492-5750f3195933-1200.webp" type="image/webp">
+<img src="/img/1517976487492-5750f3195933-1200.webp" alt="Telescope observing the night sky" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *Space telescopes like Euclid open windows on the universe's earliest epochs. Image: Unsplash.*
