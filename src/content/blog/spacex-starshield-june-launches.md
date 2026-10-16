@@ -9,7 +9,11 @@ SpaceX does not usually talk about Starshield. The government variant of its Sta
 
 Which is why Saturday night, June 6, 2026, was so unusual. When a Falcon 9 lifted off from Space Launch Complex 4 East at Vandenberg Space Force Base at 9:24:45 p.m. PDT, SpaceX's own launch manifest openly listed what was aboard: 21 standard Starlink internet satellites — and two Starshield satellites, named as such, flying as co-passengers on the Starlink 17-43 mission. For a program that has treated public acknowledgment as anathema, the disclosure was a small earthquake.
 
-![Falcon 9 rocket launching at night from Vandenberg](https://images.unsplash.com/photo-1517976487492-5750f3195933?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1517976487492-5750f3195933-1200.avif" type="image/avif">
+<source srcset="/img/1517976487492-5750f3195933-1200.webp" type="image/webp">
+<img src="/img/1517976487492-5750f3195933-1200.webp" alt="Falcon 9 rocket launching at night from Vandenberg" width="1200" height="675" fetchpriority="high" decoding="async">
+</picture>
 *A Falcon 9 lifts off at night. The June 6 launch from Vandenberg carried two openly acknowledged Starshield military satellites. Image: Unsplash.*
 
 ## The Saturday night mission
@@ -28,7 +32,11 @@ SpaceX unveiled the Starshield business line in late 2022, positioning it as a w
 
 Since then, the program has grown largely in the dark. Launches are typically unacknowledged or folded silently into broader Starlink manifests, with satellite trackers left to deduce the presence of government payloads from orbital data and catalog entries. SpaceX has never announced which U.S. government agency ordered any particular Starshield batch — or whether some are destined for foreign governments under U.S. export approvals. The June 6 pair was logged with the customer listed simply as an unknown U.S. government agency, and neither SpaceX nor any agency has said more.
 
-![Satellite in Earth orbit with solar panels deployed](https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1446776811953-b23d57bd21aa-1200.avif" type="image/avif">
+<source srcset="/img/1446776811953-b23d57bd21aa-1200.webp" type="image/webp">
+<img src="/img/1446776811953-b23d57bd21aa-1200.webp" alt="Satellite in Earth orbit with solar panels deployed" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *An illustration of a satellite in low Earth orbit. Starshield adapts the Starlink bus for encrypted government missions. Image: Unsplash.*
 
 ## A pattern of quiet co-manifests
@@ -49,7 +57,11 @@ The mission flew on booster B1103, a relatively young vehicle making only its th
 
 The NRO confirmed deployment of its satellites later that morning. Beyond that, the agency said almost nothing — which, for the NRO, is standard operating procedure.
 
-![Military satellite concept above Earth at dawn](https://images.unsplash.com/photo-1459908676235-d5f02a50184b?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1459908676235-d5f02a50184b-1200.avif" type="image/avif">
+<source srcset="/img/1459908676235-d5f02a50184b-1200.webp" type="image/webp">
+<img src="/img/1459908676235-d5f02a50184b-1200.webp" alt="Military satellite concept above Earth at dawn" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *A satellite above Earth's limb. The NRO's proliferated architecture envisions hundreds of small intelligence satellites. Image: Unsplash.*
 
 ## The proliferated architecture
@@ -68,7 +80,11 @@ The two June launches also illustrate how completely SpaceX has embedded itself 
 
 That cadence is the point. The proliferated architecture only works if launches are routine and affordable — if replacing or augmenting the constellation is a matter of scheduling, not a national crisis. By landing and refllying boosters like B1097 ten times over, SpaceX has made the launch segment of the architecture the least exotic part of the whole enterprise. The June 6 mission's booster had already flown a national security mission, a commercial rideshare, and seven Starlink batches; after dropping off two spy satellites, it landed on a drone ship to fly again.
 
-![Rocket booster landing on drone ship at sea](https://images.unsplash.com/photo-1516849841032-87cbac4d88f7?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1516849841032-87cbac4d88f7-1200.avif" type="image/avif">
+<source srcset="/img/1516849841032-87cbac4d88f7-1200.webp" type="image/webp">
+<img src="/img/1516849841032-87cbac4d88f7-1200.webp" alt="Rocket booster landing on drone ship at sea" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *A drone ship at sea. Reusable boosters have made frequent national-security launches routine for SpaceX. Image: Unsplash.*
 
 ## Transparency, on someone's terms
@@ -89,7 +105,11 @@ The economics that followed transformed the market. Where a legacy national secu
 
 Under the National Security Space Launch Phase 2 procurement framework, SpaceX and its rival split the Pentagon's highest-priority launches — but the proliferated LEO constellation missions, bought through more flexible contracting channels, have become SpaceX's particular stronghold. Fourteen launches and counting for the NRO's low-Earth-orbit network, three of them in the first half of 2026 alone, tell the story of a customer that has found its preferred supplier.
 
-![Military communications concept with satellite dishes at dusk](https://images.unsplash.com/photo-1447433589675-4aaa569f3e05?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1447433589675-4aaa569f3e05-1200.avif" type="image/avif">
+<source srcset="/img/1447433589675-4aaa569f3e05-1200.webp" type="image/webp">
+<img src="/img/1447433589675-4aaa569f3e05-1200.webp" alt="Military communications concept with satellite dishes at dusk" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *Satellite communications infrastructure at dusk. SpaceX has become the NRO's preferred launcher for its proliferated constellation. Image: Unsplash.*
 
 ## The boosters' second careers
