@@ -13,7 +13,11 @@ The numbers from its first year of operations are difficult to absorb. In just o
 
 In its first year, Rubin is expected to collect more data than all other ground-based optical telescopes combined. This is the story of the machine doing it, and of what happens to a science when the sky starts talking all at once.
 
-![A dense field of stars. In February 2026, Rubin issued some 800,000 real-time alerts in a single night. Image: Unsplash.](https://images.unsplash.com/photo-1465101162946-4377e57745c3?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1465101162946-4377e57745c3-1200.avif" type="image/avif">
+<source srcset="/img/1465101162946-4377e57745c3-1200.webp" type="image/webp">
+<img src="/img/1465101162946-4377e57745c3-1200.webp" alt="A dense field of stars. In February 2026, Rubin issued some 800,000 real-time alerts in a single night. Image: Unsplash." width="1200" height="675" fetchpriority="high" decoding="async">
+</picture>
 *Rubin doesn't just take pictures of the sky — it watches for anything that changes, and tells the world within minutes. Image: Unsplash.*
 
 ## The Machine on the Mountain
@@ -28,7 +32,11 @@ First-look images arrived in June 2025, and they were a statement of intent. The
 
 That is the conceptual leap. Traditional telescopes are pointed at interesting things by astronomers with hypotheses. Rubin has no hypotheses. It watches everything, and lets the universe volunteer its own surprises.
 
-![A starry night sky over dark mountains. The Vera C. Rubin Observatory sits at 2,682 meters on Cerro Pachón in the Chilean Andes. Image: Unsplash.](https://images.unsplash.com/photo-1519681393784-d120267933ba?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1519681393784-d120267933ba-1200.avif" type="image/avif">
+<source srcset="/img/1519681393784-d120267933ba-1200.webp" type="image/webp">
+<img src="/img/1519681393784-d120267933ba-1200.webp" alt="A starry night sky over dark mountains. The Vera C. Rubin Observatory sits at 2,682 meters on Cerro Pachón in the Chilean Andes. Image: Unsplash." width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *Rubin's mountaintop perch offers some of the darkest, driest skies on Earth — ideal for a decade-long survey. Image: Unsplash.*
 
 ## The Asteroid Haul
@@ -43,7 +51,11 @@ The planetary-defense implications are profound. The long-standing goal of catal
 
 But the asteroid haul is also pure science. Each new asteroid is a time capsule from the solar system's formation, and a catalog numbering in the millions will let astronomers study populations rather than specimens — the demographics of the asteroid belt, the families shattered by ancient collisions, the interlopers flung inward from the icy outer reaches.
 
-![Stars scattered across blackness. Asteroids reveal themselves by moving against the fixed background of stars. Image: Unsplash.](https://images.unsplash.com/photo-1520034475321-cbe63696469a?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1520034475321-cbe63696469a-1200.avif" type="image/avif">
+<source srcset="/img/1520034475321-cbe63696469a-1200.webp" type="image/webp">
+<img src="/img/1520034475321-cbe63696469a-1200.webp" alt="Stars scattered across blackness. Asteroids reveal themselves by moving against the fixed background of stars. Image: Unsplash." width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *Rubin finds asteroids by spotting what moves between images taken nights apart. Image: Unsplash.*
 
 ## The Ghost Galaxy
@@ -56,7 +68,11 @@ They are also fossils. The stars in ultra-faint dwarfs are among the oldest in t
 
 The discovery, reported in Research Notes of the American Astronomical Society, is expected to be the first of many. Theorists predict dozens more ultra-faint dwarfs lurk undetected in the Milky Way's halo, too faint for earlier telescopes but well within Rubin's reach. Over the coming decade, the observatory should complete the census — and whatever number it finds will either confirm our understanding of dark matter or break it.
 
-![A spiral galaxy glowing against the dark. Ultra-faint dwarfs like Aquarius IV are fossils of the Milky Way's assembly — and probes of dark matter. Image: Unsplash.](https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1444703686981-a3abbc4d4fe3-1200.avif" type="image/avif">
+<source srcset="/img/1444703686981-a3abbc4d4fe3-1200.webp" type="image/webp">
+<img src="/img/1444703686981-a3abbc4d4fe3-1200.webp" alt="A spiral galaxy glowing against the dark. Ultra-faint dwarfs like Aquarius IV are fossils of the Milky Way's assembly — and probes of dark matter. Image: Unsplash." width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *Ultra-faint dwarf galaxies are dominated by dark matter — making them ideal laboratories for the invisible universe. Image: Unsplash.*
 
 ## Postcards from First Light
@@ -67,7 +83,11 @@ The Trifid and Lagoon Nebulae, those famous stellar nurseries, were rendered fro
 
 And then there is the "Cosmic Treasure Chest": a single data release containing 10 million galaxies. Ten million — and it represents roughly 0.05 percent of the 20 billion galaxies the survey expects to catalog over ten years. It is difficult to overstate what a catalog of that size means. Astronomers will not merely count galaxies; they will watch populations evolve across cosmic time, measure the expansion history of the universe with exquisite precision, and hunt for the rarest objects in existence — the most distant quasars, the strangest gravitational lenses, the galaxies that break the rules — by sifting billions rather than sampling thousands.
 
-![A glowing nebula in deep space. Rubin's early images resolved the Trifid and Lagoon Nebulae from 678 combined exposures. Image: Unsplash.](https://images.unsplash.com/photo-1462331940025-496dfbfc7564?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1462331940025-496dfbfc7564-1200.avif" type="image/avif">
+<source srcset="/img/1462331940025-496dfbfc7564-1200.webp" type="image/webp">
+<img src="/img/1462331940025-496dfbfc7564-1200.webp" alt="A glowing nebula in deep space. Rubin's early images resolved the Trifid and Lagoon Nebulae from 678 combined exposures. Image: Unsplash." width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *Star-forming nebulae, galaxy clusters, and millions of distant galaxies: Rubin's first images were just the preview. Image: Unsplash.*
 
 ## Drinking from the Flood

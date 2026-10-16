@@ -11,7 +11,11 @@ It was a launch with two very different jobs to do. Sentinel-3C, a 1,140-kilogra
 
 The flight, designated VV30, was only the second Vega-C launch operated directly by Avio, the Italian company that builds the rocket, and it marked another step in the launcher's return to a steady operational cadence after a difficult start to its career. For Europe's Earth-observation community, it was the night two long-awaited missions finally left the ground together.
 
-![A rocket lifts off from the launch pad at night, flames illuminating the sky](https://images.unsplash.com/photo-1517976487492-5750f3195933?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1517976487492-5750f3195933-1200.avif" type="image/avif">
+<source srcset="/img/1517976487492-5750f3195933-1200.webp" type="image/webp">
+<img src="/img/1517976487492-5750f3195933-1200.webp" alt="A rocket lifts off from the launch pad at night, flames illuminating the sky" width="1200" height="675" fetchpriority="high" decoding="async">
+</picture>
 *A Vega-C rocket climbs away from Europe's Spaceport in Kourou, French Guiana, carrying two Earth-observation satellites. Image: Unsplash.*
 
 ## The 116-Minute Ride to Orbit
@@ -38,7 +42,11 @@ The science case reaches far beyond botany. Photosynthesis is the engine of the 
 
 FLEX has been a long time coming. ESA selected it as its eighth Earth Explorer mission back in November 2015. Leonardo was chosen to build FLORIS in 2016, Thales Alenia Space became prime contractor for the satellite in 2019, and Arianespace received the launch contract in January 2022. Along the way, the mission team ran two major airborne rehearsal campaigns — FLEXSense in 2018 and 2019 — in which aircraft carrying prototype sensors flew over test sites while the Sentinel-3B satellite's ocean-colour instrument was reprogrammed to simulate the future tandem observations. Those campaigns proved the concept could work. This week, it finally left the ground.
 
-![A satellite in orbit above Earth, solar panels extended against the black of space](https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1446776811953-b23d57bd21aa-1200.avif" type="image/avif">
+<source srcset="/img/1446776811953-b23d57bd21aa-1200.webp" type="image/webp">
+<img src="/img/1446776811953-b23d57bd21aa-1200.webp" alt="A satellite in orbit above Earth, solar panels extended against the black of space" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *FLEX will map the faint fluorescent glow of photosynthesis from an 814-kilometre Sun-synchronous orbit. Image: Unsplash.*
 
 ## Sentinel-3C: The Copernicus Workhorse
@@ -50,7 +58,11 @@ Like its predecessors Sentinel-3A (launched 2016) and Sentinel-3B (2018), Sentin
 Continuity is the whole point. Sentinel-3A is a decade old and Sentinel-3B is eight; both are still working, but a gap in the data record would degrade decades-long climate datasets that scientists depend on. Sentinel-3C, with a design life of 7.5 years, guarantees the measurements keep coming. It will operate at the same 814-kilometre altitude as its siblings, in the same orbital plane, so its observations dovetail seamlessly with theirs.
 
 The satellite's journey to the pad was itself an odyssey: FLEX and Sentinel-3C arrived together in French Guiana in mid-July after a two-week sea voyage from Nice, France. Through August, engineers at the spaceport inspected, tested and finally fuelled both spacecraft — FLEX's fuelling was completed in the third week of August — before the two were stacked, one atop the other, inside Vega-C's fairing.
-![Earth seen from space, blue oceans and swirling white clouds](https://images.unsplash.com/photo-1462331940025-496dfbfc7564?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1462331940025-496dfbfc7564-1200.avif" type="image/avif">
+<source srcset="/img/1462331940025-496dfbfc7564-1200.webp" type="image/webp">
+<img src="/img/1462331940025-496dfbfc7564-1200.webp" alt="Earth seen from space, blue oceans and swirling white clouds" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *Sentinel-3C will spend 7.5 years monitoring Earth's oceans, land, ice and atmosphere for the Copernicus programme. Image: Unsplash.*
 
 ## Two Satellites, One Fairing: The Vespa Solution
@@ -75,7 +87,11 @@ VV30 was the second Vega-C flight operated directly by Avio under the new commer
 
 For Avio, the night was also a showcase: the company noted that both satellites were built by Thales Alenia Space, making VV30 a thoroughly European affair from the spacecraft to the launcher to the spaceport.
 
-![A rocket standing on the launch pad at dawn, ready for liftoff](https://images.unsplash.com/photo-1447433589675-4aaa569f3e05?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1447433589675-4aaa569f3e05-1200.avif" type="image/avif">
+<source srcset="/img/1447433589675-4aaa569f3e05-1200.webp" type="image/webp">
+<img src="/img/1447433589675-4aaa569f3e05-1200.webp" alt="A rocket standing on the launch pad at dawn, ready for liftoff" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *Vega-C's VV30 flight was the rocket's second launch operated directly by builder Avio. Image: Unsplash.*
 
 ## One Contractor, Two Spacecraft
@@ -94,5 +110,9 @@ For FLEX, commissioning is even more delicate. FLORIS must prove it can extract 
 
 On a September night in Kourou, Europe launched both its most reliable eye on the oceans and its most ambitious eye on the world's plants — on a single rocket, in a single 116-minute flight. The data they return will be feeding climate models, farm decisions and disaster responses for the better part of a decade. For a continent that has staked its environmental policy on knowing exactly what is happening to the planet, that is a night's work worth celebrating.
 
-![Lush green forest canopy seen from above, dense vegetation stretching to the horizon](https://images.unsplash.com/photo-1502134249126-9f3755a50d78?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1502134249126-9f3755a50d78-1200.avif" type="image/avif">
+<source srcset="/img/1502134249126-9f3755a50d78-1200.webp" type="image/webp">
+<img src="/img/1502134249126-9f3755a50d78-1200.webp" alt="Lush green forest canopy seen from above, dense vegetation stretching to the horizon" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *FLEX's monthly global maps will reveal how the world's forests and croplands respond to drought, heat and changing rainfall. Image: Unsplash.*
