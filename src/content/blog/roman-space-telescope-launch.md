@@ -14,9 +14,9 @@ That it launched at all is something of a miracle. Less than two years ago, the 
 This is the story of the telescope that refused to die.
 
 <picture>
-<source srcset="/img/1517976487492-5750f3195933-1200.avif" type="image/avif">
-<source srcset="/img/1517976487492-5750f3195933-1200.webp" type="image/webp">
-<img src="/img/1517976487492-5750f3195933-1200.webp" alt="A rocket climbs through the sky on a pillar of flame. Roman launched August 30, 2026, aboard a SpaceX Falcon Heavy. Image: Unsplash." width="1200" height="675" fetchpriority="high" decoding="async">
+<source srcset="/img/1517976487492-5750f3195933-1000.avif" type="image/avif">
+<source srcset="/img/1517976487492-5750f3195933-700.webp" type="image/webp">
+<img src="/img/1517976487492-5750f3195933-700.webp" alt="A rocket climbs through the sky on a pillar of flame. Roman launched August 30, 2026, aboard a SpaceX Falcon Heavy. Image: Unsplash." width="1000" height="563" fetchpriority="high" decoding="async">
 </picture>
 *Roman launched August 30, 2026, aboard a SpaceX Falcon Heavy — 27 Merlin engines producing more than 5 million pounds of thrust. Image: Unsplash.*
 
@@ -49,9 +49,9 @@ Alongside the wide-field camera flies the Coronagraph Instrument, a technology d
 The combination is potent: a telescope that can both census the universe at industrial scale and zoom in on individual planetary systems with exquisite precision.
 
 <picture>
-<source srcset="/img/1509391366360-2e959784a276-1200.avif" type="image/avif">
-<source srcset="/img/1509391366360-2e959784a276-1200.webp" type="image/webp">
-<img src="/img/1509391366360-2e959784a276-1200.webp" alt="Solar arrays glinting. Roman's precise launch means it carries fuel for at least 22 years — far beyond its required lifetime. Image: Unsplash." width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1509391366360-2e959784a276-1000.avif" type="image/avif">
+<source srcset="/img/1509391366360-2e959784a276-700.webp" type="image/webp">
+<img src="/img/1509391366360-2e959784a276-700.webp" alt="Solar arrays glinting. Roman's precise launch means it carries fuel for at least 22 years — far beyond its required lifetime. Image: Unsplash." width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *Roman is now cruising to its observing post a million miles from Earth, with fuel for at least 22 years of operations. Image: Unsplash.*
 
@@ -76,9 +76,9 @@ The second is the exoplanet census. Roman's wide-field surveys are expected to d
 The third is everything else — which, for a survey telescope, may be the biggest category of all. Roman will catalog billions of stars and millions of galaxies, creating one of the largest astronomical datasets in history. History suggests that the most transformative discoveries from such surveys are the ones nobody planned: Hubble's deep fields were not in the original pitch for the telescope either. Roman's archive will be mined for decades, by astronomers not yet born, asking questions we have not yet thought to ask.
 
 <picture>
-<source srcset="/img/1444703686981-a3abbc4d4fe3-1200.avif" type="image/avif">
-<source srcset="/img/1444703686981-a3abbc4d4fe3-1200.webp" type="image/webp">
-<img src="/img/1444703686981-a3abbc4d4fe3-1200.webp" alt="A spiral galaxy. Roman will map dark energy and dark matter across cosmic time, in concert with ESA's Euclid mission. Image: Unsplash." width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1444703686981-a3abbc4d4fe3-1000.avif" type="image/avif">
+<source srcset="/img/1444703686981-a3abbc4d4fe3-700.webp" type="image/webp">
+<img src="/img/1444703686981-a3abbc4d4fe3-700.webp" alt="A spiral galaxy. Roman will map dark energy and dark matter across cosmic time, in concert with ESA's Euclid mission. Image: Unsplash." width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *Roman will probe dark energy and dark matter — the invisible forces shaping the cosmos — alongside ESA's Euclid telescope. Image: Unsplash.*
 
@@ -105,8 +105,8 @@ Expect those first images to be staggering. A telescope that photographs the sky
 A decade ago, Roman was a proposal fighting for its life. This August, twenty-seven engines carried it into the Florida sky. Somewhere out in the dark right now, a telescope named for the woman who gave us Hubble is sailing toward its station, carrying a million names and the promise of a mapped universe. The sky, as they say, is no longer the limit — it's the dataset.
 
 <picture>
-<source srcset="/img/1446776811953-b23d57bd21aa-1200.avif" type="image/avif">
-<source srcset="/img/1446776811953-b23d57bd21aa-1200.webp" type="image/webp">
-<img src="/img/1446776811953-b23d57bd21aa-1200.webp" alt="Earth seen from space. Roman is bound for L2, a million miles away, where it will begin its great survey of the heavens. Image: Unsplash." width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1446776811953-b23d57bd21aa-1000.avif" type="image/avif">
+<source srcset="/img/1446776811953-b23d57bd21aa-700.webp" type="image/webp">
+<img src="/img/1446776811953-b23d57bd21aa-700.webp" alt="Earth seen from space. Roman is bound for L2, a million miles away, where it will begin its great survey of the heavens. Image: Unsplash." width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *From its post at L2, Roman will survey the sky 200 times faster than Hubble — the beginning of the dataset era in astronomy. Image: Unsplash.*
