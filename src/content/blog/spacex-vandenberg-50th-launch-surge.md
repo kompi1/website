@@ -10,9 +10,9 @@ The marine layer was already burning off the Santa Ynez Mountains when the count
 Fifty launches from a single California spaceport before the middle of August. To put that in perspective, the flight rate works out to roughly one launch every four and a half days, sustained for more than seven months, from a range that a decade ago struggled to manage a dozen launches in a good year. Vandenberg, long the quiet sibling of the bustling Florida spaceports, has become the beating heart of SpaceX's Falcon operations — and the shift is only accelerating as the company turns its East Coast attention toward Starship.
 
 <picture>
-<source srcset="/img/1517976487492-5750f3195933-1200.avif" type="image/avif">
-<source srcset="/img/1517976487492-5750f3195933-1200.webp" type="image/webp">
-<img src="/img/1517976487492-5750f3195933-1200.webp" alt="Falcon 9 lifting off from Vandenberg at dawn" width="1200" height="675" fetchpriority="high" decoding="async">
+<source srcset="/img/1517976487492-5750f3195933-1000.avif" type="image/avif">
+<source srcset="/img/1517976487492-5750f3195933-700.webp" type="image/webp">
+<img src="/img/1517976487492-5750f3195933-700.webp" alt="Falcon 9 lifting off from Vandenberg at dawn" width="1000" height="563" fetchpriority="high" decoding="async">
 </picture>
 *A Falcon 9 climbs away from the California coast. Image: Unsplash.*
 
@@ -33,9 +33,9 @@ About eight minutes and nineteen seconds after liftoff, B1093 touched down on th
 The economics of reuse are the engine underneath the Vandenberg surge. Without the ability to fly the same first stage sixteen times, a pace of fifty launches in seven months from a single pad complex would be financially ruinous. With it, each Starlink mission is an incremental investment in a constellation whose economics improve with every batch deployed.
 
 <picture>
-<source srcset="/img/1516849841032-87cbac4d88f7-1200.avif" type="image/avif">
-<source srcset="/img/1516849841032-87cbac4d88f7-1200.webp" type="image/webp">
-<img src="/img/1516849841032-87cbac4d88f7-1200.webp" alt="Rocket booster recovery at sea" width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1516849841032-87cbac4d88f7-1000.avif" type="image/avif">
+<source srcset="/img/1516849841032-87cbac4d88f7-700.webp" type="image/webp">
+<img src="/img/1516849841032-87cbac4d88f7-700.webp" alt="Rocket booster recovery at sea" width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *First-stage recovery has made high-cadence launch economically possible. Image: Unsplash.*
 
@@ -56,9 +56,9 @@ Meanwhile, at Cape Canaveral, the story of 2026 is increasingly about Starship. 
 This is not a retreat; it is a division of labor. Vandenberg handles the present — the relentless, profitable business of deploying and replenishing the Starlink constellation, flying national security payloads, and serving commercial customers. The Cape is being groomed for the future — Starship test flights, and eventually the operational Starship missions that SpaceX believes will redefine what is possible in spaceflight. The fiftieth Vandenberg launch of the year is the clearest possible evidence that the present is in good hands.
 
 <picture>
-<source srcset="/img/1446776811953-b23d57bd21aa-1200.avif" type="image/avif">
-<source srcset="/img/1446776811953-b23d57bd21aa-1200.webp" type="image/webp">
-<img src="/img/1446776811953-b23d57bd21aa-1200.webp" alt="Coastal launch complex at sunset" width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1446776811953-b23d57bd21aa-1000.avif" type="image/avif">
+<source srcset="/img/1446776811953-b23d57bd21aa-700.webp" type="image/webp">
+<img src="/img/1446776811953-b23d57bd21aa-700.webp" alt="Coastal launch complex at sunset" width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *Vandenberg's coastal pads now host a launch every few days. Image: Unsplash.*
 
@@ -81,9 +81,9 @@ None of this happens without people, and the human side of the surge deserves re
 The infrastructure has grown to match. Additional propellant storage, expanded integration facilities, and upgraded tracking assets have all been added in recent years. SLC-4E itself — the pad SpaceX leases from the Space Force — has been modified repeatedly to shave hours off the turnaround between flights. Every minute saved in pad flow is a minute that compounds across fifty launches.
 
 <picture>
-<source srcset="/img/1459908676235-d5f02a50184b-1200.avif" type="image/avif">
-<source srcset="/img/1459908676235-d5f02a50184b-1200.webp" type="image/webp">
-<img src="/img/1459908676235-d5f02a50184b-1200.webp" alt="Launch control and range operations" width="1200" height="675" loading="lazy" decoding="async">
+<source srcset="/img/1459908676235-d5f02a50184b-1000.avif" type="image/avif">
+<source srcset="/img/1459908676235-d5f02a50184b-700.webp" type="image/webp">
+<img src="/img/1459908676235-d5f02a50184b-700.webp" alt="Launch control and range operations" width="1000" height="563" loading="lazy" decoding="async">
 </picture>
 *Range teams have reinvented operations to sustain the new tempo. Image: Unsplash.*
 
