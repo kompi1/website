@@ -11,7 +11,11 @@ The announcement, carried first in a statement posted on X and confirmed in a fi
 
 Markets reacted swiftly. Rocket Lab shares fell in extended trading on October 14, with reports putting the slide at roughly 6 to 12 percent depending on the hour — a sharp rebuke for a company whose stock has been priced on the promise that Neutron will carry it into the far more lucrative medium- and heavy-lift market. For a program that began life in 2021 with a target of launching in 2024, the delay is the latest chapter in a long and expensive apprenticeship. But the reasons behind it — and what the company does next — say a great deal about how hard it is to build a truly new rocket in the 2020s, even for the industry's most successful small launcher.
 
-![A heavy-lift rocket clears its launch pad in a wall of flame and smoke](https://images.unsplash.com/photo-1517976487492-5750f3195933?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1517976487492-5750f3195933-1200.avif" type="image/avif">
+<source srcset="/img/1517976487492-5750f3195933-1200.webp" type="image/webp">
+<img src="/img/1517976487492-5750f3195933-1200.webp" alt="A heavy-lift rocket clears its launch pad in a wall of flame and smoke" width="1200" height="675" fetchpriority="high" decoding="async">
+</picture>
 *A heavy-lift rocket clears its launch pad. Rocket Lab's Neutron is chasing the medium-lift market that rockets like this one currently dominate. Image: Unsplash.*
 
 ## The announcement: no flight in 2026
@@ -34,7 +38,11 @@ Rocket Lab has been wrestling with this one for the better part of a year. In Ja
 
 If the account is right, the story is less about a mysterious flaw and more about industrialization: a hand-crafted process that worked for development articles could not reliably produce flight tanks, and the company had to retool. That is a normal, if painful, transition for any new launch vehicle — and it is exactly the kind of thing that stretches schedules by quarters rather than weeks. Requalifying a fixed tank design means repeating structural and acceptance tests, and every downstream milestone — integration, pad delivery, testing at the launch site — shifts with it.
 
-![A Falcon 9 climbs past its launch tower at liftoff](https://images.unsplash.com/photo-1516849841032-87cbac4d88f7?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1516849841032-87cbac4d88f7-1200.avif" type="image/avif">
+<source srcset="/img/1516849841032-87cbac4d88f7-1200.webp" type="image/webp">
+<img src="/img/1516849841032-87cbac4d88f7-1200.webp" alt="A Falcon 9 climbs past its launch tower at liftoff" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *A Falcon 9 climbs past its launch tower. SpaceX's workhorse is the benchmark every Neutron schedule slide is measured against. Image: Unsplash.*
 
 ## A schedule that keeps slipping
@@ -71,7 +79,11 @@ But competing in space demands deep pockets, and the numbers show the strain. Fr
 
 Wall Street is still broadly on board, but the faith is getting more expensive to maintain. Barclays initiated coverage on October 8 with an Overweight rating and an $85 price target; TD Cowen reaffirmed its buy on October 9 but slashed its target from $120 to $90. Fifteen of eighteen analysts still rate the stock a buy, with an average target around $104.44 — and ARK Invest, which has called Neutron the closest thing to a Falcon 9 rival, added about 233,482 shares worth $16.6 million across three of its ETFs in early October. The Neutron slip will test that patience.
 
-![Earth seen from orbit with a space station module in the foreground](https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1446776811953-b23d57bd21aa-1200.avif" type="image/avif">
+<source srcset="/img/1446776811953-b23d57bd21aa-1200.webp" type="image/webp">
+<img src="/img/1446776811953-b23d57bd21aa-1200.webp" alt="Earth seen from orbit with a space station module in the foreground" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *Earth from orbit. Neutron is aimed at megaconstellation deployment, national-security launches, and deep-space missions — up to 13,000 kg to low Earth orbit. Image: Unsplash.*
 
 ## The medium-lift race: a crowded field getting more crowded
@@ -90,7 +102,11 @@ Only after a clean static fire can a launch attempt proceed. If that sequence ru
 
 There is precedent for patience paying off. Electron itself suffered failures and delays on its way to becoming the most-flown small launcher in the West. SpaceX's Falcon 9 spent years as a promising but unproven vehicle before its reuse program transformed the economics of the entire industry. Rocket development is, as Beck likes to remind audiences, a program business — and Neutron is being built, he insists, at a pace and cost nobody has achieved before. The tank fix, the switch to a mass-production process, the qualified fairing, the finished launch complex: the pieces are, by the company's account, nearly all in hand.
 
-![The galactic core of the Milky Way](https://images.unsplash.com/photo-1502134249126-9f3755a50d78?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1502134249126-9f3755a50d78-1200.avif" type="image/avif">
+<source srcset="/img/1502134249126-9f3755a50d78-1200.webp" type="image/webp">
+<img src="/img/1502134249126-9f3755a50d78-1200.webp" alt="The galactic core of the Milky Way" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *The core of the Milky Way. Constellation operators keep booking dedicated launches — demand for a credible Falcon 9 alternative is outrunning the supply of rockets. Image: Unsplash.*
 
 ## A setback, not a verdict
@@ -103,5 +119,9 @@ What is not in doubt is the demand. Governments want assured access to space fro
 
 Rocket Lab's bet is that doing the hard manufacturing work on the ground now will buy reliability in the air later. "We won't rush to the launch pad by taking unnecessary risks," Beck said. For a company whose stock fell on the news, that is an expensive sentence. For a rocket program, it might be the cheapest one in the long run.
 
-![A field of stars above the darkened Earth](https://images.unsplash.com/photo-1465101162946-4377e57745c3?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1465101162946-4377e57745c3-1200.avif" type="image/avif">
+<source srcset="/img/1465101162946-4377e57745c3-1200.webp" type="image/webp">
+<img src="/img/1465101162946-4377e57745c3-1200.webp" alt="A field of stars above the darkened Earth" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *Starfields over a darkened horizon. Neutron's next milestones: pad delivery, wet dress rehearsal, and the nine-engine static fire — then, in 2027, the flight that matters. Image: Unsplash.*

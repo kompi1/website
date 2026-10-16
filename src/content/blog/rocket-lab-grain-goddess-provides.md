@@ -5,7 +5,11 @@ pubDate: 2026-08-10T15:30:00
 category: 'Technology'
 ---
 
-![Rocket launching into the night sky](https://images.unsplash.com/photo-1517976487492-5750f3195933?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1517976487492-5750f3195933-1200.avif" type="image/avif">
+<source srcset="/img/1517976487492-5750f3195933-1200.webp" type="image/webp">
+<img src="/img/1517976487492-5750f3195933-1200.webp" alt="Rocket launching into the night sky" width="1200" height="675" fetchpriority="high" decoding="async">
+</picture>
 *An Electron-class rocket climbs away from the pad. Image: Unsplash.*
 
 At 9:18 on the evening of August 6, 2026, as winter darkness settled over New Zealand's Mahia Peninsula, a slender black rocket rose from Launch Complex 1 on a pillar of fire and climbed into the southern sky. Nine minutes later, its kick stage released a single satellite into low Earth orbit — QPS-SAR-13, the latest synthetic-aperture-radar spacecraft for the Japanese Earth-imaging company iQPS. The mission had a name drawn from Japanese mythology: "The Grain Goddess Provides" — and over the months that followed, the steady rhythm of these dedicated launches would prove the name prophetic for both companies.
@@ -84,14 +88,30 @@ The company operates two pads at Mahia — LC-1A and LC-1B — plus a third, LC-
 
 The August cadence illustrates the payoff. The Grain Goddess Provides flew on the 6th; "The Lightning God Defends" — the next iQPS mission, already named and manifested — was slated for later the same month from the same peninsula. Two dedicated constellation launches, weeks apart, from a private range most people have never heard of. A decade ago, that tempo belonged exclusively to superpowers. Now it belongs to a company that started in a New Zealander's garage.
 
-![Rocket engine ignition at liftoff](https://images.unsplash.com/photo-1516849841032-87cbac4d88f7?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1516849841032-87cbac4d88f7-1200.avif" type="image/avif">
+<source srcset="/img/1516849841032-87cbac4d88f7-1200.webp" type="image/webp">
+<img src="/img/1516849841032-87cbac4d88f7-1200.webp" alt="Rocket engine ignition at liftoff" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *Engines ignite as a rocket begins its climb to orbit. Image: Unsplash.*
 
-![Satellite in Earth orbit](https://images.unsplash.com/photo-1532693322450-2cb5c511067d?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1532693322450-2cb5c511067d-1200.avif" type="image/avif">
+<source srcset="/img/1532693322450-2cb5c511067d-1200.webp" type="image/webp">
+<img src="/img/1532693322450-2cb5c511067d-1200.webp" alt="Satellite in Earth orbit" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *Radar satellites like QPS-SAR-13 image the Earth day and night, through cloud and darkness. Image: Unsplash.*
 
-![Earth at night from space](https://images.unsplash.com/photo-1614313913007-2b4ae8ce32d6?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1614313913007-2b4ae8ce32d6-1200.avif" type="image/avif">
+<source srcset="/img/1614313913007-2b4ae8ce32d6-1200.webp" type="image/webp">
+<img src="/img/1614313913007-2b4ae8ce32d6-1200.webp" alt="Earth at night from space" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *Synthetic-aperture radar sees the planet even where optical cameras cannot. Image: Unsplash.*
 
-![Launch complex at dawn](https://images.unsplash.com/photo-1559757148-5c350d0d3c56?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1559757148-5c350d0d3c56-1200.avif" type="image/avif">
+<source srcset="/img/1559757148-5c350d0d3c56-1200.webp" type="image/webp">
+<img src="/img/1559757148-5c350d0d3c56-1200.webp" alt="Launch complex at dawn" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *Small launchers have made dedicated orbits routine for constellation operators. Image: Unsplash.*

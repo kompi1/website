@@ -19,7 +19,11 @@ Each time, Congress intervened. Lawmakers repeatedly restored the funding in ann
 
 That they kept building is the remarkable part. Through every budget cycle, the teams at NASA's Goddard Space Flight Center and their partners pressed on: polishing the mirror, assembling the instruments, testing the spacecraft bus. The telescope was completed in April 2026 — and will now launch roughly eight to nine months ahead of its official schedule, a rare feat in a business famous for delays.
 
-![A space telescope under construction in a clean room](https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1446776811953-b23d57bd21aa-1200.avif" type="image/avif">
+<source srcset="/img/1446776811953-b23d57bd21aa-1200.webp" type="image/webp">
+<img src="/img/1446776811953-b23d57bd21aa-1200.webp" alt="A space telescope under construction in a clean room" width="1200" height="675" fetchpriority="high" decoding="async">
+</picture>
 *NASA's Roman Space Telescope, completed months ahead of schedule. Image: Unsplash.*
 
 There is a particular poignancy in the timing. Roman is named for Nancy Grace Roman, the astronomer often called the "mother of Hubble," who championed space-based astronomy when the very idea was considered extravagant. That her namesake telescope survived repeated attempts to kill it — and will now fly — feels like a fitting tribute.
@@ -42,7 +46,11 @@ That pairing — sharp images, huge sky coverage, repeated visits — is what gi
 
 Two core surveys will exploit this capability. The High-Latitude Time-Domain Survey will sweep wide areas far from the Milky Way's plane, hunting distant exploding stars and mapping the large-scale structure of the cosmos. The Galactic Bulge Time-Domain Survey will stare into the crowded heart of our galaxy, watching millions of stars for the telltale brightening that betrays an exoplanet passing in front of its sun.
 
-![Stars and galaxies across a wide field of view](https://images.unsplash.com/photo-1462331940025-496dfbfc7564?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1462331940025-496dfbfc7564-1200.avif" type="image/avif">
+<source srcset="/img/1462331940025-496dfbfc7564-1200.webp" type="image/webp">
+<img src="/img/1462331940025-496dfbfc7564-1200.webp" alt="Stars and galaxies across a wide field of view" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *Roman will survey the sky 100 times faster than Hubble. Image: Unsplash.*
 
 The science goals read like a greatest-hits list of modern cosmology. Roman will probe dark energy — the mysterious force accelerating the universe's expansion — by measuring the distances and redshifts of thousands of distant supernovae and mapping how galaxies are distributed across cosmic time. It will hunt dark matter by charting how its gravity bends the light of background galaxies, a technique called weak gravitational lensing. And its coronagraph instrument, a technology demonstrator, will block the blinding light of nearby stars to image exoplanets directly — a stepping stone toward the day astronomers photograph an Earth-like world.
@@ -67,7 +75,11 @@ The Heavy assigned to Roman is a veteran configuration with a fresh twist: its t
 
 Encapsulation — the delicate operation of enclosing the spacecraft in the fairing — is one of the most nerve-wracking steps of any launch campaign. The fairing halves, each nearly 13 metres long, must close around the observatory with centimetres of clearance, protecting it from aerodynamic forces and acoustic violence during ascent. Once sealed, the spacecraft is committed: from that moment, the telescope and rocket are a single vehicle, and the countdown belongs to the launch team.
 
-![A heavy-lift rocket on the launch pad at dawn](https://images.unsplash.com/photo-1517976487492-5750f3195933?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1517976487492-5750f3195933-1200.avif" type="image/avif">
+<source srcset="/img/1517976487492-5750f3195933-1200.webp" type="image/webp">
+<img src="/img/1517976487492-5750f3195933-1200.webp" alt="A heavy-lift rocket on the launch pad at dawn" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *A Falcon Heavy awaiting its precious cargo. Image: Unsplash.*
 
 After encapsulation, the mated stack was rolled out to Launch Complex 39A — the historic pad that launched Apollo missions and Space Shuttles — and raised vertical. There it will undergo final checks, propellant loading, and the launch readiness review, the formal poll of engineers and managers that clears a mission to fly.
@@ -100,7 +112,11 @@ It is easy, in the churn of launch coverage, to lose sight of what a mission lik
 
 Consider the scale of what is about to begin. Over its primary five-year mission, Roman will survey hundreds of times more sky than Hubble has imaged in three and a half decades — and it will do so while watching for change, catching the transient flashes and slow brightenings that static sky maps miss entirely. Every one of those images becomes part of a public archive that astronomers will mine for decades, long after the launch-day headlines fade.
 
-![A deep-space observatory bound for Lagrange point 2](https://images.unsplash.com/photo-1459908676235-d5f02a50184b?q=80&w=1600&auto=format&fit=crop)
+<picture>
+<source srcset="/img/1459908676235-d5f02a50184b-1200.avif" type="image/avif">
+<source srcset="/img/1459908676235-d5f02a50184b-1200.webp" type="image/webp">
+<img src="/img/1459908676235-d5f02a50184b-1200.webp" alt="A deep-space observatory bound for Lagrange point 2" width="1200" height="675" loading="lazy" decoding="async">
+</picture>
 *Roman's destination: a halo orbit 1.5 million kilometres from Earth. Image: Unsplash.*
 
 On Sunday morning, if all goes to plan, a Falcon Heavy will rise from Pad 39A carrying the telescope that refused to die. Inside its fairing — sealed, silent, and out of sight — rides the next decade of discovery. The countdown, at long last, is nearly over.
