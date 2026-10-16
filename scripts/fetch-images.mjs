@@ -30,10 +30,11 @@ const OUT = new URL('../public/img/', import.meta.url).pathname;
 mkdirSync(OUT, { recursive: true });
 
 // 16:9 crops matching the site's CSS (aspect-ratio: 16/9 + object-fit: cover),
-// so no layout shift and no wasted pixels.
+// so no layout shift and no wasted pixels. Kept compact (each file < ~70KB)
+// so they can be deployed through the repo.
 const VARIANTS = [
-	{ suffix: '1200', width: 1200, height: 675 }, // article body (720px column)
-	{ suffix: '800', width: 800, height: 450 }, // cards / thumbnails
+	{ suffix: '1000', width: 1000, height: 563 }, // article body (720px column)
+	{ suffix: '700', width: 700, height: 394 }, // cards / thumbnails
 ];
 
 for (const id of IDS) {
@@ -50,8 +51,8 @@ for (const id of IDS) {
 			continue; // already generated
 		}
 		const pipeline = sharp(buf).resize(v.width, v.height, { fit: 'cover' });
-		await pipeline.clone().avif({ quality: 60 }).toFile(`${base}.avif`);
-		await pipeline.clone().webp({ quality: 72 }).toFile(`${base}.webp`);
+		await pipeline.clone().avif({ quality: 52 }).toFile(`${base}.avif`);
+		await pipeline.clone().webp({ quality: 68 }).toFile(`${base}.webp`);
 	}
 	console.log(`done ${id}`);
 }
