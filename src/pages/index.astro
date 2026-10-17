@@ -298,7 +298,7 @@ const thumbs = [
 					{
 						categories.map((c) => (
 							<a class="cat-card" href="/blog">
-								<ResponsiveImage id={c.img} alt="" loading="lazy" />
+								<ResponsiveImage id={c.img} alt={`${c.name}: ${c.desc}`} loading="lazy" />
 								<span class="cat-label">
 									<strong>{c.name}</strong>
 									<span>{c.desc}</span>
@@ -344,7 +344,7 @@ const thumbs = [
 						latest.map((post, i) => (
 							<article class="card article-card">
 								<a href={`/blog/${post.id}/`} aria-label={post.data.title}>
-									<ResponsiveImage id={thumbs[i % thumbs.length]} alt="" loading="lazy" />
+									<ResponsiveImage id={thumbs[i % thumbs.length]} alt={post.data.title} loading="lazy" />
 								</a>
 								<div class="card-body">
 									<div class="date">

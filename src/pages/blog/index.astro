@@ -99,7 +99,7 @@ const thumbs = [
 							<li>
 								<article class="card">
 									<a href={`/blog/${post.id}/`} aria-label={post.data.title}>
-										<ResponsiveImage id={thumbs[i % thumbs.length]} alt="" loading="lazy" />
+										<ResponsiveImage id={thumbs[i % thumbs.length]} alt={post.data.title} loading="lazy" />
 									</a>
 									<div class="card-body">
 										{post.data.category && <span class="badge">{post.data.category}</span>}
