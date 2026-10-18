@@ -1,5 +1,5 @@
 ---
-title: "Pentagon's Orbital Mesh Grows: 21 Northrop Grumman Satellites Join the Space Development Agency's Tranche 1 Constellation"
+title: "Pentagon's Orbital Mesh Grows: 21 Northrop Grumman Satellites Join SDA Tranche 1"
 description: "A Falcon 9 launched 21 Northrop Grumman-built transport satellites from Vandenberg on October 10, 2026 — the fourth Tranche 1 plane for the Space Development Agency's proliferated mesh network, now 84 satellites strong and on track for initial warfighting capability in 2027."
 pubDate: 2026-10-18
 category: 'Missions'
