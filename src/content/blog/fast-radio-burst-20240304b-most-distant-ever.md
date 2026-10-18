@@ -1,6 +1,6 @@
 ---
 title: "A 10-Billion-Year Radio Flash: Astronomers Trace the Most Distant Fast Radio Burst Ever Detected"
-description: "Astronomers have traced FRB 20240304B, a millisecond-long radio flash that travelled more than 10 billion years across the cosmos, doubling the distance record. Detected by South Africa's MeerKAT telescope and traced to its host galaxy with the James Webb Space Telescope, the burst is a new probe of the young universe."
+description: "Astronomers traced FRB 20240304B, a millisecond radio flash that travelled over 10 billion years, to a young galaxy seen by the Webb telescope — more than doubling the distance record for fast radio bursts."
 pubDate: 2026-10-18
 category: 'Astronomy'
 ---
