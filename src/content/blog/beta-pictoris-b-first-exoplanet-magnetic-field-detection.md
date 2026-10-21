@@ -1,6 +1,6 @@
 ---
 title: "Radio Waves From Beta Pictoris b: Astronomers Make the First Direct Detection of an Exoplanet's Magnetic Field"
-description: "Astronomers using South Africa's MeerKAT radio array have caught auroral radio bursts coming straight from the gas giant Beta Pictoris b, 63 light-years away — revealing a magnetic field some 2,000 times stronger than Earth's in the first direct magnetic measurement of any world beyond our solar system."
+description: "Astronomers using South Africa's MeerKAT radio array have caught auroral radio bursts coming straight from the gas giant Beta Pictoris b, 63 light-years away — revealing a magnetic field 2,000 times stronger than Earth's in the first direct magnetic measurement of any world beyond our solar system."
 pubDate: 2026-10-21
 category: 'Astronomy'
 ---
