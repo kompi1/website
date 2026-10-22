@@ -1,6 +1,6 @@
 ---
-title: "El Gordo's Secret Is Slipping Out: The Universe's 'Fat One' May Prove That Dark Matter Collides With Itself"
-description: "A new Astrophysical Journal study of the merging galaxy cluster El Gordo finds that the two-quadrillion-solar-mass behemoth is best explained by dark matter that can scatter elastically and get knocked into an excited state — a two-state self-interacting model that could rewrite what the universe's invisible bulk is made of."
+title: "El Gordo's Strange Heart: A Two-State Dark Matter Model for the Universe's 'Fat One'"
+description: "A new Astrophysical Journal study of the merging cluster El Gordo finds it best explained by dark matter that can scatter elastically and be kicked into an excited state — a two-state self-interacting model that could reshape what the universe is made of."
 pubDate: 2026-10-22
 category: 'Astronomy'
 ---
