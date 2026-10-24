@@ -1,5 +1,5 @@
 ---
-title: "'Pedal to the Metal': NASA's Psyche Spacecraft Fires Its Thrusters Almost Nonstop on the Way to a Metal World"
+title: "'Pedal to the Metal': NASA's Psyche Fires Its Thrusters Almost Nonstop on the Way to a Metal World"
 description: "NASA's Psyche spacecraft has shifted into near-continuous electric propulsion after its Mars gravity assist, running its Hall-effect thrusters nearly 90 percent of the time on a cruise that will reach the metal-rich asteroid Psyche in the summer of 2029."
 pubDate: 2026-10-24
 category: 'Missions'
