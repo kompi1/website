@@ -1,6 +1,6 @@
 ---
 title: "NASA UVEX Telescope 2031: Ultraviolet Explorer Clears Key Milestone Toward Launch"
-description: "NASA UVEX telescope 2031 is now locked in: the ultraviolet explorer has passed its Key Decision Point C review, committing NASA to launch by January 2031 at a lifecycle cost of $590 million. The wide-field observatory will map the whole sky in ultraviolet light and chase the flashes left by colliding neutron stars."
+description: "NASA UVEX telescope 2031 is now locked in: the ultraviolet explorer passed its Key Decision Point C review, committing NASA to launch by January 2031 at a lifecycle cost of $590 million."
 pubDate: 2026-10-28
 category: 'Astronomy'
 ---
