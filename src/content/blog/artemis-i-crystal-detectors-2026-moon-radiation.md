@@ -1,6 +1,6 @@
 ---
 title: "Artemis I Crystal Detectors 2026: Tiny Crystals Reveal a Moon Radiation Surprise"
-description: "Artemis I crystal detectors 2026 show that radiation near the Moon is higher than in low Earth orbit, but by less than many expected — and far more evenly spread through the body. A new analysis of lithium fluoride crystals flown aboard Orion explains how scientists read that record, and why it matters for the astronauts who will follow."
+description: "Artemis I crystal detectors 2026 show Moon radiation is higher than in low Earth orbit, but less than expected and evenly spread. A new Radiation Measurements study explains how tiny lithium fluoride crystals revealed it."
 pubDate: 2026-10-27
 category: 'Exploration'
 ---
