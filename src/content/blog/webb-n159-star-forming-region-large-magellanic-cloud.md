@@ -1,6 +1,6 @@
 ---
 title: "Webb N159 Star-Forming Region Reveals a Turbulent Stellar Cauldron in the Large Magellanic Cloud"
-description: "Webb N159 star-forming region, imaged by the James Webb Space Telescope as its October 2026 Picture of the Month, spans about 230 light-years in the Large Magellanic Cloud and shows stars at several stages of birth at once. The new view pairs a spectacular infrared portrait with a catalog of more than 300,000 stars."
+description: "Webb N159 star-forming region, imaged by the James Webb Space Telescope as its October 2026 Picture of the Month, spans about 230 light-years in the Large Magellanic Cloud and shows stars at several stages of birth at once."
 pubDate: 2026-10-29
 category: 'Astronomy'
 ---
