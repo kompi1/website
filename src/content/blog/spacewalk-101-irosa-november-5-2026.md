@@ -1,6 +1,6 @@
 ---
 title: "Spacewalk 101 IROSA November 5 2026: Menon and Kutryk Install the Final Wing"
-description: "Spacewalk 101 IROSA November 5 2026 sends NASA astronaut Anil Menon and Canadian Space Agency astronaut Joshua Kutryk outside the International Space Station to install the eighth and final roll-out solar array, completing a power upgrade that began in 2021 and lifting the station's available power by about 30 percent."
+description: "Spacewalk 101 IROSA November 5 2026 sends NASA astronaut Anil Menon and CSA astronaut Joshua Kutryk outside the International Space Station to install the eighth and final roll-out solar array, completing a power upgrade that began in 2021."
 pubDate: 2026-11-05
 category: 'Missions'
 ---
