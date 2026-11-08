@@ -24,6 +24,27 @@ const IDS = [
 	'1532187863486-abf9dbad1b69',
 	'1532693322450-2cb5c511067d',
 	'1614313913007-2b4ae8ce32d6',
+	// Tahap C expansion (2026-11-08) — topic notes for photo selection:
+	'1457364887197-9150188c107b', // rocket launch, long-exposure arc at dusk
+	'1541185934-01b600ea069c', // rocket launch, night arc + twilight exhaust plume
+	'1541185933-ef5d8ed016c2', // Falcon Heavy liftoff at launch pad
+	'1541873676-a18131494184', // Apollo astronaut on the Moon
+	'1564053051381-5cb91813736b', // astronaut spacewalk (Gemini-era EVA)
+	'1707058665464-c11b94b7ecd3', // observatory dome above clouds at sunset
+	'1523597020744-b68b1edd3e1c', // blood moon / lunar eclipse
+	'1548284706-24b96b23d6d8', // reddish full moon among stars
+	'1506318137071-a8e063b4bec0', // dense star field
+	'1464802686167-b939a6910659', // Milky Way core with nebula clouds
+	'1614728894747-a83421e2b9c9', // Mars full disk
+	'1632395627760-72e6eca7f9c7', // Earth full disk from space
+	'1654263391025-4c4809a37f5c', // gas-giant planet with moons (render)
+	'1637984135921-301a7d39e3b7', // Saturn and rings
+	'1614732484003-ef9881555dc3', // Uranus full disk
+	'1593378026483-2a1fd46a35bd', // aurora over snowy fjord
+	'1517411032315-54ef2cb783bb', // aurora over coastline
+	'1483347756197-71ef80e95f73', // aurora over pine forest
+	'1473425021274-58232d06e88b', // aurora reflected in a lake
+	'1511424011930-878efa4d6ed2', // Milky Way over desert road
 ];
 
 const OUT = new URL('../public/img/', import.meta.url).pathname;
