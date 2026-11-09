@@ -66,6 +66,37 @@ const thumbs = [
 	'1614313913007-2b4ae8ce32d6',
 	'1465101162946-4377e57745c3',
 ];
+
+const faqs = [
+	{
+		q: 'How often do rockets launch?',
+		a: 'Far more often than most people realise. The world attempted more than 250 orbital launches in 2024 alone, roughly double the busiest years of the Apollo era, and the cadence has kept climbing since. Reusable first stages are the main reason: a booster that lands and flies again turns launch from a bespoke national event into something closer to an airline operation. On an average week there are now several orbital launches worldwide, from the United States, China, Europe, India, Japan, and New Zealand, and SpaceNews covers the significant ones with previews before liftoff and verified results afterwards.',
+	},
+	{
+		q: 'What is the International Space Station?',
+		a: 'The International Space Station is a football-field-sized research laboratory orbiting Earth at about 400 kilometres altitude, travelling at 7.66 kilometres per second and completing an orbit roughly every 93 minutes. It has been continuously inhabited since November 2000 and is operated by five space agencies: NASA, Roscosmos, ESA, JAXA, and the Canadian Space Agency. Crews aboard conduct experiments in biology, materials science, and human physiology that cannot be done on Earth. The station is planned to operate until around 2030, after which commercial stations are expected to take over as the main destinations in low Earth orbit.',
+	},
+	{
+		q: 'When are astronauts going back to the Moon?',
+		a: 'NASA\u2019s Artemis programme is returning astronauts to the Moon for the first time since Apollo 17 in 1972. The plan unfolds in stages: an uncrewed test flight has already flown, a crewed flight loops around the Moon next, and a crewed landing near the lunar south pole follows, targeting the permanently shadowed craters where water ice is stored. Schedules have slipped before and may slip again, which is why SpaceNews reports target dates as targets, not promises, and updates them whenever NASA does. China has announced its own goal of landing astronauts on the Moon before 2030, so the decade ahead is shaping up as a second great era of lunar exploration.',
+	},
+	{
+		q: 'What is a satellite mega-constellation?',
+		a: 'A mega-constellation is a network of hundreds or thousands of satellites working together in low Earth orbit, instead of a single large spacecraft in geostationary orbit. SpaceX\u2019s Starlink is the largest example, delivering broadband internet from orbit, and China\u2019s GuoWang network and Amazon\u2019s Kuiper system are being built to join it. Because the satellites are close to Earth, signals travel quickly, but thousands of them are needed to cover the whole planet continuously. These systems are transforming global connectivity, and they also raise real questions about orbital debris, collision avoidance, and the brightness of satellites in the night sky, all of which SpaceNews covers as part of the story.',
+	},
+	{
+		q: 'Why do launches get delayed so often?',
+		a: 'A scrubbed launch is not a failed launch. Countdowns stop for weather, for a sensor reading a fraction out of limits, for range safety, or for a valve that needs one more inspection, and any of those can push a flight by a day or by months. Rockets leave Earth on narrow launch windows because the target orbit, the lighting at the destination, and the rotation of the Earth all have to line up. SpaceNews treats every published window as provisional, re-verifies it before each result article, and reports delays with the reason given by the operator rather than guessing. If a mission matters, the wait is part of the story.',
+	},
+	{
+		q: 'What is space debris, and should we worry about it?',
+		a: 'Space debris is everything humans have left in orbit that no longer works: dead satellites, spent rocket stages, and fragments from collisions and explosions. Tracking networks catalogue tens of thousands of objects larger than about ten centimetres, and statistical models suggest far more smaller pieces, each travelling fast enough that a paint fleck can damage a spacecraft. The risk is managed, not eliminated: satellites manoeuvre out of the way, new rules require dead spacecraft to leave busy orbits within a few years, and the first removal and servicing missions are being tested. SpaceNews covers debris as part of the infrastructure story, because a sustainable orbit is one that stays usable.',
+	},
+	{
+		q: 'How does SpaceNews verify a launch result?',
+		a: 'Liftoff is only the beginning of a launch story. SpaceNews separates three different events that are often blurred together: the rocket leaving the pad, the payload reaching orbit, and the payload being confirmed deployed and healthy. A result article is only written as a result when the operator or an official source has confirmed the relevant milestone; for classified missions, where deployment is never publicly confirmed, we say so plainly and label analyst assessments as assessments. Every article lists its sources, and our full method is published on our editorial policy page for anyone to read.',
+	},
+];
 ---
 
 <!doctype html>
@@ -80,6 +111,18 @@ const thumbs = [
 				name: SITE_TITLE,
 				url: 'https://SpaceNews.biz.id/',
 				description: SITE_DESCRIPTION,
+			})}
+		/>
+		<script
+			type="application/ld+json"
+			set:html={JSON.stringify({
+				'@context': 'https://schema.org',
+				'@type': 'FAQPage',
+				mainEntity: faqs.map((f) => ({
+					'@type': 'Question',
+					name: f.q,
+					acceptedAnswer: { '@type': 'Answer', text: f.a },
+				})),
 			})}
 		/>
 		<style>
@@ -233,6 +276,71 @@ const thumbs = [
 				font-size: 1.1rem;
 			}
 
+			.prose {
+				max-width: 76ch;
+				margin: 0 auto;
+			}
+			.prose p {
+				margin-bottom: 1.15em;
+				line-height: 1.8;
+				font-size: 1.05rem;
+			}
+			.prose p:last-child {
+				margin-bottom: 0;
+			}
+			.prose a {
+				color: var(--accent);
+			}
+
+			.deep-grid {
+				display: grid;
+				grid-template-columns: repeat(2, 1fr);
+				gap: 2.5rem 3rem;
+			}
+			.deep-block h3 {
+				margin-bottom: 0.5em;
+			}
+			.deep-block p {
+				line-height: 1.75;
+				margin-bottom: 1em;
+			}
+			.deep-block p:last-child {
+				margin-bottom: 0;
+			}
+
+			.matter-grid {
+				display: grid;
+				grid-template-columns: repeat(2, 1fr);
+				gap: 1.25rem;
+				margin-top: 2.5rem;
+			}
+			.matter-card {
+				padding: 1.75em;
+			}
+			.matter-card h3 {
+				margin: 0 0 0.4em;
+			}
+			.matter-card p {
+				line-height: 1.7;
+			}
+
+			.faq-list {
+				max-width: 820px;
+				margin: 0 auto;
+				display: grid;
+				gap: 1.25rem;
+			}
+			.faq-item {
+				padding: 1.75em;
+			}
+			.faq-item h3 {
+				margin: 0 0 0.5em;
+			}
+			.faq-item p {
+				line-height: 1.75;
+				margin: 0;
+			}
+
 			@media (max-width: 900px) {
 				.cat-grid {
 					grid-template-columns: repeat(2, 1fr);
@@ -252,6 +360,12 @@ const thumbs = [
 					gap: 1.5em;
 				}
 				.topic-grid {
+					grid-template-columns: 1fr;
+				}
+				.deep-grid {
+					grid-template-columns: 1fr;
+				}
+				.matter-grid {
 					grid-template-columns: 1fr;
 				}
 				.article-grid {
@@ -292,7 +406,11 @@ const thumbs = [
 				<div class="section-head">
 					<span class="eyebrow">Browse by Category</span>
 					<h2>Find Your <em>Orbit</em></h2>
-					<p>Jump straight into the corner of space that fascinates you most.</p>
+					<p>
+						Jump straight into the corner of space that fascinates you most. Each category gathers the
+						coverage from its beat in one place, so a mission or a discovery you follow never goes cold
+						between editions.
+					</p>
 				</div>
 				<div class="cat-grid">
 					{
@@ -313,6 +431,82 @@ const thumbs = [
 		<section class="section" style="background: var(--bg-soft); border-top: 1px solid var(--border); border-bottom: 1px solid var(--border);">
 			<div class="section-inner">
 				<div class="section-head">
+					<span class="eyebrow">The Big Picture</span>
+					<h2>We Are Living Through a <em>New Space Age</em></h2>
+				</div>
+				<div class="prose">
+					<p>
+						Something fundamental has changed in humanity's relationship with space. A generation ago, a rocket
+						launch was a rare national occasion, announced weeks ahead and watched by the whole world. Today,
+						orbital launches happen several times a week, every week, from spaceports on four continents. The
+						world attempted more than 250 orbital launches in 2024, roughly double the busiest years of the
+						Apollo era, and the pace has not slowed since. The reason is not a single breakthrough but a stack
+						of them: reusable first stages that fly home and land themselves, mass-produced satellites built on
+						assembly lines instead of in clean-room cathedrals, and launch vehicles designed from the start to
+						fly often and cheaply. Space has become infrastructure, and infrastructure rewards those who pay
+						attention early.
+					</p>
+					<p>
+						Nowhere is the change more visible than in the return to the Moon. NASA's Artemis programme is
+						bringing astronauts back to lunar space for the first time since Apollo 17 in 1972, this time to
+						stay: the long-term goal is a sustained presence around the lunar south pole, where craters in
+						permanent shadow hold water ice that can become drinking water, oxygen, and even rocket propellant.
+						America is not going alone, and it is not going unchallenged. China has landed a series of
+						increasingly ambitious robotic missions, including the first sample return from the Moon's far side,
+						and has announced its intention to land its own astronauts before 2030. India has landed near the
+						south pole, Japan has put a lander down with pinpoint precision, and commercial companies are
+						delivering cargo to the surface under NASA contracts. The Moon has become the proving ground where
+						the next fifty years of exploration will be rehearsed.
+					</p>
+					<p>
+						Low Earth orbit, meanwhile, is turning into an economy. Fleets of thousands of satellites, led by
+						Starlink and now joined by China's GuoWang network and others, are beaming broadband to ships,
+						aircraft, and villages that fibre will never reach. The International Space Station, continuously
+						inhabited since November 2000, is planned to retire around 2030, and commercial stations are being
+						built to take its place as laboratories, film sets, and destinations for private astronauts.
+						Companies are testing in-orbit manufacturing, satellite servicing, and debris removal, because an
+						orbit full of working hardware is an orbit worth maintaining. Every one of these ventures can fail,
+						and some of them will; the value of honest coverage is knowing which milestones were actually
+						reached and which were only announced.
+					</p>
+					<p>
+						Above the traffic, the great observatories are rewriting astronomy. The James Webb Space Telescope,
+						parked 1.5 million kilometres from Earth at the Sun–Earth L2 point, is dissecting the atmospheres
+						of planets around other stars and finding mature galaxies far earlier in cosmic history than
+						theories predicted. Hubble, launched in 1990, still works alongside it. On the ground, a new
+						generation of extremely large telescopes is rising in the Chilean Andes, with mirrors tens of metres
+						across. Robotic explorers are spread across the solar system: a spacecraft launched in 2024 is
+						cruising toward Jupiter's ocean moon Europa, rovers are caching samples on Mars for a future return,
+						and asteroid missions have already delivered pieces of ancient worlds to laboratories on Earth.
+						This is the richest era of discovery since the first telescopes were pointed at the sky, and most of
+						it happens in announcements, data releases, and mission updates that deserve more than a headline.
+					</p>
+					<p>
+						The economics explain the momentum. Industry estimates value the global space economy at more than
+						$600 billion a year, and the fastest growth is no longer in government programmes alone but in
+						commercial services: broadband constellations, Earth-imaging subscriptions, rideshare launches that
+						let a university fly a satellite for the price of a house. Lower launch costs compound through
+						everything built on top of them. A sensor that would once have waited a decade for a bespoke ride
+						to orbit now flies within a year, which means more data, more science, and more companies whose
+						business plans begin with the words "in orbit". Covering that economy honestly, separating the
+						manifests that flew from the decks that were only presented, is part of the same job.
+					</p>
+					<p>
+						That is why SpaceNews exists. We publish five editions a day, every day, following launches as they
+						happen and discoveries as they are confirmed, and we hold ourselves to a simple standard: liftoff
+						is not deployment, a target date is not a promise, and a claim is not a fact until a source we can
+						name has confirmed it. Whether you are a lifelong space enthusiast, an investor trying to
+						understand the fastest-growing sector of the aerospace industry, or a student deciding whether the
+						future might have a place for you in it, this is where the new space age gets documented, one
+						verified story at a time.
+					</p>
+				</div>
+			</div>
+		</section>
+
+		<section class="section">
+			<div class="section-inner">
+				<div class="section-head">
 					<span class="eyebrow">Every Angle Covered</span>
 					<h2>Space, From Every <em>Angle</em></h2>
 				</div>
@@ -329,6 +523,95 @@ const thumbs = [
 							</div>
 						))
 					}
+				</div>
+			</div>
+		</section>
+
+		<section class="section" style="background: var(--bg-soft); border-top: 1px solid var(--border); border-bottom: 1px solid var(--border);">
+			<div class="section-inner">
+				<div class="section-head">
+					<span class="eyebrow">Inside Our Coverage</span>
+					<h2>Four Beats, One <em>Standard</em></h2>
+					<p>Every SpaceNews story belongs to one of four beats. Here is what each one actually involves.</p>
+				</div>
+				<div class="deep-grid">
+					<div class="deep-block">
+						<h3>Missions: From Countdown to Confirmed Result</h3>
+						<p>
+							Mission coverage is the heartbeat of SpaceNews. Before a launch, our previews lay out the window
+							in plain language: when it opens and closes, which booster and spacecraft are flying and how many
+							times they have flown before, what the payload is, and where the booster will try to land. After
+							liftoff, we apply the distinction that matters most and is most often skipped: a rocket leaving
+							the pad is not the same as a satellite reaching its orbit, and neither is the same as that
+							satellite being confirmed deployed and alive. Deployment is only reported as fact when the
+							operator or an official source confirms it, and for classified missions, where that confirmation
+							never comes, we say exactly that.
+						</p>
+						<p>
+							The same discipline applies between launches. Cruise phases, flybys, dockings, spacewalks, and
+							landings each get covered as dated milestones on a mission timeline, so a reader who arrives
+							halfway through a two-year voyage can reconstruct the whole journey. When something goes wrong,
+							and in spaceflight things do, anomalies are reported with the operator's own words and the
+							evidence available, never with speculation dressed up as certainty.
+						</p>
+					</div>
+					<div class="deep-block">
+						<h3>Technology: The Machines Behind the Headlines</h3>
+						<p>
+							Every mission rides on technology, and the Technology beat explains the machines without the
+							marketing. Reusability is the defining engineering story of this decade: first stages that land
+							on drone ships and concrete pads, fairings fished from the ocean, and now fully reusable systems
+							designed to catch both booster and ship out of the air. We cover the propulsion behind it, from
+							methane-burning engines built for rapid reuse to the electric thrusters that nudge satellites
+							around orbit, and we report specifications from the manufacturer or agency that built the
+							hardware, not from render films.
+						</p>
+						<p>
+							The beat also follows the quieter revolutions: satellites built by the hundreds on production
+							lines, in-orbit refuelling and servicing, new spacesuits and life-support systems, and the
+							instruments that turn raw photons into publishable science. When a company announces a
+							breakthrough, we ask the unfashionable questions: Has it flown? Has it been tested at full scale?
+							Who verified it? Technology coverage earns its readers by treating engineering claims as claims
+							until hardware proves them.
+						</p>
+					</div>
+					<div class="deep-block">
+						<h3>Astronomy: Reading the Universe Carefully</h3>
+						<p>
+							Astronomy moves at the speed of peer review, and our coverage respects that. Exoplanet stories,
+							the most popular in this beat, rest on distinct techniques that measure different things: a
+							transit records a planet's size, a radial-velocity wobble weighs it, a secondary eclipse can take
+							its temperature, and direct imaging photographs the planet itself. Our articles name the
+							technique, the telescope, and the team, and they report uncertainties the way the papers do,
+							because a temperature with an error bar is science and a temperature without one is advertising.
+						</p>
+						<p>
+							Beyond exoplanets, the beat spans black holes caught feeding and flaring, galaxies that challenge
+							cosmology's timeline, supernovae and other transient events that fade within days, and the
+							standing puzzles of the field, from the Hubble tension to the nature of dark matter. Findings are
+							traced to the journal paper or observatory release behind them, linked in every article's Sources
+							section, so any reader can go one level deeper than we did.
+						</p>
+					</div>
+					<div class="deep-block">
+						<h3>Exploration: The Human Story, Told Honestly</h3>
+						<p>
+							Exploration is where spaceflight becomes a human story. This beat follows astronauts and
+							cosmonauts through training, launch, spacewalks, and the long, ordinary, extraordinary days of
+							life aboard a station: the maintenance that keeps a laboratory alive, the experiments that only
+							work in weightlessness, and the handovers between crews from different nations sharing one
+							orbiting home. Commercial crew vehicles and private missions are widening who gets to fly, and we
+							cover that widening as it happens, with the safety record stated as plainly as the spectacle.
+						</p>
+						<p>
+							Looking outward, Exploration tracks the roadmaps that decide where humans go next: the Artemis
+							campaign building toward a sustained lunar presence, the robotic scouts preparing the way, and
+							the Mars ambitions that every lunar system is ultimately rehearsing for. Roadmaps are reported
+							as roadmaps. Schedules in human spaceflight slip for honourable reasons, usually safety, and our
+							coverage treats a delay as information, not failure, while never letting a rendering substitute
+							for a result.
+						</p>
+					</div>
 				</div>
 			</div>
 		</section>
@@ -362,13 +645,182 @@ const thumbs = [
 			</div>
 		</section>
 
+		<section class="section" style="background: var(--bg-soft); border-top: 1px solid var(--border); border-bottom: 1px solid var(--border);">
+			<div class="section-inner">
+				<div class="section-head">
+					<span class="eyebrow">Down to Earth</span>
+					<h2>Why Space <em>Matters</em></h2>
+					<p>
+						Space can look like a luxury until you notice how much of ordinary life already runs through
+						orbit. These are the four services the modern world quietly depends on.
+					</p>
+				</div>
+				<div class="matter-grid" style="margin-top: 0;">
+					<div class="card matter-card">
+						<h3>Watching the Earth</h3>
+						<p>
+							Weather satellites track storms days before landfall, Earth-observation fleets map wildfires,
+							floods, crops, and ice in near real time, and climate records stretching back decades are the
+							evidence base for everything humanity knows about its changing planet. None of that data exists
+							without launches.
+						</p>
+					</div>
+					<div class="card matter-card">
+						<h3>Position and Timing</h3>
+						<p>
+							Navigation constellations do far more than point drivers at destinations. Their atomic-clock
+							signals timestamp financial transactions, synchronise power grids and mobile networks, and
+							guide aircraft, ships, and precision farming. A world without satellite timing would notice
+							within hours.
+						</p>
+					</div>
+					<div class="card matter-card">
+						<h3>Connection Everywhere</h3>
+						<p>
+							Communications satellites link the places cables cannot reach: ocean-going ships, polar
+							stations, disaster zones with their ground networks destroyed, and rural communities beyond
+							the fibre map. Mega-constellations are now turning that emergency capability into everyday
+							broadband.
+						</p>
+					</div>
+					<div class="card matter-card">
+						<h3>Science That Spills Over</h3>
+						<p>
+							Space programmes push technology that returns to Earth: advanced materials, medical imaging,
+							water purification, and the miniaturised sensors in every phone camera all carry spaceflight
+							ancestry. And the pure science, the exoplanets and early galaxies, answers the oldest questions
+							our species has asked.
+						</p>
+					</div>
+				</div>
+				<div class="prose" style="margin-top: 2.5rem;">
+					<p>
+						None of these services arrived by accident. Each rests on decades of launches that had to work,
+						satellites that had to survive, and ground systems that had to be maintained long after the
+						headlines faded. That is the deeper reason launch coverage matters: every successful mission is a
+						small addition to the machinery modern civilisation already runs on, and every failure is a
+						reminder of how hard-won that machinery is. Following space is not an escape from Earth. Done
+						properly, it is a way of understanding Earth better.
+					</p>
+				</div>
+			</div>
+		</section>
+
+		<section class="section">
+			<div class="section-inner">
+				<div class="section-head">
+					<span class="eyebrow">Our Method</span>
+					<h2>How SpaceNews <em>Covers</em> Space</h2>
+				</div>
+				<div class="prose">
+					<p>
+						Every SpaceNews article starts from primary sources: the space agency, launch provider, observatory,
+						or research team behind the story. Official mission pages, agency releases, and peer-reviewed papers
+						sit at the top of our sourcing hierarchy, followed by reputable specialist reporting, and every
+						article ends with a Sources section linking to what was actually consulted, so the chain of
+						evidence is visible rather than implied. Figures, dates, and quotations are checked against those
+						sources before publication, and anything that cannot be verified is either left out or labelled
+						with its true status: a target, an estimate, or an analyst's assessment.
+					</p>
+					<p>
+						Launch coverage follows stricter rules still, because launches are where space reporting most often
+						goes wrong. Windows are re-verified before every preview and every result article, since schedules
+						move by hours without ceremony. A result is only declared when the milestone it claims has been
+						confirmed by the operator, and when confirmation is impossible, as with classified payloads whose
+						deployment is never announced, the article says so in plain words. Our newsroom also uses
+						AI-assisted tools in research and production, inside the human verification process described in
+						our <a href="/editorial-policy/">editorial policy</a>; the standards, not the tools, decide what
+						gets published.
+					</p>
+					<p>
+						The publishing rhythm matches the subject. Five editions a day, from morning to evening, means a
+						launch that lifts off at dawn is reported the same morning, a result confirmed at midday is settled
+						by afternoon, and a discovery published overnight is explained before the day is out. Each edition
+						is checked before it ships, and each article carries its category, its sources, and its place in
+						the longer story, so a reader following one mission across months can always find the thread.
+					</p>
+					<p>
+						And when we get something wrong, the record shows it. Our <a href="/corrections/">corrections
+						policy</a> explains how to report an error, what gets corrected, and how updates are marked inside
+						the article itself, because a news site about science should behave the way science does: publish
+						the evidence, show the method, and correct the record in the open.
+					</p>
+				</div>
+			</div>
+		</section>
+
+		<section class="section" style="background: var(--bg-soft); border-top: 1px solid var(--border); border-bottom: 1px solid var(--border);">
+			<div class="section-inner">
+				<div class="section-head">
+					<span class="eyebrow">Good Questions</span>
+					<h2>Space, <em>Explained</em></h2>
+					<p>The questions readers ask us most, answered the way our articles answer everything: with the evidence first.</p>
+				</div>
+				<div class="faq-list">
+					{
+						faqs.map((f) => (
+							<div class="card faq-item">
+								<h3>{f.q}</h3>
+								<p>{f.a}</p>
+							</div>
+						))
+					}
+				</div>
+			</div>
+		</section>
+
+		<section class="section">
+			<div class="section-inner">
+				<div class="section-head">
+					<span class="eyebrow">Never Miss a Milestone</span>
+					<h2>The Rhythm of the <em>Space Calendar</em></h2>
+				</div>
+				<div class="prose">
+					<p>
+						Space news has a rhythm, and learning it makes the whole field easier to follow. Launches come
+						first: they cluster inside windows dictated by orbital mechanics, so a week can hold five liftoffs
+						from three continents and the next can hold none. Around the launches runs the slower calendar of
+						station life: crew rotations roughly every six months, cargo ships arriving and departing,
+						spacewalks scheduled to the hour and sometimes postponed to the season. Further out, planetary
+						missions measure their lives in years: a probe launched today may cruise for half a decade before
+						its one great day at a distant moon, and its most important photographs may arrive years after
+						the team that built it has moved on.
+					</p>
+					<p>
+						The sky itself keeps appointments too. Meteor showers return on fixed dates, the Perseids every
+						August, the Geminids every December, the Leonids each November, with rates that depend on the
+						Moon and the weather more than on the shower. Eclipses trace their narrow paths across the map
+						years in advance. Planets reach opposition, comets round the Sun, and telescopes publish their
+						seasons of data in archives anyone can open. A good space publication treats all of it as one
+						continuous calendar: previews before each window so readers know what to watch for, results after
+						each milestone so the record is settled, and explainers in the quiet stretches, when there is
+						finally time to ask how a rocket engine works, why a telescope sees in infrared, or what a newly
+						found world might actually be like. For readers who watch the sky themselves, our previews carry
+						the practical details too: the local time of the peak, the Moon phase that helps or hurts, and an
+						honest range for what a dark sky can deliver, never a guaranteed spectacle.
+					</p>
+					<p>
+						That rhythm is why SpaceNews publishes five times a day rather than once. A launch window that
+						opens at dawn in one hemisphere is an evening story in another; a discovery announced in a journal
+						deserves the same care as a liftoff. Whenever something in the calendar fires, and something
+						almost always is firing, the coverage here follows the same sequence: verify the schedule, report
+						the event, confirm the result, and link the sources. New readers usually start with the latest
+						articles below the hero, then settle into a favourite beat; returning readers tend to arrive with
+						one question, about one mission, and leave with the answer and its evidence attached. Either way,
+						bookmark the <a href="/blog">blog</a>, and the calendar will take care of the rest.
+					</p>
+				</div>
+			</div>
+		</section>
+
 		<section class="section cta-band">
 			<div class="section-inner">
 				<span class="eyebrow">Ready to Get Started?</span>
 				<h2>Start Your <em>Journey</em> Today</h2>
 				<p>
 					From launch pads to distant galaxies — SpaceNews covers every step of
-					humanity’s adventure among the stars.
+					humanity’s adventure among the stars, five editions a day, with every
+					claim traced to its source.
 				</p>
 				<a class="btn btn-primary" href="/blog">Explore the Blog</a>
 			</div>
