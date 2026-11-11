@@ -1,6 +1,6 @@
 ---
 title: "ESCAPADE Powered Earth Flyby November 2026: NASA's Twin Probes Slingshot to Mars"
-description: "ESCAPADE powered Earth flyby November 2026 sent NASA's twin spacecraft on their way to Mars, the first time any mission has used a powered flyby of Earth to leave for the Red Planet. Blue and Gold fired their engines for about nine minutes each on November 7 and 9, gaining more than 1,000 miles per hour on the way to a September 2027 arrival."
+description: "ESCAPADE powered Earth flyby November 2026 sent NASA's twin spacecraft on their way to Mars, the first time any mission has used a powered flyby of Earth to leave for the Red Planet. Blue and Gold each fired their engines for about nine minutes on November 7 and 9."
 pubDate: 2026-11-10
 category: 'Missions'
 ---
