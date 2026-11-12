@@ -1,6 +1,6 @@
 ---
 title: "NASA Astronaut Applications December 3 2026: Your Shot at the Moon Base Era"
-description: "The NASA astronaut applications December 3, 2026 deadline is the last call for U.S. citizens who want to join the agency's next class of explorers — the people who could walk on the Moon, live at the Moon Base, and help carry crews to Mars. Selection comes in late 2027, after a review that starts the moment the window closes."
+description: "The NASA astronaut applications December 3, 2026 deadline is the last call for U.S. citizens who want to join the next class of explorers — the people who could walk on the Moon and live at the Moon Base. Selection comes in late 2027."
 pubDate: 2026-11-12
 category: 'Exploration'
 ---
