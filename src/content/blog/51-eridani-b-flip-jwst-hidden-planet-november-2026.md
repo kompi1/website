@@ -1,6 +1,6 @@
 ---
 title: "51 Eridani b FLIP JWST: The Hidden Giant Found in Two-Year-Old Webb Data"
-description: "51 Eridani b FLIP JWST research has recovered a giant exoplanet from two-year-old Webb images that standard processing could not see. A Northwestern-led team reports in Nature that its new glare-removal method makes the telescope up to 15 times more sensitive, opening the archives to a fresh hunt for hidden worlds."
+description: "51 Eridani b FLIP JWST research recovered a giant exoplanet from two-year-old Webb images. A Northwestern-led team's new glare-removal method makes the telescope up to 15 times more sensitive."
 pubDate: 2026-11-15
 category: 'Astronomy'
 ---
