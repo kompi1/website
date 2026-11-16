@@ -1,6 +1,6 @@
 ---
 title: "KOEN Kinosputnik Launch November 14 2026: Russia's First Private Satellites Reach Orbit"
-description: "The KOEN Kinosputnik launch November 14 2026 put Russia's first privately built satellites into orbit as a launch's primary payload, part-funded by Roscosmos under its national Kosmos project. The two Earth-imaging spacecraft promise half-metre-class pictures, but the state sets the rules for who can buy them."
+description: "The KOEN Kinosputnik launch November 14 2026 put Russia's first privately built satellites into orbit as a launch's primary payload, part-funded by Roscosmos under its national Kosmos project."
 pubDate: 2026-11-15
 category: 'Missions'
 ---
