@@ -1,6 +1,6 @@
 ---
 title: "10 Solar Mass Black Holes Failed Supernovae: The Stars That Died Without Exploding"
-description: "10 solar mass black holes formed in failed supernovae may explain why most merging black holes weigh about ten Suns — and why almost none weigh 12 to 16. A Caltech-led study of 257 gravitational-wave mergers finds a striking peak, a puzzling gap, and a possible population of stars that collapsed without ever exploding."
+description: "10 solar mass black holes formed in failed supernovae may explain why most merging black holes weigh about ten Suns — and why almost none weigh 12 to 16. A Caltech-led study of 257 mergers finds the peak, the gap, and the silent stars behind them."
 pubDate: 2026-11-18
 category: 'Astronomy'
 ---
